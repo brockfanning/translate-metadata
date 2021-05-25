@@ -1,0 +1,38 @@
+ORGANISATION_UNIT: <p>Department of Planning Statistics and Summation</p>
+SDG_GOAL: <p>1. End poverty in all its forms everywhere</p>
+SDG_TARGET: >-
+  <p>1.3 Implement the national support system social protection and measures
+  various throughout country and decision to has made a lot of sense coverage of
+  this system to the poor and vulnerable people By the year 2030</p>
+SDG_INDICATOR: >-
+  <p>1.3.1 Proportion of poor and vulnerable people receiving emergency social
+  services</p>
+SDG_SERIES_DESCR: >-
+  <p>1.3.1 Proportion of poor population receiving social assistance cash
+  benefit [1.3.1] (SI_COV_POOR)</p>
+META_LAST_UPDATE: <p>2020</p>
+CONTACT_ORGANISATION: <p>Ministry of Social Affairs, Veterans and Youth Rehabilitation</p>
+CONTACT_NAME: <p>Mr. Yim Komsan</p>
+CONTACT_FUNCT: <p>Chief of Bureau in charge of Statistics</p>
+CONTACT_PHONE: <p>+855 16 626 211</p>
+CONTACT_MAIL: >-
+  <p>No. 788 Monivong Blvd, Sangkat Boeng Trabek, Khan Chamkarmon, Phnom Penh,
+  Cambodia</p>
+CONTACT_EMAIL: <p>mosvy.dpss.gmail.com</p>
+STAT_CONC_DEF: >-
+  <p>Population living below the national poverty line and people who are unable
+  to cope with the crisis or are at high risk of crisis ) Receiving first aid
+  services among the total poor and vulnerable</p>
+UNIT_MEASURE: <p>Percent</p>
+SOURCE_TYPE: <p>Administration information system</p>
+COLL_METHOD: <p>Administration information system</p>
+FREQ_COLL: <p>Once a year </p>
+REL_CAL_POLICY: <p>Once a year </p>
+DATA_SOURCE: <p>Department of Social Welfare</p>
+COMPILING_ORG: <p>Department of Planning Statistics and Summation</p>
+INST_MANDATE: <p>Ministry of Social Affairs, Veterans and Youth Rehabilitation</p>
+DATA_COMP: >-
+  <p>The indictor is computed by dividing the number of poor and vulnerable
+  people receiving emergency social services to the total number of poor and
+  vulnerable people and multiply by 100.</p>
+DOC_METHOD: <p>Following methods and guidance of NIS</p>

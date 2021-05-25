@@ -1,0 +1,36 @@
+ORGANISATION_UNIT: <p>Department of Planning Statistics and Summation</p>
+SDG_GOAL: <p>10. Reduce inequality in the country and among other countries</p>
+SDG_TARGET: >-
+  <p>10.4 Agree on policies, especially fiscal policy, salaries, social
+  protection and achieve more equality</p>
+SDG_INDICATOR: <p>10.4.1 Retirees and people with disabilities</p>
+SDG_SERIES_DESCR: <p>0.0.0 National series not in global framework (_)</p>
+META_LAST_UPDATE: <p>November, 2020</p>
+CONTACT_ORGANISATION: <p>Ministry of Social Affairs, Veterans and Youth Rehabilitation</p>
+CONTACT_NAME: <p>Mr. Yim Komsan</p>
+CONTACT_FUNCT: <p>Chief of Bureau in charge of Statistics</p>
+CONTACT_PHONE: <p>+855 16 626 211</p>
+CONTACT_MAIL: >-
+  <p>No. 788 Monivong Blvd, Sangkat Boeng Trabek, Khan Chamkarmon, Phnom Penh,
+  Cambodia</p>
+CONTACT_EMAIL: <p>mosvy.dpss.gmail.com</p>
+STAT_CONC_DEF: >-
+  <p>Retired is a retired civil servant who receives a monthly stipend provided
+  by the state based on age 55 and older and 20 years of seniority.</p>
+
+  <p>Disability is a civil servant who can no longer work due to loss of
+  professional ability and receives a monthly salary provided by the state and
+  has a seniority of 20 years or more.</p>
+UNIT_MEASURE: <p>Person</p>
+SOURCE_TYPE: <p>Data System of National Social Security Fund for Civil Servants</p>
+COLL_METHOD: <p>Administrative record from all provincial department</p>
+FREQ_COLL: <p>Once a year</p>
+REL_CAL_POLICY: <p>Once a year</p>
+DATA_SOURCE: <p>National Social Security Fund for Civil Servants</p>
+COMPILING_ORG: <p>Department of Planning Statistics and Summation</p>
+INST_MANDATE: <p>Ministry of Social Affairs, Veterans and Youth Rehabilitation</p>
+DATA_COMP: >-
+  <p>Retirement and disability figures are recorded by the Retirement and
+  Disability Data Management System by the reporting year.</p>
+DOC_METHOD: <p>Following methods and guidance of NIS</p>
+OTHER_DOC: <p>Report from National Social Security Fund for Civil Servants</p>

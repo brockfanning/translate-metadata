@@ -1,0 +1,129 @@
+ORGANISATION_UNIT: <p>Demographic Statistics, Population and Survey Department</p>
+SDG_GOAL: >-
+  <p>Goal 2: End hunger, achieve food security and improved nutrition and
+  promote sustainable agriculture</p>
+SDG_TARGET: >-
+  <p>2.2: by 2030 end all forms of malnutrition, including achieving by 2025 the
+  internationally agreed targets on stunting and wasting in children under five
+  years of age, and address the nutritional needs of adolescent girls, pregnant
+  and lactating women, and older persons</p>
+SDG_INDICATOR: >-
+  <p>2.2.3 Prevalence of anaemia in women aged 15 to 49 years, by pregnancy
+  status </p>
+SDG_SERIES_DESCR: |-
+  <p>2.2.3 Proportion of women aged 15-49 years with anaemia, pregnant</p>
+  <p>2.2.3 Proportion of women aged 15-49 years with anaemia, non-pregnant</p>
+META_LAST_UPDATE: <p>November 2020</p>
+CONTACT_ORGANISATION: <p>National Institute of Statistics (NIS), Ministry of Planning</p>
+CONTACT_NAME: <p>Phan Chinda (Mr)</p>
+CONTACT_FUNCT: <p>Deputy Director General</p>
+CONTACT_PHONE: <p>+855 012 867 581</p>
+CONTACT_MAIL: "<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​\_Cambodia</p>"
+CONTACT_EMAIL: <p>phanchinda@yahoo.com</p>
+STAT_CONC_DEF: >-
+  <p>Percentage of women aged 15−49 years with a haemoglobin concentration less
+  than 120 g/L for non-pregnant women and lactating women, and less than 110 g/L
+  for pregnant women, adjusted for altitude and smoking.</p>
+
+  <p>Anaemia: condition in which the concentration of blood haemoglobin falls
+  below established cut-off values.</p>
+
+  <p>Iron deficiency state in which there is insufficient iron to maintain the
+  normal physiological function of blood, brain and muscles (ICD-11, 5B5K.0 iron
+  deficiency)</p>
+
+  <p>Iron deficiency anaemia: (ICD-11, 3A00, iron deficiency anaemia)</p>
+
+  <p>Blood haemoglobin concentration: concentration of haemoglobin in whole
+  blood</p>
+UNIT_MEASURE: <p>Percent</p>
+SOURCE_TYPE: <p>Cambodia Demographic and Health Survey (CDHS)</p>
+COLL_METHOD: >-
+  <p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS,
+  similar surveys known as Demographic Survey 1996 was also conducted by the NIS
+  and followed by Nation Health Survey 1998 was conducted by Ministry of
+  Health.</p>
+
+  <p>The CDHS is national household survey covering many areas related to the
+  demographic and health situation within the population. It includes
+  information on demography, family planning, infant and child mortality,
+  domestic violence, and health-related information such as breastfeeding,
+  antenatal care, children’s immunization, childhood diseases, and HIV/AIDS.
+  Also, the questionnaires are designed to evaluate the nutritional status of
+  mothers and children and to measure the prevalence of anemia.</p>
+
+  <p>The survey covered a sample of 15,000 plus households. All women age 15-49
+  in these households and all men aged 15-49 in a sub-sample of one-half of the
+  households were eligible to be individually interviewed. The questionnaire is
+  conducted in three parts for household, women and men in the household
+  supplemented by blood collection for HIV and hemoglobin testing. </p>
+
+  <p>The CDHS data were collected by 17 teams, each consisting of a team
+  supervisor, a field editor, and four female interviewers. Each team was in
+  charge of data collection in one province or a group of provinces.
+  Coordination and supervision of the interviewing activities were done by four
+  survey coordinators and four supervisory staff members from the National
+  Institute of Statistics and the Ministry of Health. Data collection took place
+  over a six-month period, from February to July in the year of survey.</p>
+
+  <p>The detailed documentations of the survey, such as questionnaire, filed
+  operation annual and technical report on survey design and implementation are
+  stored in NADA (National Data Archive), NIS website: <a
+  href="http://nada.nis.gov.kh/index.php/home">http://nada.nis.gov.kh/index.php/home</a></p>
+FREQ_COLL: '<p>The next round survey: Quater3, 2021</p>'
+REL_CAL_POLICY: <p>One year after the reference period of the survey</p>
+DATA_SOURCE: <p>National Institute of Statistics</p>
+COMPILING_ORG: <p>National Institute of Statistics</p>
+INST_MANDATE: >-
+  <p>By virtue of the article 12 of Statistics Law, NIS in is responsible
+  for:</p>
+
+  <ul>
+    <li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li>
+    <li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators; </li>
+    <li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li>
+    <li>Functioning as the central repository of CSDG/SDG indicators.</li>
+  </ul>
+RATIONALE: >-
+  <p>Anaemia is highly prevalent globally, disproportionately affecting children
+  and women of reproductive age. It negatively affects cognitive and motor
+  development and work capacity, and among pregnant women iron deficiency
+  anaemia is associated with adverse reproductive outcomes, including preterm
+  delivery, low-birth-weight infants, and decreased iron stores for the baby,
+  which may lead to impaired development. Iron deficiency is considered the most
+  common cause of anaemia, but there are other nutritional and non-nutritional
+  causes. Blood haemoglobin concentrations are affected by many factors,
+  including altitude (metres above sea level), smoking, trimester of pregnancy,
+  age and sex. Anaemia can be assessed by measuring blood haemoglobin, and when
+  used in combination with other indicators of iron status, blood haemoglobin
+  provides information about the severity of iron deficiency. The anaemia
+  prevalence for the population is used to classify the public health
+  significance of the problem.</p>
+REC_USE_LIM: >-
+  <p>Despite the extensive data search, data for blood haemoglobin
+  concentrations are still limited, compared to other nutritional indicators
+  such as child anthropometry (1, 24); this was especially true in the
+  high-income countries of the WHO European Region. As a result, the estimates
+  may not capture the full variation across countries and regions, tending to
+  “shrink” towards global means when data are sparse. Additionally, it was not
+  possible to incorporate into the analyses some potentially important
+  predictors of blood haemoglobin concentration, especially dietary iron and
+  iron supplementation, because of limited data.</p>
+DATA_COMP: >-
+  <p>Number of the anemic women aged 15-49 years divided by number of the total
+  women aged 15-49 years.</p>
+
+  <p>The anaemia status of women is assessed using blood haemoglobin
+  concentrations. In surveys, blood haemoglobin concentrations are typically
+  measured using the direct cyanmethemoglobin method in a laboratory or with a
+  portable, battery-operated, haemoglobin photometer in the field that uses the
+  azide-methaemoglobin method.</p>
+COVERAGE: >-
+  <p>Data available based on CDHS 2000, 2005, 2010 and 2014.</p>
+
+  <p>Data are available by age groups, sex, wealth, mothers' education
+  geographic location (urban/rural) and by sub national and stratified estimates
+  (e.g. sex, age groups, wealth, mothers' education, residence).</p>
+OTHER_DOC: >-
+  <p>Cambodia Demographic and Health Survey Reports: <a
+  href="https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6">https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6</a></p>
