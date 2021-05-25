@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;The number of neonatal deaths divided by total number of live births and multiplies result by 1,000&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

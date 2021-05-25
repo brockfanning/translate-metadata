@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;6.2.1 Proportion of population practicing open defecation [6.2.1] (SH_SAN_DEFECT)&lt;/p&gt;
+&lt;p&gt;6.2.1 Proportion of population with basic handwashing facilities on premises [6.2.1] (SH_SAN_HNDWSH)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

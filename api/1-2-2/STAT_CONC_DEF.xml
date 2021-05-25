@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;The child poverty rate is the percentage of all children who live in poor households. This means that we are looking at the characteristics of children who live in households who are poor.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>An array of indicator ids</message>
+	<data>
+		<indicators>
+			<indicator id="1-2-1">1-2-1
+			</indicator>
+			<indicator id="1-2-2">1-2-2
+			</indicator>
+			<indicator id="1-3-1">1-3-1
+			</indicator>
+			<indicator id="1-5-1">1-5-1
+			</indicator>
+			<indicator id="1-a-2">1-a-2
+			</indicator>
+			<indicator id="10-1-1">10-1-1
+			</indicator>
+			<indicator id="10-4-1">10-4-1
+			</indicator>
+			<indicator id="2-2-1">2-2-1
+			</indicator>
+			<indicator id="2-2-2">2-2-2
+			</indicator>
+			<indicator id="2-2-3">2-2-3
+			</indicator>
+			<indicator id="2-3-1">2-3-1
+			</indicator>
+			<indicator id="3-1-1">3-1-1
+			</indicator>
+			<indicator id="3-1-2">3-1-2
+			</indicator>
+			<indicator id="3-2-1">3-2-1
+			</indicator>
+			<indicator id="3-2-2">3-2-2
+			</indicator>
+			<indicator id="4-3-2">4-3-2
+			</indicator>
+			<indicator id="6-1-1">6-1-1
+			</indicator>
+			<indicator id="6-2-1">6-2-1
+			</indicator>
+			<indicator id="7-1-1">7-1-1
+			</indicator>
+			<indicator id="7-1-2">7-1-2
+			</indicator>
+			<indicator id="9-2-1">9-2-1
+			</indicator>
+</indicators>
+</data>
+</root>

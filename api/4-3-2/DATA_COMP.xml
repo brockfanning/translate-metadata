@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 4-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;Number of trainees, students enrolled in TVET, aged 15-24 yrs devided by Population aged (15-24 yrs and multiply with 100&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

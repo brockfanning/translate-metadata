@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 7-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;7.1 By 2030, ensure universal access to affordable, reliable and modern energy services&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

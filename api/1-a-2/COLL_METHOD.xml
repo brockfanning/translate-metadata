@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 1-a-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;Data on total general government expenditure (all sectors) are obtained from the MEF financial database and are updated once a year. Whereas data on specific sectoral expenditure, such as education expenditure, health expenditure are provided by MEYS, MOH, etc.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 2-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;2.2.2 Children moderately or severely wasted (number)&lt;/p&gt;
+&lt;p&gt;2.2.2 Proportion of children moderately or severely overweight&lt;/p&gt;
+&lt;p&gt;2.2.2 Children moderately or severely overweight (number)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;The analysis of this indicator provides child-based estimates of monetary poverty based on the World Bank poverty analysis in the 2009 Cambodian Social and Economic Survey. We show how overall population poverty compares to child poverty (for those aged 17 and under) and then give a range of poverty profiles for poor children. In addition, we show the overlapping populations of children according to monetary poverty and deprivation status – as shown in the UNICEF Cambodia 2012 profile of child poverty using deprivation measures. &lt;/p&gt;
+&lt;p&gt;Our profiling has been undertaken with Situational Analysis in mind, and we have additionally shown a descriptive multi-variate regression of child poverty risk that shows the correlations between a range of geographic, household and economic factors that can inform discussions of the determinants of child well-being and especially on ‘financial barriers’.&lt;/p&gt;
+&lt;p&gt;A more in-depth analysis of the relationship between monetary poverty and child deprivation is contained in an accompanying paper, which is more exploratory in nature in order to examine the relationship between deprivation and consumption levels below, at and above the poverty line.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

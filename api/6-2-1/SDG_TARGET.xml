@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;6.2: By 2030, achieve access to adequate and equitable sanitation and hygiene for all and end open defecation, paying special attention to the needs of women and girls and those in vulnerable situations&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

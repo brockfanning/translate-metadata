@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 1-a-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;In some instances data on total public expenditure on education refer only to the Ministry of Education, Youth and Sport, excluding other ministries may also spend a part of their budget on educational activities.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

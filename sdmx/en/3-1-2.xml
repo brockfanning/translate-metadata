@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-25T18:39:08.260Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="1516d70c-30fd-4319-84c8-b776f96c696f">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_BRTC</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>116</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.2)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[<p>Demographic Statistics, Population and Survey Department</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[<p>3. Ensure healthy lives and promote well-being for all at all ages</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[<p>3.1 By 2030, reduce the global maternal mortality ratio to less than 70 per 100,000 live births</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[<p>3.1.2 Proportion of births attended by skilled health personnel</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>November 2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics (NIS), Ministry of Planning</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[<p>Phan Chinda (Mr)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[<p>Deputy Director General</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[<p>+855 012 867 581</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"><![CDATA[<p>No. 386 Street 360, Sangkat Boeung Kengkang I, Khan Chamkarmon, Phnom Penh,​ Cambodia</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[<p>phanchinda@yahoo.com</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[<p>It refers to the proportion of deliveries that were attended by skilled health personnel including physicians, medical assistants, midwives and nurses but excluding traditional birth attendants</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[<p>Percent</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Demographic and Health Survey (CDHS)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[<p>The CDHS was conducted in 2000, 2005, 2010 and 2014. Before the CDHS, similar surveys known as Demographic Survey 1996 was also conducted by the NIS and followed by Nation Health Survey 1998 was conducted by Ministry of Health.</p>
+<p>The CDHS is national household survey covering many areas related to the demographic and health situation within the population. It includes information on demography, family planning, infant and child mortality, domestic violence, and health-related information such as breastfeeding, antenatal care, children’s immunization, childhood diseases, and HIV/AIDS. Also, the questionnaires are designed to evaluate the nutritional status of mothers and children and to measure the prevalence of anemia.</p>
+<p>The survey covered a sample of 15,000 plus households. All women age 15-49 in these households and all men aged 15-49 in a sub-sample of one-half of the households were eligible to be individually interviewed. The questionnaire is conducted in three parts for household, women and men in the household supplemented by blood collection for HIV and hemoglobin testing. </p>
+<p>The CDHS data were collected by 17 teams, each consisting of a team supervisor, a field editor, and four female interviewers. Each team was in charge of data collection in one province or a group of provinces. Coordination and supervision of the interviewing activities were done by four survey coordinators and four supervisory staff members from the National Institute of Statistics and the Ministry of Health. Data collection took place over a six-month period, from February to July in the year of survey.</p>
+<p>The detailed documentations of the survey, such as questionnaire, filed operation annual and technical report on survey design and implementation are stored in NADA (National Data Archive), NIS website: http://nada.nis.gov.kh/index.php/home</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[<p>The next round survey: Qrt3, 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[<p>One year after the reference period of the survey</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[<p>National Institute of Statistics</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[<p>By virtue of the article 12 of Statistics Law, NIS in is responsible for:</p>
+<ul>
+  <li>Collecting, processing, compiling, analyzing, publishing and disseminating basic data by conducting censuses and surveys, and utilizing administrative data sources;</li>
+  <li>Compiling national accounts and price indexes, as well as economic, environment and socio-demographic indicators; </li>
+  <li>Coordination with line ministries as data producers as mandated by the Statistics Law; and</li>
+  <li>Functioning as the central repository of CSDG/SDG indicators.</li>
+</ul>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[<p> Having a skilled attendant at the time of childbirth is an important lifesaving intervention for both women and babies. Not having access to this key assistance is detrimental to women's health because it could cause the death of the women or long lasting morbidity, especially in vulnerable settings.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[<p>Survey estimates come with levels of uncertainty due to both sampling error and non-sampling error (e.g. mesasurement technical error, recording error etc.,). None of the two sources of errros have been fully taken into account for deriving estimates neither at country nor at regional and global levels.</p>
+<p>The weights for each survey observation are determined by the sampling design, design weights, and adjusted for non-response and other imperfections such as under coverage or, adjusted to improve the precision of estimates.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[<p>The number of women aged 15-49 with a live birth attended by skilled health personnel (doctors, nurses or midwives) during delivery is expressed as a percentage of women aged 15-49 with a live birth in the same period.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[<p>Data disaggregation is available for various socio-economic characteristics including residence (urban/rural), household wealth quintiles, education level of the mother, maternal age, geographic regions (provinces).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[<p>Cambodia Demographic and Health Survey Report: <a href="https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6">https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

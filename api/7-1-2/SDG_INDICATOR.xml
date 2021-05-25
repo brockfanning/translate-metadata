@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 7-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;7.1.2 Proportion of population with primary reliance on clean fuels and technology [7.1.2] (EG_EGY_CLEAN)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

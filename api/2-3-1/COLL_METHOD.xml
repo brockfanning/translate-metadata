@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 2-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;Cambodia Inter-Censual Agriculture Survey (CIAS) was conducted by the NIS first time in 2019. The CIAS 2019 reveals that 75 percent of the total holdings of the country are small-scale. In fact, the labour productivity of the small holders is equal to 13,182 Riels or 9.02 PPP (constant 2011 international USD) per labour day, against 78,554 Riel or 53.8 PPP per labour-day of the non-small holders. This not surprising, since the CIAS includes the non-household sector holdings while the EAA covers only the farms operating in the household sector.&lt;/p&gt;
+&lt;p&gt;All the small-scale holders operate less than 3.2 hectares of land; they all have a Tropical Livestock Units (TLU) lower than 2.85 and their volume of production is smaller than 34,380 PPP.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 1-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;The Sendai Framework Monitoring System has been developed to measure the progress in the implementation of the Sendai Framework by UNGA endorsed indicators. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Proxy, alternative and additional indicators:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In most cases international data sources only record events that surpass some threshold of impact and use secondary data sources which usually have non uniform or even inconsistent methodologies, producing heterogeneous datasets.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

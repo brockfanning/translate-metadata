@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 10-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;Cambodia Socio-Economic Survey (CSES)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

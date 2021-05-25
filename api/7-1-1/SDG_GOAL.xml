@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 7-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;7. Ensure access to affordable, reliable, sustainable and modern energy for all&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

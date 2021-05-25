@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_EMAIL field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;&lt;a href=&quot;mailto:unsavin@gmail.com&quot;&gt;unsavin@gmail.com&lt;/a&gt; / &lt;a href=&quot;mailto:un_savin@yahoo.com&quot;&gt;un_savin@yahoo.com&lt;/a&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

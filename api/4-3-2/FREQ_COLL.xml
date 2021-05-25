@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The FREQ_COLL field for indicator 4-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;The Cambodia Voluntary National Review (CVNR) will be produced during four years by four reports; &lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;CVNR 2015-2018, published on June 2019&lt;/li&gt;
+  &lt;li&gt;CVNR 2019-2022, published on June 2023&lt;/li&gt;
+  &lt;li&gt;CVNR 2023-2026, published on June 2027&lt;/li&gt;
+  &lt;li&gt;CVNR 2027-2030, published on June 2030&lt;/li&gt;
+&lt;/ol&gt;
+			</language>
+</languages>
+</data>
+</root>

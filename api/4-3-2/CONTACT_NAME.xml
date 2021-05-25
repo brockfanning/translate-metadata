@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_NAME field for indicator 4-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;1-Mr. Thovy Hsandy&lt;/p&gt;
+&lt;p&gt;2-Mr. CHOM Mom&lt;/p&gt;
+&lt;p&gt;3- Mr. CHOUP Vannak&lt;/p&gt;
+&lt;p&gt;4- Mr. KHEAV Solyna&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

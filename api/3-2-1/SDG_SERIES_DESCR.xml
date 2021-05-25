@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;3.2.1 Under-five deaths (number)&lt;/p&gt;
+&lt;p&gt;3.2.1 Infant mortality rate&lt;/p&gt;
+&lt;p&gt;3.2.1 Infant deaths (number)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

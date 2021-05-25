@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 1-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en">&lt;p&gt;1.5.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>
