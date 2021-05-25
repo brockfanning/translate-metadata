@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-25T19:20:52.354Z</mes:Prepared>
+    <mes:Prepared>2021-05-25T21:56:15.581Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="fe2e1d43-25de-49e9-b1f0-1c355a71f6bc">
+  <mes:MetadataSet structureRef="MDS1" setID="49fdefba-da27-4eda-a5ed-77d5a43df276">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -54,78 +54,79 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១០ ។ កាត់បន្ថយវិសមភាពនៅក្នុងប្រទេសនិងក្នុងចំណោមប្រទេសដទៃទៀត [៦៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១០.៤ យល់ព្រមលើគោលនយោបាយជាពិសេសគោលនយោបាយសារពើពន្ធប្រាក់ខែការគាំពារសង្គមនិងទទួលបានសមភាពបន្ថែមទៀត [១០៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ១០.៤.១ និវត្តន៍ជននិងជនពិការ [៤៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ស៊េរីជាតិ ០.០.០ មិននៅក្នុងក្របខ័ណ្ឌសកល (_) [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ យឹមកឹមសាន [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> mosvy.dpss.gmail.com </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការចូលនិវត្តន៍គឺជាមន្រ្តីរាជការដែលចូលនិវត្តន៍ម្នាក់ដែលទទួលបានប្រាក់ឧបត្ថម្ភប្រចាំខែដែលផ្តល់ដោយរដ្ឋផ្អែកលើអាយុ ៥៥ ឆ្នាំឡើងទៅនិងអាយុ ២០ ឆ្នាំ។
+[១៤៨] ភាពពិការគឺជាមន្រ្តីរាជការម្នាក់ដែលមិនអាចធ្វើការបានទៀតដោយសារតែបាត់បង់សមត្ថភាពជំនាញហើយទទួលបានប្រាក់ខែប្រចាំខែដែលផ្តល់ដោយរដ្ឋនិងមានអតីតភាពការងារចាប់ពី ២០ ឆ្នាំឡើងទៅ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> បុគ្គល [៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធទិន្នន័យបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> កំណត់ត្រារដ្ឋបាលពីគ្រប់មន្ទីរខេត្ត [៥៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[បេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៥១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> តួលេខការចូលនិវត្តន៍និងពិការភាពត្រូវបានកត់ត្រាដោយប្រព័ន្ធគ្រប់គ្រងទិន្នន័យសោធននិវត្តន៍និងជនពិការតាមឆ្នាំរបាយការណ៍។ [១២៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> របាយការណ៍ពីបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៣]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="57c26551-fc45-4b96-a0df-51e788eb996a">
+  <mes:MetadataSet structureRef="MDS1" setID="260edf02-e88e-4407-a556-61725ecf275a">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -150,7 +151,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -168,73 +169,74 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១០ ។ កាត់បន្ថយវិសមភាពនៅក្នុងប្រទេសនិងក្នុងចំណោមប្រទេសដទៃទៀត [៦៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១០.៤ យល់ព្រមលើគោលនយោបាយជាពិសេសគោលនយោបាយសារពើពន្ធប្រាក់ខែការគាំពារសង្គមនិងទទួលបានសមភាពបន្ថែមទៀត [១០៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ១០.៤.១ និវត្តន៍ជននិងជនពិការ [៤៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ស៊េរីជាតិ ០.០.០ មិននៅក្នុងក្របខ័ណ្ឌសកល (_) [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ យឹមកឹមសាន [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> mosvy.dpss.gmail.com </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការចូលនិវត្តន៍គឺជាមន្រ្តីរាជការដែលចូលនិវត្តន៍ម្នាក់ដែលទទួលបានប្រាក់ឧបត្ថម្ភប្រចាំខែដែលផ្តល់ដោយរដ្ឋផ្អែកលើអាយុ ៥៥ ឆ្នាំឡើងទៅនិងអាយុ ២០ ឆ្នាំ។
+[១៤៨] ភាពពិការគឺជាមន្រ្តីរាជការម្នាក់ដែលមិនអាចធ្វើការបានទៀតដោយសារតែបាត់បង់សមត្ថភាពជំនាញហើយទទួលបានប្រាក់ខែប្រចាំខែដែលផ្តល់ដោយរដ្ឋនិងមានអតីតភាពការងារចាប់ពី ២០ ឆ្នាំឡើងទៅ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> បុគ្គល [៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធទិន្នន័យបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> កំណត់ត្រារដ្ឋបាលពីគ្រប់មន្ទីរខេត្ត [៥៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[បេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៥១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> តួលេខការចូលនិវត្តន៍និងពិការភាពត្រូវបានកត់ត្រាដោយប្រព័ន្ធគ្រប់គ្រងទិន្នន័យសោធននិវត្តន៍និងជនពិការតាមឆ្នាំរបាយការណ៍។ [១២៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> របាយការណ៍ពីបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៣]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

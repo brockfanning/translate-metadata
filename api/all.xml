@@ -1922,49 +1922,96 @@
 					<indicators>
 						<indicator id="1-2-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; ការកាត់បន្ថយភាពក្រីក្រនៅកម្ពុជាក្រសួងផែនការ៖ [៥៨]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ស៊ីអេសអេសត្រូវបានធ្វើឡើងដោយវិទ្យាស្ថានអាយអាយអេសជាលើកដំបូងក្នុងឆ្នាំ ១៩៩៣ បន្ទាប់មកនៅឆ្នាំ ១៩៩៦, ១៩៩៧, ១៩៩៩, ២០០៤ និងធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧-២០០៧ ។ ស៊ីអេសអេសត្រូវបានធ្វើឡើងពីរដង (រៀងរាល់ពីរឆ្នាំម្តង) ចាប់ផ្តើមពីឆ្នាំ ២០១៩ តទៅ។
+[២១៧] ទិន្នន័យអាចរកបានតាមតំបន់ (ទីក្រុង / ជនបទ) និងដោយទីតាំងភូមិសាស្ត្រ (ភ្នំពេញ) ។
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរយ៉ាងលឿននៃចំនួនប្រជាជនវាបង្ហាញពីភាពចាំបាច់សម្រាប់គម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង [៤៨១]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; កម្រិតនៃការប្រើប្រាស់ដែលញែកអ្នកក្រីក្រនិងប្រជាជនដែលនៅសល់ត្រូវបានគេហៅថាខ្សែបន្ទាត់ភាពក្រីក្រ។ ជំហានដំបូងក្នុងការគណនាសន្ទស្សន៍ផ្អែកលើការប្រើប្រាស់ដើម្បីវាយតម្លៃកម្រិតនៃការប្រើប្រាស់នៅខាងក្រោមដែលបុគ្គលម្នាក់ៗនឹងត្រូវបានកំណត់ថាជាអ្នកក្រីក្រ៖ ហៅថាបន្ទាត់ក្រីក្រ។ វាត្រូវបានគេដឹងថាប្រសិនបើការប្រើប្រាស់ត្រូវបានបែងចែកជាពីរប្រភេទគឺការប្រើប្រាស់ចំណីអាហារនិងការប្រើប្រាស់មិនមែនម្ហូបអាហារនោះប្រជាជនដែលក្រីក្រគឺមានសមាមាត្រខ្ពស់នៃការប្រើប្រាស់សរុបរបស់ពួកគេដែលត្រូវបានរាប់បញ្ចូលដោយការប្រើប្រាស់អាហារ។ ក្នុងការកំណត់កំរិតការប្រើប្រាស់ដែលអាចត្រូវបានប្រើដើម្បីបំបែកអ្នកក្រីក្រពីអ្នកក្រការទទួលទានអាហារគឺជាវិធានការណ៍សំខាន់បំផុត។ ដូច្នេះខ្សែបន្ទាត់ភាពក្រីក្រនៃចំណីអាហារ (កម្រិតអប្បបរមានៃការប្រើប្រាស់អាហារ) ត្រូវបានគណនាដំបូង។ ប្រាក់ឧបត្ថម្ភអប្បបរមាមិនមែនម្ហូបអាហារត្រូវបានគណនានិងបន្ថែមទៅក្នុងបន្ទាត់ភាពក្រីក្រម្ហូបអាហារដើម្បីផ្តល់នូវបន្ទាត់ភាពក្រីក្រសរុប។ &lt;/p&gt;
+&lt;p&gt; នៅពេលដែលបានកំណត់ខ្សែបន្ទាត់ភាពក្រីក្រស្ថិតិសង្ខេបមួយចំនួនដែលពិពណ៌នាអំពីស្ថានភាពភាពស៊ីជម្រៅនិងភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រអាចត្រូវបានគណនា។ ទាំងនេះរួមមានសន្ទស្សន៍ចំណុចក្បាល (ដែលវាស់អត្រានៃភាពក្រីក្រ) គម្លាតនៃភាពក្រីក្រ (ដែលវាស់ពីជម្រៅនៃភាពក្រីក្រ) និងគំលាតនៃភាពក្រីក្រដែលបានបែងចែក (ដែលវាស់ភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រ) ។ លោក Foster, Greer និង Thorbecke (១៩៨៤) បង្ហាញថាវិធានការណ៍នៃភាពក្រីក្រទាំងបីនេះអាចត្រូវបានគណនាដោយប្រើរូបមន្តដូចតទៅនេះ៖ &lt;/p&gt;
+&lt;p&gt; &lt;img src = &quot;ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAARoAAABCCAYAAACIGRmUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA2bSURBVHhe7Z15kBTVHccfFP4TQVPlgbhoWEWWxAN1BS05RDw4FFSynCpggaKoEZZTAyJidLkxkWMFCsQLkWTlVFSQQy11XTQeIDcJIsSrIhDKVFkhfN72G3pnZ3q6h + + me7tnfp6pru98cPTPb79u / 671X6 + + gxlCAIgo / Utv4KgiD4hgiNIAi + + + + I0IjCILviNAIguA7IjQRZdWqDXqLCnzWefP + + I0IjCILviNAIguA7IjSCIPhO9rJORzdbO4IgRIZav7N2vCEWjSAIviNCIwiC74jQCILgOyI0giD4jgiNIAi + + a5s2V6gBdz + + qg4fPmK1VGfRolXq9DNaqhZX9tDP79FzqOPzheggQhMx6HjDR0xWDRqcoTp1amO1hh8 // zmo9ziefbFHlH3 + + q9u + + S02eNFz96clSNWrkAFW37q + + h9ux + + ZssBqSQ4i03 sZwhRRoQmIOhI3K379nvEaqnEtE / AGNW7103qsst + a7VGhwsu + + + + jkBgRmoCg0zw86m7rqBJjndA + + I2aNnWkGlI8oZrYvPDicnXH7Z21sJSXf6G63nZDJL dGg / qzU5Yx97Rt15R5dId0AssZEj + + qvBQ0pibhGis2 / ហ្វីត + + + + A39uBB9RGhcgLVRq qss07X7tPfyt5S55xzllq8 / aFasWK9VaLd + + + + hUtWvXVj /// N9YB9uw4WN10kl1VLt2V + + tjxCcv70x1dl5b7T6VPFWs5i8oU61bF + + pjJ8y5b775Gv03yiCULZpfrEpLF ++ vHHn9ShQ // rHhegjQuMAgnD9Df3VsOGTrJb04a7dtGm + + vTufZMWFeNCTZk8Qh3935f6LwLz + RLhOcckpd7VI4wedYtnytGjb0Lqsl qpSLUBCbiBC4wDxgrffmqc2VSxRp532a6s1PRCLxo3PVfn5eWrHjn / qti1bduk7e6qA5 / BT / 1D16p2cUx2P79L8iotURYWM4q8JiNAExIED3 + + vOtWvX1 + + q1pWu0FfP6GxtVQUG + + 9YzkrF37obq2bWr3Cgg24 + + bZt6HDJlqPnhjmvQleG4sMcC2x / IxL6BZcxnfWfWgdCbmMCI3P4Bqc37i9urPPKG2Z4BaQXWl26W1qzZoP1PSnFzp2UB7bum23KixMPQ8I5zrvvIbaBTHbqpWztTuSCZ5b8KT6Zt86deqpdbX4GZo3v0jHmnAJvYDY8hrjPgm5iwiNz2DF7NyxWn3 / 3Xs6CDr20UH6L20IAa6Zk + + tkOi + + uUyo4F + + 9v2LixIuMBVT5Hfn5D9dnn26yWSsEo + + v2Nnl07vjfvh7Un5DYiNCGHTkhnTBXHiQeRQdASvS6Re2Xf4mt97PB + + eXn1raNKOFe6xYNnNzhTp7aF3EaEJuTs2bNP7dy51zpyB / ETAs / JxAkXyO5exW88nop9 + + / 6l3TrOdfDgYc / WjAHLaNu2PdaRkKuI0PhAKosh1RZfJUwhm1vo + + AhMuh3fDZdc3ET / RWg2bdqsBgwo0sdA2 / jxsx3jTkLNQ4TGB2Y8M1pdd91Vep + 0 + + PJlMxNaDvHbyhWzTiiNTrAZkTF1OXR2BjL6we7dX6tXXnm9msvE + ceMuTepNSXUTERoUoB1cnlhkfrhh3 + rzl0GuUrj0smeX1iiM0C8rt9dj1RJByeDTrtgfmq3JRFkbjp0vEc1KegUs4zqndJc1a / v3hpyCyn5n346rAdJ2i0nfhd + + + + HhGqiyRgQ645NXp2kJBbIq6DXb1HUhjM87HK5zPZLLsm19DFhDE + + H6cYj1AzCZXQJHM5mC4gWynQ DFX / C49e3RU3YraWy2CUEmohIZOPefZcbpzUo1LR9m2dZU206lDiZrfT0c0FgqFem6 + + A4LRvXsH6yh8YJkdOPBdQgHju31U / rmrm h8hWMx4PbYTGbOXLqFznTDJL720aSzOwN8e3TtqsfFaEBYG6JDMrwIU6N3 / wBN63y2NGuWpKwovtI6yAxcmViVpbOJA9uCvnXSGShBYbtKkkXUUDIPuH6 + 3qDF37hI1bZpzgWci + P / NnPWyLrZke2jwk4GLTaiEhh + + QsvyOHVrH3BPTRpGYm6K1MMIUEH363KL3Fy5c6mrumbCBSG7dutvR2qIehpsBgiNknp49O + m / jfJv0MNK3BQ60n + + oPn96 + + iP6BsDGfqqK9EwTKqHhAt2790Bs2gR + + COZg4SIf / FCfSGcy7JkoRoNnw3xNF6wyKpuTWTIGnvds6biYNSqkBleUqUtxaUyigVgew1birxGu / YFD + + UJ / BQNSr2nbV90zcKyjsJs + + xTQcBvZpC / KGECqhYfwMgdOevYbpH56syebNO3WcxktQM1UdSzayIlwkJhMFbjNRgjvIuE2cOM86qnSPaDO8 ++ 4 / b + 3W + + PmmuBxA / E0084W / 74cN76gQ5XX0W5 / jRsQEpIEL74wUR06WK6aNStQ69aVq1EPT1OtWhU6XvNYN1u / WqluveU6dfsdI1THTgMTCgdW5i + // FKlFot92oKsyA6N0BgXidnm + + + + eoHmK32TNT0p58P1HzNZdpde6Va + + AFN1oR5SbzeITNR 87xgZ5vvvlebDoOeP / 9T1T79i2tI6VmzVqkRv / xXn09TCgp1sJvwJp4 + + aVJsetl5KipVYSIY4L8PNaq1eVaeDifeT7vZxe5RHCTwf3heuD65kbEYNv1G8qPnatClTw1xHqmM17iYdkkNEKDb0 / A1820CX5hvyOls7nBZKIY8czFlAl3MNFnCcsWFEVF7dXq1e / pfSwShmDceGPLmEAgQv363qr34b77emqRAF5rhnkwlej5558Ti4cAz33p5ZXWUdXXwrNzXlVPjP + + DdXT8s / A5ksFN5qqrmlUrEZg / v0wNuq9XSgFhlQhcrlmzF2mLyMsNmdgOSZcgCY3QmAmQM pEaTdd1MnekdDc3YME8 / 8IyVTr7sYzdjRJ9lrBsQYFLikAgLB999Jm2cNq0LowJBB2 / RYtL9H4yjDAgOvbrBesnFb16D489H4vICWIwWC3x9UaEDsi4DhzY3WqpCteOWZJmzdoP1LKlM1LGxIjH1KlTp1rgGKvaHrfxm1AIDT8gUfBMZZbC6jpBLkwwHlawYBCWDRsr1NVXX6aFBZcG8cFtMvGxVCBY8dfMzBljrEcTY3e1zJbsfHR6Orr9pkq8hiSBU9IDkdm // 3u9JA1zDLkZA4cIUQBqj8cgaLR5DUmcCFkXGlK9BH3JLLExIVSiClqj5FFeXIzvyrQIXgLbQlUIwtqDs3ZYhgZhYcO1MR0d8cHCcQMuExYN15tb7rm7mxo95s / WkTuwntavL9f7nIt4zePjHtQlBEDNTHyygKwfWScv7jbPRbxMOpu + + + + xE3cwjVod4XYnIRnxIj ++ RU1N0FncrAsNNSb2uwBl9PEuBT941BcX4471zf5vXS2rYodpIj6uCM4FCRqv00QgAuee28A6qgriwuPEZwxYObg + + gb0VMkcfUPl2o63eu3VvYm2ZCEB3pfaNG7orDRBHU3QN7taR49h7QfLUfeTUqP2ROT54U2xm9cOm00QypIJc9W8ueM9i2NZ2dtq9bE79OxZY62W3ILO0eySAlVc3NdqSQ6dHcthx3ZZ7ylr1EovhhqaYHAyMPXwL4NeXAxx4M7CnSJ + + jz25yOIycCaJelhzvHcwqVqxfKZ + + GYqT992ijXIsN6T8ZsDsMQBD xLYpqEp1JwGeO / xMgQBkUl3dLuQXUIvNLhR2VhcDOuJCkxcNWJHFFIZ + + + + អតីត // 7RMl + + DNZcBlxYkVGVmZ0m2HiNSwP62Wyq5oClow9rSxEh9ALDWRrcTE6 MZ / ZEjP6uuXa9Xry5ZbbVWQhVmw4b1HbNHXjNMvGfx0Ala2AQhl4iE0GQLOn6DBqeru / p1VStXrq + SBUi11hKxpKlTn9OTZRkXK9XGp FVz5iyplubf8tUua89fEtUfZWpNKKFmI0LjALGhwsILdb2DfS0jLB2ntZZMTUS6sMpA0Bk1Ykmkg + + 0ZwEyuCSXUbERoHKjY9KWOleCmURbOWCxEhuESiEEy943Uob3Det3sMR / Oz / k4r5 / wXcb6vCZUIkj5B1mhKmQHEZokcIcHIyZMXfHpp1 / poDDDJeqeHIzFYVyoICf9cloTKpMY0ZbAd + + + + eVqZcm3EoBIWxdMycOW6gQyVbgoQ20ueky4242aGzFzTJD2wxfOJQTmtCZRJiYF5n5BOiiQhNEioqvqxi0tPxKNsmKMziaV7GifDaZEuQ0PZa2V9ik2IlIqjF8BEZPk9QHT9VQF3IHURoEsCdlkm248XEBIWxMBKJRiKMxeJU1JcKPgcuRiKLJ1PwnflO5jvzuf1aEwp4f6eAupBbiNDEgSCYNHP8AE 4jQpMEysQLLz / u9ASFvbhNdN4TXYKE9 + + + + 1ZJZ + + jSuZ2aPGW + + Y5BrQuGi8Zskm3dFyD1EaHwmkwHPcY89oCfNshcORg2sJ69jv4ToI0LjMxT9mfgKq1zaLQaz6iVrPeGqpVpgjucyApz5VaIoNojukOIJavzjD4rLVMOIxDQRQnWY I5BrQllKC1drAVb3KaagQhNHPYpJhIN8GSMldsCPODOjXVUUNBIWzb2GpX4oQ1OmEFw8fPIZgK / AtRCvOqlnb4vIhtjx4dxZKJMmlOEyFCIwiCe3J1PhpBEKKPCI0gCL6TPddJEIQag1g0giD4jgiNIAi + + I0IjCILviNAIguA7IjSCIPiMUv8HuaHXNQxWVzwAAAAASUVORK5CYII = &quot;&gt; &lt;/ p&gt;
+&lt;p&gt; កន្លែង៖ &lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt; យីគឺជាការចំណាយជាមធ្យមជាមធ្យមរបស់សមាជិកគ្រួសារខ្ញុំ (នៅទីនេះការចំណាយសម្រាប់មនុស្សម្នាក់ខ្ញុំ) &lt;/li&gt;
+  &lt;li&gt; z គឺជាខ្សែបន្ទាត់ភាពក្រីក្រ FPL (ខ្សែភាពក្រីក្រនៃអាហារ) ឬ OPL &lt;/li&gt;
+  &lt;li&gt; អិនគឺជាចំនួនប្រជាជននៅក្នុងចំនួនប្រជាជនគំរូ (សមាជិកគ្រួសារទាំងអស់នៅក្នុងមនុស្សពេញវ័យស្មើគ្នា) &lt;/li&gt;
+  &lt;li&gt; អិមគឺជាចំនួនប្រជាជនក្រីក្រ (សមាជិកគ្រួសារទាំងអស់ក្នុងចំនួនមនុស្សពេញវ័យស្មើនឹងបន្ទាត់នៃភាពក្រីក្រ) និង &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; អាចត្រូវបានបកស្រាយថាជាវិធានការណ៍នៃការជៀងវាងវិសមភាពឬមេគុណដែលឆ្លុះបញ្ចាំងពីកំរិតផ្សេងៗគ្នានៃសារៈសំខាន់ដែលរដ្ឋាភិបាលអាចនឹងយល់ស្របទៅនឹងភាពស៊ីជម្រៅឬភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រ។ &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ការត្រួតពិនិត្យភាពក្រីក្ររបស់ជាតិគឺមានសារៈសំខាន់សម្រាប់របៀបវារៈអភិវឌ្ឍន៍របស់រដ្ឋាភិបាលជាពិសេសសម្រាប់ការតាមដានវឌ្ឍនភាពនៃផែនការយុទ្ធសាស្ត្រអភិវឌ្ឍន៍ជាតិនិងយុទ្ធសាស្ត្រចតុកោណរបស់រាជរដ្ឋាភិបាល។ ខ្សែបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិត្រូវបានប្រើដើម្បីធ្វើការប៉ាន់ស្មានភាពត្រឹមត្រូវបន្ថែមទៀតនៃភាពក្រីក្រស្របតាមស្ថានភាពសេដ្ឋកិច្ចនិងសង្គមជាក់លាក់របស់ប្រទេសហើយមិនត្រូវបានបម្រុងទុកសម្រាប់ការប្រៀបធៀបអន្តរជាតិនៃអត្រាភាពក្រីក្រទេ។ [៤១៨]
+[៤២៣] ភាពក្រីក្រគឺជាគំនិតពហុភាគី៖ គំនិតនៃភាពក្រីក្រត្រូវបានអនុវត្តទៅលើស្ថានភាពទាំងបុគ្គល (ឬគ្រួសារ) និងកម្រិតប្រទេស។ តាមទស្សនៈទាំងពីរនេះភាពក្រីក្រគឺជាវិធីសាស្រ្តពហុវិស័យ។ នៅកម្រិតភាពក្រីក្រនៅប្រទេសគឺភ្ជាប់ទៅនឹងសមត្ថភាពសេដ្ឋកិច្ចដើម្បីផ្តល់រដ្ឋបាលកណ្តាលដែលមានធនធានគ្រប់គ្រាន់ដើម្បីអភិវឌ្ឍហេដ្ឋារចនាសម្ព័ន្ធរៀបចំសេវាកម្មសាធារណៈនិងអនុវត្តកម្មវិធីអភិវឌ្ឍន៍។ កត្តាសេដ្ឋកិច្ចសំខាន់ៗដែលកំណត់សមត្ថភាពនេះរួមមាន៖ កម្រិតសកម្មភាពសេដ្ឋកិច្ចស្ថានភាពទីផ្សារអន្តរជាតិនិងអត្រាប្តូរប្រាក់បច្ចុប្បន្ន។ ខណៈពេលដែលកត្តាទីមួយនៃកត្តាទាំងបីនេះអាចរងផលប៉ះពាល់ដោយផ្ទាល់ពីគោលនយោបាយនៅថ្នាក់ជាតិនោះកត្តាទីពីរគឺពាក់ព័ន្ធយ៉ាងជិតស្និទ្ធនឹងបរិបទសេដ្ឋកិច្ចពិភពលោក។ លើសពីនេះទៀតកត្តាសង្គមក៏ជាកត្តាកំណត់សំខាន់នៃសមត្ថភាពសេដ្ឋកិច្ចដើម្បីផ្តល់ធនធានគ្រប់គ្រាន់ដល់រដ្ឋបាលកណ្តាល។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ, អាយ។ អេស .១១ ។
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិលើកក្រោយ៖ Quater1, ២០២១ [៣៩]
+									</field>
+									<field id="COLL_METHOD">ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពងាយរងគ្រោះភាពងាយរងគ្រោះនិង ផ្សេងទៀត។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ស៊ី។ អេស។ អេសត្រូវបានធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧ ដល់ឆ្នាំ ២០១៧ ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ ចុងក្រោយចំនួន ៤ ត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤, ២០០៩, ២០១៤ និង ២០១៩។ ចាប់ពីឆ្នាំ ២០១៩ ទៅការស្ទង់មតិនឹងត្រូវធ្វើឡើងជារៀងរាល់ឆ្នាំ (រៀងរាល់ពីរឆ្នាំម្តង) ។ [៧២៩]
+[៧៣៤] ចាប់តាំងពីស៊ីអេសអេស ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់និងចំណូលគ្រួសារត្រូវបានណែនាំ។ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១២២៧]
+[១២៣២] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិលៈ http://nada.nis.gov.kh index.php / ផ្ទះ [១៤៧៥]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាភាពក្រីក្រថ្នាក់ជាតិគឺជាភាគរយនៃចំនួនប្រជាជនសរុបដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ អត្រាភាពក្រីក្រនៅជនបទគឺជាភាគរយនៃចំនួនប្រជាជននៅតាមជនបទដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ អត្រាភាពក្រីក្រនៅទីក្រុងគឺជាភាគរយនៃប្រជាជនទីក្រុងដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ [៣១៦]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; sovanndypoch @ gmail.com / Norvanndy @ gmail.com &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] ៨៥៥ ១២ ៩៣១ ២៦៤ / ៨៥៥ ១២ ៥៥៧ ៤៦៨ [៣២]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង / នាយក [៣៥]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ ប៉ូច Sovanndy / លោក។ ណនវ៉ាន់ឌីណា [៣៦]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) / អគ្គនាយកដ្ឋានផែនការនៃក្រសួងផែនការ [១០៨]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែតុលាឆ្នាំ ២០២០ [១៥]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ១.២.១៖ សមាមាត្រប្រជាជនដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិដោយភេទនិងអាយុ [៨៩]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ១.២: នៅឆ្នាំ ២០៣០ កាត់បន្ថយយ៉ាងហោចណាស់ពាក់កណ្តាលសមាមាត្រនៃបុរសស្ត្រីនិងកុមារគ្រប់វ័យដែលរស់នៅក្នុងភាពក្រីក្រក្នុងគ្រប់វិថីរបស់ខ្លួនយោងទៅតាមនិយមន័យជាតិ [១៦៨]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ១ ។ បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៤៥]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; អគ្គនាយកដ្ឋានផែនការក្រសួងផែនការ / នាយកដ្ឋានស្ថិតិសេដ្ឋកិច្ច, អាយ។ អេស។
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
@@ -2018,43 +2065,66 @@
 						</indicator>
 						<indicator id="1-3-1">
 								<fields>
+									<field id="DOC_METHOD">&lt;p&gt; អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; អ្នកចង្អុលបង្ហាញត្រូវបានគណនាដោយបែងចែកចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលបានសេវាសង្គមបន្ទាន់ដល់ចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុបនិងគុណនឹង ១០០ ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; នាយកដ្ឋានសុខមាលភាពសង្គម [៣១]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; ម្តងក្នុងមួយឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ម្តងក្នុងមួយឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; ចំនួនប្រជាជនដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិនិងប្រជាជនដែលមិនអាចទប់ទល់នឹងវិបត្តិសេដ្ឋកិច្ចឬមានហានិភ័យខ្ពស់នៃវិបត្តិ) ទទួលបានសេវាកម្មជំនួយដំបូងក្នុងចំណោមប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុប
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; mosvy.dpss.gmail.com &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ យឹមកឹមសាន [១៧]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]
+									</field>
+									<field id="META_LAST_UPDATE">[០] ២០២០ [៧]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រដែលទទួលបានអត្ថប្រយោជន៍ជាសាច់ប្រាក់ជំនួយសង្គម [១.៣.១] (SI_COV_POOR) [១០១]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលសេវាសង្គមបន្ទាន់ [៨៥]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ១.៣ អនុវត្តប្រព័ន្ធគាំទ្រថ្នាក់ជាតិការគាំពារសង្គមនិងវិធានការផ្សេងៗគ្នានៅទូទាំងប្រទេសហើយសំរេចចិត្តធ្វើឱ្យមានភាពទូលំទូលាយនៃប្រព័ន្ធនេះដល់ប្រជាជនក្រីក្រនិងងាយរងគ្រោះនៅត្រឹមឆ្នាំ ២០៣០ [២១៧]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ១ ។ បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៤៥]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="RATIONALE"/>
 									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
@@ -2066,38 +2136,98 @@
 						</indicator>
 						<indicator id="1-5-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; ប្រព័ន្ធព័ត៌មានស្តីពីការខូចខាតនិងការបាត់បង់នៅកម្ពុជា (ខេមឌីឌី)៖ [៥៦] http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp [១៦៩] [១៧៣]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ភាពអាចរកបានទិន្នន័យតាមភេទអាយុប្រភេទនៃការខូចខាត / ការបាត់បង់ដោយទីតាំងភូមិសាស្ត្រ៖ ទីក្រុង / ជនបទនិងតាមខេត្ត។
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; សូចនាករត្រូវបានគណនាជាទម្រង់ខាងក្រោម &lt;sup&gt; * &lt;/sup&gt;: &lt;/p&gt;
+&lt;p&gt; &lt;img src = &quot;ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAANwAAAAxCAYAAACxgMfdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA0zSURBVHhe7Z17cFTVGcBP6DTQJjDOaDHYQgcQUCNUoRblZTt2SIB2CgMELVig8iotQsOjFgtWqC0qQZAOhYAFKlR5FWdanlNnylOpBWwwVR7KNLQQUWcyEMrwD3R / Z បាន ++ 3OXtz791d2L1JlvOb2cl97L3n3Lvfd77H + + e5NzrUIymKxhEIz56 / FYgkBq3AWS4hYhbNYQsQqnMUSIjlXrly5dvXqVWfVYrGkm9zcXNWsWdS25dTU1NgspcWSQZo3b65atGihl63CWSyZ4tqH + K / z5p + + LKNzn9bKN4SyWEGnaFs4ZQYTt2 / eofxyuVHPnTHa21HH4SKUaNepn6v1 // cXZEi4N0f7wkmnqvfdOOWtRHntsoHpyyih1yy2tnC3xLF7yB9Uy / 4vqiSeGOVsccjo6C5ak8bBwdQrnEt6mxrz5y9SX72hdX1Ac2P / aa9vV1q1L1V1d2jtbU + + + + JGu9sdPmKsmTRqhenQvdLb4s3fvO2ripGdjSi5KX7Zwpho48GG9zYuggcuSOlnnUiJIZ85U + + eVVzbrv37t yoBAvT1HlEBvXTpf / pvmDRk + + + + + W9JLVijc8uUb1JDBjzhr9dn6xpuBI3qmaaj2jxx9Xz3Ys5terqm5oK1su3YFql 336dHeWlFbSVq3yVX7EggWBMtbU1Op / B / S2IAZ / 71tq9ZqtzpolXWSFwu3ff0T16nW / sxbPhg07Ysp477136r9h0pDtV1aeUgvL1qi77 / mOeqjX97XVWlk + + z9kbDEpJ / HfmP9XOFks6aPIKhzsJXkkARvVDfz8Wsy585 + + PqT / VysnB + + + + CLAIsXykD27S0T4xo9kWgwtxmLnND767e BFY / cqHcOtW / e8OnDgiPrwozPO3uQ4f / 4zZ8mSDrJ6WmDLlt1qx469ccJ67twnzt7kIO5BYOUzY / ឪ្យ / TG3 + + SUw0tE + + canZFjEZymNu84JBgHit7VcK9Dp97Nats3o34mZaGo6sVThcoZ279qu3Dv4xTlhNyOIVFY / TykA6PJ0kap / 9pdNf0G33fPDRtCcoTp2sUr17x19vRcUJlZ + + f56xF3V36YAmPJq9wYl3cscbq1X9Sw4YWxbmauHgXa + + uyhDNnlalVq36lU / UrVmx0tqaHRO2Lq4Yilv50tE6spBNc2cJ7OuhlSZhAr97RWFcU / OLFWv3Xj9atb3WWLOkgKywcluNYxXFnLSpMzHkdP3Ha2RKNhUgC4OKJch56 + + 3XtcuXlfUFNnFiit6WDZNpnoFhUNksrw7nqT9Tjo77rfPPG + + eD4aR2vuRMma9f + + JuZiElfe2amdXvYC609GU75vSQ9ZMfGNcLy67s9JZ + + BMEH6sjV8clkmIs0iAkL2c8pORSaXr0wntM6Xidd + + YYCe72pDTKdlC4MQ35UCMiuLbc + + MlzmisIKht2xakHIdhCU5 / dEYrGxbI7ZZmEoR9 / fpt2qUcO2aIeu7XK5w94XEp4t5iYd1gobmfjUHZ + + I2QSS / 4vUU2pQJI4LpEdonTGZT9oA2J5TmGdRPuB22wH9fcfc + C + + uGmnsIx0sLcOZP0X8qIyHbhjjRmKEPq3OmrsVglGaZOfU6XPnGzcL / CdJ86dmgbie / yddtLXn5VTX3ycWdPOCAYXDtuLn2QqQ2Eh0xqYyjrQtBHj / 55vXpQYB / uOUkpZJPfz1Sql5euUy1b5usB7Ydjh + + p43W9ARQ74Dt / lmDlzljh7oh7Q9Bkv6jZoC1d9zdo3nL2J ++ HG06VEUzdvXqwFMJXaPYvFC5R527Y99ZQYS1JevknHsm4Q2nPnPtVxplfRN1aPpNSIEQP0unhkEhcTt5p1q8g0ySn5vkA7KCPxPNCnIUOmxI5lAKqqqo71kczuopfWx r4f1A8hYS3loEH91MEDR / UoiB9vlc1yIyA / JG1M7wPBxnpNmDDc2RIPYYJbOUywembSh4ysZFxlct8sEmcOsrb2krNWx8mT / 9b7BDlGal6p1pFsL9DmhQt1md2gfnjhqXDffPgBrcX / PXs + + zo / HvHLTMKN8sH6yDeUUt8QN23Fbgj5 + + + + uGpcGg9lJTEjzC4mLgFKCEfsluyjYoIP0vIdlyCoI + + x1qyA0KUY8dOxGIg3Lhn5v7ohp6ccENhQRBvH6pwlhKTqEAgSF6D + + CxZzAIBL 1otkN85HIC0pXVDxBx6zpTsqQawiC / លី / ក្រុមហ៊ុន J + + 4COpHvRgOn / Zve96JHTRt6g / 0X8CaMaHrFVBj4e67 / + + 60Kg6Wz9I0YNBMhGQOccmSVTgsiVcMh2xQ4ibyhvxhwVBqr2Nolycn3I9wmccJ5rndx7nPHdQPwfcBVO0ezlumXnxhhqr ++ DPtY0tweCNIJ4MwO23JPkTZiov6qKFD ++ tlpkMSKZ2fwpHGLxleHFMEkhVkfTEGyHH // uPiZIqkCS6suz1CI7KQcn5JmlD0jfeGC8yzlqJAJE1 + + v3qL2rVzlV4P6ofgmTThhpSWLlDTp4 / V5h / fmpHITHFKvOZFUAzHRXNBQR + rbNnNvPnLVdeunbVgIl / z509Vz877XWAKHZgr9AIh37hpp5ZblIR0 / aBBUWVCUag + + Yp4TUCqQR7iQVckmsg1vDkWCjRt36GM5B3BOYjLaoK3NW3bptoWgfngRs3ClpRP1fIKMCqLpVEGg3WZNYFhwEaR3 / UBRM4W4s8yveF27 + + 30hlEE9PXtiKNUiMurz22zauNjZ2nihv6lOC7CvrGx1LAHB / R0woF8sxEE2mGujhA6FcVsv83iOXbLk6ViChlS / + + d4WlJ7CA9L / KBsenvmbo6DlKzdrA0QJoBlmJeoH + + LqUiQg7huOHmj37JbXh9UWqouJ4bL5EtotZTwSj2ciRg1LqGz / C0t + u9xVo9jNxLArJj8hNT4cLngy0B + + aPH4QIoBlbAK7dtx95KDAFn02gIExcjxk9ODQjknAezg / JSHrBaJFut / DUySodXHNjeF2APG5CO4WFdXMnQSBoWG4qO1KBSVdcID9qI64OFkZ + + + + JcxTwZlE24PdikApL2dykpHASw6U6D3e9IAhinpmA7PmNrnoZTDcEpaIvuIEEsdIP tL59e8TNz2QaRmMqa5IFS1JYWP / XqDiFsMuKbiJgLHSN0ox + + + + 8uIfL3irlfm8GU9yu9PB3BOzBk9gme20Rx9ZlnpBRmCW2cYy8D3OIetQWXlCde3WxVmLHocll3tA2xK7cC4GHR5BYj rgOHItApX / 75Jx818TvXrKd82BZaUu + + kygGs8RzXRYOJeDD6CjbMmHhTPDFvR4nQXDIpuIWEdNRE4e7CSjsL5 / 5sfbLJTkDcgwlOWxj5CfYlUAZWO / Q0f / xFeaTxMIglCQAJoyvSzkjmDyASomc1ODJQMX8JtUNuOdt2twWcY3LdTzIeXhKnPuKtZRn5yiwNq0p / adyw + + + + N14KNorRrd4cuCmag4rxVVWdVl87tdZLFdG84B4qGgohC4U6b7i3P wvCkB2jLaIJanpE4XEzWUwID7nevmtOJYn101PIehe7ty5Ty1bNkdfBzELcQ7vuJQ5W0typKRwDYWMsl4KjdAivOIWoZS4WwKWSt5cJXAM1kmOIYA2rZUItF8VBCM8CkI6mVEeoUTZJAjneKzJU0 / pn9RYlRUHnBa17kesxn2egP + + + + IG + + 933j3ZMryHoXuKGYcVZl3a4R4kmiC3xNAmFI5bDSnnBiGu + + zg0JHBCrSfJGlA1QCATeFHAUrJNjEVFYBFcEW1xFqV5wKxT9Nd3bExGrYtb34d6SwRPF5R6Ylovzed0 hwBoI7CeZY8I2XgMnUMKG8AtYFLO / zmt6DYnuJe1g1aQd3Nqv3XeXXrYkR5NQOF4X4LZSAoJ7e8Ftzlr0HZAirCLY7pGdbVgBIDYhu2gKjvk + + រី / Yj4D7gSXDoglYa Nrs5rh4KKypAAcPHtUKKhYVwRaF4lisqeneugcRJmax0sA187iPablQUPf1iJWOHxT87yXgRnd32k3kBVi8afQKh2AgYH4gqFhAIAHBi3KoZACpGuccEj8JTKgiNAf2H9brvGZBUu0kaLBGkiAwYZ0EBO360abNlyLCe1Z / lzYWLFip52 / EMhD3yHkl / iPuElAgYDDYty / av4Lbb41NzqIovGtE + + + + gu4h5yTGBB3lNhQ s / 1yH6Z8OXecA20IecNupccS7vtnWwvT8njBXC8TZwkT6NXuJmzFur4gyQAwusGQeXJBmKpv775Vtx7O5gKwCUiQ8koL5UGJAuYQ6OMDYHiO1TZMDcDJFGY8yMpIkoiINBYAmI0iS3dEKdh4Wh32LBpupzJnC + + + + 1wvqXz6RP9IihQV9db7WR837hequLivXud9KFjpEY + + j1o6YjKzf5Mnz9WSpOWFO Wqt59emirRP / ZT / 9xE + + + + 5mPBBQWC8XcnJw36F6ioGZciftLIovKjDAm + + kV + + LekBgfarYLFkH9c98W25cXDBwCrbzYlVuJD557sf6L + + 7OFlCa ieJabizqX0mKxZATzf3xbC2exhEjO5cuXrYWzWDJIbm6uatYsattyrkXQSxaLJeNYl9JiCRGrcBZLiFiFs1hCQ6n / A2gFZ + cB7AKVAAAAAElFTkSuQmCC &quot;&gt; &lt;/ p&gt;
+&lt;p&gt; កន្លែង៖ &lt;/p&gt;
+ចំនួនអ្នកស្លាប់ដែលបណ្តាលមកពីគ្រោះមហន្តរាយ។ &lt;/p&gt;
+ចំនួនអ្នកបាត់ខ្លួនដែលបណ្តាលមកពីគ្រោះមហន្តរាយ។ និង &lt;/p&gt;
+&lt;p&gt; ខ &lt;/b&gt; ១ នាក់ចំនួនប្រជាជនដែលរងផលប៉ះពាល់ដោយផ្ទាល់ដែលត្រូវបានគេសន្មតថាជាគ្រោះមហន្តរាយ &lt;/p&gt;
+&lt;p&gt; * វិធីសាស្រ្តលម្អិតអាចរកបាននៅក្នុងការណែនាំបច្ចេកទេស (សូមមើលផ្នែកខាងក្រោម)៖ &lt;/p&gt;
+&lt;p&gt; &lt;a href=&quot;https://www.preventionweb.net/files/54970_collectionoftechnicalguidancenoteso.pdf&quot;&gt; https://www.preventionweb.net/files/54970_collectionoftechnicalguidancenoteso.pdf &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ប្រព័ន្ធត្រួតពិនិត្យក្របខ័ណសាយសាយត្រូវបានបង្កើតឡើងដើម្បីវាស់វែងវឌ្ឍនភាពនៃការអនុវត្តអនុវត្តី Sendai ដោយអ។ ស។ ប។ ដែលគាំទ្រសូចនាករ។ [១៦០]
+[១៦៥] [១៦៨] ប្រូកស៊ីជំនួសនិងសូចនាករបន្ថែម៖ [២១៧] [២២២]
+[២២៧] ក្នុងករណីភាគច្រើនប្រភពទិន្នន័យអន្តរជាតិកត់ត្រាតែព្រឹត្តិការណ៍ដែលហួសកម្រិតនៃផលប៉ះពាល់ហើយប្រើប្រភពទិន្នន័យបន្ទាប់បន្សំដែលជាធម្មតាមានវិធីសាស្ដ្រមិនដូចគ្នាឬមិនត្រឹមត្រូវដែលបង្កើតសំណុំទិន្នន័យតំណពូជ។ [៤៥៩]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ក្របខ័ណ្ឌ Sendai សម្រាប់ការកាត់បន្ថយហានិភ័យនៃគ្រោះមហន្តរាយឆ្នាំ ២០១៥-២០៣០ ត្រូវបានអនុម័តដោយរដ្ឋជាសមាជិករបស់អង្គការសហប្រជាជាតិក្នុងខែមីនាឆ្នាំ ២០១៥ ជាគោលនយោបាយសកលនៃការកាត់បន្ថយហានិភ័យគ្រោះមហន្តរាយ។ ក្នុងចំណោមគោលដៅពិភពលោក“ គោលដៅក៖ កាត់បន្ថយអត្រាមរណភាពនៃគ្រោះមហន្តរាយពិភពលោកយ៉ាងខ្លាំងនៅឆ្នាំ ២០៣០ ដោយមានគោលបំណងកាត់បន្ថយអត្រាមរណភាពជាសកល ១០០.០០០ នាក់នៅចន្លោះឆ្នាំ ២០២០-២០៣០ បើប្រៀបធៀបនឹងឆ្នាំ ២០០៥-២០១៥” និង“ គោលដៅ B៖ កាត់បន្ថយចំនួនប្រជាជនដែលរងផលប៉ះពាល់ជាសកលនៅឆ្នាំ ២០៣០ ។ គោលបំណងដើម្បីកាត់បន្ថយតួលេខពិភពលោកជាមធ្យមក្នុង ១០០.០០០ នាក់នៅចន្លោះឆ្នាំ ២០២០-២០៣០ បើប្រៀបធៀបជាមួយឆ្នាំ ២០០៥-២០១៥ នឹងរួមចំណែកដល់ការអភិវឌ្ឍប្រកបដោយចីរភាពនិងពង្រឹងសេដ្ឋកិច្ចសង្គមសុខភាពនិងបរិស្ថាន។ ទស្សនវិស័យសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមរួមមានការលុបបំបាត់ភាពក្រីក្រភាពធន់នឹងទីក្រុងនិងការបំរែបំរួលអាកាសធាតុ។ [៧៧៣]
+[៧៧៨] ក្រុមការងារជំនាញខាងអន្តររដ្ឋាភិបាលចំហរលើសូចនាករនិងវចនាធិប្បាយទាក់ទងនឹងការកាត់បន្ថយហានិភ័យនៃគ្រោះមហន្តរាយ (OIEWG) ដែលបង្កើតឡើងដោយមហាសន្និបាត (ដំណោះស្រាយ ៦៩/២៨៤) បានបង្កើតសំណុំនៃសូចនាករដើម្បីវាស់វឌ្ឍនភាពសកលក្នុងការអនុវត្តសៃហៃ ក្របខ័ណ្ឌការងារដែលត្រូវបានយល់ព្រមដោយអ។ ស។ ប។ (OIEWG [១១១១] របាយការណ៍ក / ៧១ / ៦៤៤ [១១៨៩]) ។ សូចនាករសកលដែលពាក់ព័ន្ធសម្រាប់ក្របខ័ណ្ឌសៃយ៉ាងនឹងត្រូវប្រើដើម្បីរាយការណ៍សម្រាប់សូចនាករនេះ។ [១២៩៥]
+[១៣០០] ទិន្នន័យការបាត់បង់គ្រោះមហន្តរាយត្រូវបានជះឥទ្ធិពលយ៉ាងខ្លាំងដោយព្រឹត្តិការណ៍មហន្តរាយទ្រង់ទ្រាយធំដែលតំណាងឱ្យមនុស្សខាងក្រៅ។ UNISDR ណែនាំឱ្យប្រទេសរាយការណ៍ទិន្នន័យតាមព្រឹត្តិការណ៍ដូច្នេះការវិភាគបន្ថែមអាចត្រូវបានអនុវត្តដើម្បីទទួលបាននិន្នាការនិងគំរូដែលព្រឹត្តិការណ៍មហន្តរាយបែបនេះ (ដែលអាចតំណាងឱ្យខាងក្រៅ) អាចត្រូវបានរាប់បញ្ចូលឬដកចេញ។
+									</field>
+									<field id="INST_MANDATE">NCDM គឺជាស្ថាប័នសម្របសម្រួលសម្រាប់រាល់សកម្មភាពដែលទាក់ទងនឹងការគ្រប់គ្រងគ្រោះមហន្តរាយបានបង្កើតរចនាសម្ព័ន្ធយន្តការដើម្បីឆ្លើយតបទៅនឹងគ្រោះមហន្តរាយពីថ្នាក់ជាតិដល់ថ្នាក់មូលដ្ឋាន។ វាក៏ត្រូវបានគេទទួលស្គាល់ថាជាទីភ្នាក់ងារចម្បងសម្រាប់គ្រប់គ្រងភាពអាសន្ននិងកសាងភាពធន់របស់សហគមន៍ចំពោះគ្រោះមហន្តរាយធម្មជាតិ។ អាណត្តិសំខាន់ផ្សេងទៀតរបស់គ។ ជ។ អ។ បរួមមានការអនុវត្តវិធានការបង្ការនិងកាត់បន្ថយដើម្បីកាត់បន្ថយផលប៉ះពាល់នៃគ្រោះមហន្តរាយលើជីវិតជីវភាពរស់នៅនិងហេដ្ឋារចនាសម្ព័ន្ធការចេញនិងណែនាំគោលការណ៍ណែនាំនិងគោលនយោបាយសម្រាប់ការគាំទ្រថវិកាសម្រាប់នីតិកម្មសម្រាប់ការគ្រប់គ្រងគ្រោះអាសន្ននិងគ្រោះមហន្តរាយ។ ក្នុងនាមជាស្ថាប័នសម្របសម្រួលនិងគោលនយោបាយគោលដៅរបស់អិន។ អិន។ អិល។ គឺដើម្បីកសាងប្រព័ន្ធដែលមានប្រសិទ្ធិភាពសម្រាប់ការការពារគ្រោះមហន្តរាយការឆ្លើយតបគ្រោះមហន្តរាយនិងការស្តារគ្រោះមហន្តរាយឡើងវិញឆាប់រហ័ស។
+[៧៩១] តួនាទីនិងភារកិច្ច: [៨២១]
+គ្រប់គ្រងទិន្នន័យហានិភ័យគ្រោះមហន្តរាយនិងបង្កើតរបាយការណ៍ស្តីពីស្ថានភាពគ្រោះមហន្តរាយ [៩០៥]
+[៩១១] សំណើរសុំបំរុងធនធានសំរាប់អន្តរាគមន៍គ្រោះមហន្តរាយក្នុងការឆ្លើយតបជាបន្ទាន់ [៩៩៧]
+[១០០៣] ការកសាងសមត្ថភាពនិងការអភិវឌ្ឍធនធានមនុស្សលើការគ្រប់គ្រងគ្រោះមហន្តរាយ [១០៨០]
+[១០៨៦] ការសម្របសម្រួលក្នុងការអនុវត្តគោលនយោបាយគ្រប់គ្រងគ្រោះមហន្តរាយ [១១៥៤]
+[១១៦០] ផ្លាស់ប្តូរនិងចែករំលែកព័ត៌មាន និង [១២០២]
+[១២០៨] សម្របសម្រួលនិងកៀរគរធនធានសម្រាប់ការឆ្លើយតបគ្រោះមហន្តរាយ។
+[១២៧៤]
+  គ។ ជ។ អ។ ប។ ត្រូវបានដឹកនាំដោយនាយករដ្ឋមន្រ្តីជាប្រធានាធិបតីដែលមានសមាជិកភាពដែលរួមមានរដ្ឋមន្ត្រីស្ទើរតែទាំងអស់ក៏ដូចជាតំណាងមកពីការិយាល័យរដ្ឋាភិបាលផ្សេងទៀត។ លេខាធិការដ្ឋានសំរបសំរួលរាល់សកម្មភាពទាំងអស់និងជាចំណុចនៃការទំនាក់ទំនងសម្រាប់កិច្ចខិតខំប្រឹងប្រែងនិងការគ្រប់គ្រងព័ត៌មានគ្រោះមហន្តរាយ។
+[១៥៧៦]
+									</field>
+									<field id="COMPILING_ORG">គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (អ។ ជ។ អ។ អ។ អ។ ) [៥២]
+									</field>
+									<field id="DATA_SOURCE">គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (អ។ ជ។ អ។ អ។ អ។ ) [៥២]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; បីខែបន្ទាប់ពីរយៈពេលយោង [៤១]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; មូលដ្ឋានប្រចាំឆ្នាំ [១៧]
+									</field>
+									<field id="COLL_METHOD">អិន។ អិម។ អិម។ អេ។ បានទទួលសិទ្ធិធ្វើកិច្ចសហការជាមួយក្រសួងពាក់ព័ន្ធនិងអាជ្ញាធរមូលដ្ឋាន (ថ្នាក់ខេត្តស្រុកឃុំនិងភូមិ) ក្នុងការប្រមូលនិងផ្សព្វផ្សាយទិន្នន័យទាំងអស់ដែលទាក់ទងនឹងគ្រោះមហន្តរាយ។ [២១៣]
+[២១៨] អ្នកផ្គត់ផ្គង់ទិន្នន័យនៅថ្នាក់ជាតិត្រូវបានតែងតាំងជាបណ្តុំនៃបណ្តាញសមាហរណកម្មផៃសាយ។ នៅប្រទេសភាគច្រើនទិន្នន័យគ្រោះមហន្តរាយត្រូវបានប្រមូលដោយក្រសួងពាក់ព័ន្ធហើយមូលដ្ឋានទិន្នន័យនៃការបាត់បង់គ្រោះមហន្តរាយជាតិត្រូវបានបង្កើតនិងគ្រប់គ្រងដោយទីភ្នាក់ងារដែលមានគោលបំណងពិសេសរួមមានទីភ្នាក់ងារគ្រប់គ្រងគ្រោះមហន្តរាយជាតិភ្នាក់ងារការពារស៊ីវិលនិងទីភ្នាក់ងារឧតុនិយម។ ចំនុចប្រសព្វនៃបៃណៃនៅក្នុងប្រទេសនីមួយៗទទួលខុសត្រូវក្នុងការរាយការណ៍ទិន្នន័យតាមរយៈប្រព័ន្ធត្រួតពិនិត្យបណ្តាញស៊ុមសាយយៃ។ [៦៩១]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ប្រព័ន្ធព័ត៌មានស្តីពីការខូចខាតនិងការបាត់បង់នៅកម្ពុជា (ខេមឌីឌី)៖ [៥៦] http://camdi.ncdm.gov.kh/DesInventar/profiletab.jsp [១៦៩] [១៧៣]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ក្នុង ១០០,០០០ ប្រជាជន [២៥]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; សូចនាករនេះវាស់វែងចំនួនមនុស្សដែលបានស្លាប់បាត់ខ្លួនឬរងផលប៉ះពាល់ដោយផ្ទាល់ពីគ្រោះមហន្តរាយក្នុងចំណោមប្រជាជន ១០០.០០០ នាក់។
+[១៣៨] [១៤១] មរណភាព៖ [១៥៦] ចំនួនមនុស្សដែលបានស្លាប់ក្នុងកំឡុងពេលមានគ្រោះមហន្តរាយឬដោយផ្ទាល់បន្ទាប់ពីលទ្ធផលនៃព្រឹត្តិការណ៍ដែលមានគ្រោះថ្នាក់។ [២៧៧]
+[២៨២] [២៨៥] បាត់ខ្លួន [៣០២] ចំនួនមនុស្សដែលមិនដឹងពីកន្លែងលាក់ខ្លួនចាប់តាំងពីព្រឹត្តិការណ៍គ្រោះថ្នាក់។ វា [៣៩០] [៣៩៩] រួមបញ្ចូលទាំងមនុស្សដែលត្រូវបានសន្មតថាបានស្លាប់ហើយដែលគ្មានភ័ស្តុតាងជាក់ស្តែងដូចជារូបកាយហើយដែលរបាយការណ៍ផ្លូវការ / ច្បាប់ត្រូវបានដាក់ទៅអាជ្ញាធរមានសមត្ថកិច្ច។ [៥៨៣]
+[៥៨៨] [៥៩១] ផលប៉ះពាល់ដោយផ្ទាល់៖ [៦១៩] ចំនួនមនុស្សដែលបានរងរបួសជំងឺឬផលប៉ះពាល់សុខភាពផ្សេងទៀត។ ដែលត្រូវបានគេជម្លៀសផ្លាស់ទីលំនៅផ្លាស់ទីលំនៅឬបានរងការខូចខាតដោយផ្ទាល់ដល់ជីវភាពរស់នៅសេដ្ឋកិច្ចរូបវន្តសង្គមវប្បធម៌និងបរិស្ថាន។ ផលប៉ះពាល់ដោយប្រយោលគឺជាប្រជាជនដែលទទួលរងនូវផលវិបាកផ្សេងៗក្រៅពីឬបន្ថែមលើផលប៉ះពាល់ដោយផ្ទាល់នៅពេលណាមួយដោយសារការរំខានឬការផ្លាស់ប្តូរសេដ្ឋកិច្ចហេដ្ឋារចនាសម្ព័ន្ធសំខាន់ៗសេវាកម្មមូលដ្ឋានពាណិជ្ជកម្មឬការងារឬផលប៉ះពាល់សុខភាពសុខភាពនិងផ្លូវចិត្ត។ [១១៣៣]
+[១១៣៨] [១១៤១] និទាននិងការបកស្រាយ: [១១៧៨] [១១៨៧]
+[១១៩២] ក្របខ័ណ្ឌ Sendai សម្រាប់ការកាត់បន្ថយហានិភ័យនៃគ្រោះមហន្តរាយឆ្នាំ ២០១៥-២០៣០ ត្រូវបានអនុម័តដោយរដ្ឋជាសមាជិករបស់អង្គការសហប្រជាជាតិក្នុងខែមីនាឆ្នាំ ២០១៥ ជាគោលនយោបាយសកលនៃការកាត់បន្ថយហានិភ័យគ្រោះមហន្តរាយ។ ក្នុងចំណោមគោលដៅពិភពលោក“ គោលដៅក៖ កាត់បន្ថយអត្រាមរណភាពនៃគ្រោះមហន្តរាយពិភពលោកយ៉ាងខ្លាំងនៅឆ្នាំ ២០៣០ ដោយមានគោលបំណងកាត់បន្ថយអត្រាមរណភាពជាសកល ១០០.០០០ នាក់នៅចន្លោះឆ្នាំ ២០២០-២០៣០ បើប្រៀបធៀបនឹងឆ្នាំ ២០០៥-២០១៥” និង“ គោលដៅ B៖ កាត់បន្ថយចំនួនប្រជាជនដែលរងផលប៉ះពាល់ជាសកលនៅឆ្នាំ ២០៣០ ។ គោលបំណងដើម្បីកាត់បន្ថយតួលេខពិភពលោកជាមធ្យមក្នុង ១០០.០០០ នាក់នៅចន្លោះឆ្នាំ ២០២០-២០៣០ បើប្រៀបធៀបជាមួយឆ្នាំ ២០០៥-២០១៥ នឹងរួមចំណែកដល់ការអភិវឌ្ឍប្រកបដោយចីរភាពនិងពង្រឹងសេដ្ឋកិច្ចសង្គមសុខភាពនិងបរិស្ថាន។ ទស្សនវិស័យសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមរួមមានការលុបបំបាត់ភាពក្រីក្រភាពធន់នឹងទីក្រុងនិងការបំរែបំរួលអាកាសធាតុ។
+ក្រុមការងារជំនាញអន្តររដ្ឋាភិបាលបើកចំហរស្តីពីសូចនាករនិងវចនាធិប្បាយទាក់ទងនឹងការកាត់បន្ថយហានិភ័យគ្រោះមហន្តរាយ (OIEWG) ដែលបង្កើតឡើងដោយមហាសន្និបាត (ដំណោះស្រាយ ៦៩/២៨៤) បានបង្កើតសំណុំសូចនាករដើម្បីវាស់វឌ្ឍនភាពសកលក្នុងការអនុវត្តសៃហៃ ក្របខ័ណ្ឌការងារដែលត្រូវបានគាំទ្រដោយអ។ ស។ ប។ (OIEWG [២៣០៣] របាយការណ៍ A / ៧១ / ៦៤៤ [២៣៨១]) ។ សូចនាករសកលដែលពាក់ព័ន្ធសម្រាប់ក្របខ័ណ្ឌសៃយ៉ាងនឹងត្រូវប្រើដើម្បីរាយការណ៍សម្រាប់សូចនាករនេះ។ [២៤៨៧]
+[២៤៩២] ទិន្នន័យការបាត់បង់គ្រោះមហន្តរាយត្រូវបានជះឥទ្ធិពលយ៉ាងខ្លាំងដោយព្រឹត្តិការណ៍មហន្តរាយទ្រង់ទ្រាយធំដែលតំណាងឱ្យមនុស្សខាងក្រៅ។ UNISDR ណែនាំឱ្យប្រទេសរាយការណ៍ទិន្នន័យតាមព្រឹត្តិការណ៍ដូច្នេះការវិភាគបន្ថែមអាចត្រូវបានអនុវត្តដើម្បីទទួលបាននិន្នាការនិងគំរូដែលព្រឹត្តិការណ៍មហន្តរាយបែបនេះ (ដែលអាចតំណាងឱ្យខាងក្រៅ) អាចត្រូវបានរាប់បញ្ចូលឬមិនរាប់បញ្ចូល។ [២៨៣៣]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; administration@ncdm.gov.kh [២៩]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; អាស័យដ្ឋានៈផ្លូវ ៥១៦ សង្កាត់ទួលសង្កែខណ្ឌឬស្សីកែវរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ២៣ ៨៦៤ ២៩៨ / ២៣ ៨៨២ ០៤៥ [៣០]
+									</field>
+									<field id="CONTACT_NAME">គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (អ។ ជ។ អ។ អ។ អ។ ) [៥២]
+									</field>
+									<field id="CONTACT_ORGANISATION">គណៈកម្មាធិការជាតិគ្រប់គ្រងគ្រោះមហន្តរាយ (អ។ ជ។ អ។ អ។ អ។ ) [៥២]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែតុលាឆ្នាំ ២០២០ [១៥]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ចំនួនមរណភាពដែលបណ្តាលមកពីគ្រោះមហន្តរាយ។ [៤៥]
+[៥០] ចំនួនមនុស្សដែលបាត់ខ្លួនដោយសារគ្រោះមហន្តរាយ និង [១០៨]
+[១១៣] ចំនួនប្រជាជនដែលរងផលប៉ះពាល់ដោយផ្ទាល់ដែលបង្កឡើងដោយគ្រោះមហន្តរាយ។
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ១.៥.១៖ ចំនួនអ្នកស្លាប់បាត់ខ្លួននិងអ្នកដែលរងផលប៉ះពាល់ដោយផ្ទាល់បណ្តាលមកពីគ្រោះមហន្តរាយក្នុងចំណោមប្រជាជន ១០០,០០០ [១២០]
+									</field>
+									<field id="SDG_TARGET">[០] គោលដៅ ១.៥៖ នៅឆ្នាំ ២០៣០ កសាងភាពធន់របស់ប្រជាជនក្រីក្រនិងអ្នកដែលស្ថិតក្នុងស្ថានភាពងាយរងគ្រោះនិងកាត់បន្ថយការប៉ះពាល់និងភាពងាយរងគ្រោះរបស់ពួកគេចំពោះព្រឹត្តិការណ៍ធ្ងន់ធ្ងរដែលទាក់ទងនឹងអាកាសធាតុនិងវិបត្តិសេដ្ឋកិច្ចសង្គមនិងបរិស្ថានដទៃទៀតនិងគ្រោះមហន្តរាយ [២៣៥]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅ ១. បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៥០]
+									</field>
+									<field id="OTHER_METHOD">អិន។ អិម។ អិម។ អេ។ បានទទួលសិទ្ធិធ្វើកិច្ចសហការជាមួយក្រសួងពាក់ព័ន្ធនិងអាជ្ញាធរមូលដ្ឋាន (ថ្នាក់ខេត្តស្រុកឃុំនិងភូមិ) ក្នុងការប្រមូលនិងផ្សព្វផ្សាយទិន្នន័យទាំងអស់ដែលទាក់ទងនឹងគ្រោះមហន្តរាយ។ [២១៣]
+[២១៨] អ្នកផ្គត់ផ្គង់ទិន្នន័យនៅថ្នាក់ជាតិត្រូវបានតែងតាំងជាបណ្តុំនៃបណ្តាញសមាហរណកម្មផៃសាយ។ នៅប្រទេសភាគច្រើនទិន្នន័យគ្រោះមហន្តរាយត្រូវបានប្រមូលដោយក្រសួងពាក់ព័ន្ធហើយមូលដ្ឋានទិន្នន័យនៃការបាត់បង់គ្រោះមហន្តរាយជាតិត្រូវបានបង្កើតនិងគ្រប់គ្រងដោយទីភ្នាក់ងារដែលមានគោលបំណងពិសេសរួមមានទីភ្នាក់ងារគ្រប់គ្រងគ្រោះមហន្តរាយជាតិភ្នាក់ងារការពារស៊ីវិលនិងទីភ្នាក់ងារឧតុនិយម។ ចំនុចប្រសព្វនៃបៃណៃនៅក្នុងប្រទេសនីមួយៗទទួលខុសត្រូវក្នុងការរាយការណ៍ទិន្នន័យតាមរយៈប្រព័ន្ធត្រួតពិនិត្យបណ្តាញស៊ុមសាយយៃ។ [៦៩១]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានព័ត៌មាននិងទំនាក់ទំនងអគ្គលេខាធិការដ្ឋាននៃគ។ ជ។ អ។ ម។ [៧២]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
 									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2106,55 +2236,100 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="1-a-2">
 								<fields>
+									<field id="COVERAGE">&lt;p&gt; តាមកម្រិតនៃការអប់រំថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ថ្នាក់ខេត្ត) [៧០]
+									</field>
+									<field id="QUALITY_ASSURE">&lt;p&gt; ដំបូងទិន្នន័យនេះត្រូវបានបញ្ចូលដោយសេដ្ឋវិទូក្រីក្រដែលត្រូវបានត្រួតពិនិត្យដោយយកចិត្តទុកដាក់រួមជាមួយព័ត៌មានមេតាតាតាដោយក្រុមកណ្តាលសម្រាប់តាមដានអេសឌីជី ១.២.២ នៅក្នុងធនាគារពិភពលោក។ បន្ទាប់មកទិន្នន័យត្រូវបានផ្ញើទៅ UNDP និង UNICEF សម្រាប់ការបញ្ជាក់បន្ថែម។
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ការវិភាគនៃសូចនាករនេះផ្តល់នូវការប៉ាន់ស្មានពីភាពក្រីក្រលើកុមារដោយផ្អែកលើការវិភាគភាពក្រីក្ររបស់ធនាគារពិភពលោកក្នុងការស្ទង់មតិសង្គមនិងសេដ្ឋកិច្ចកម្ពុជាឆ្នាំ ២០០៩ ។ យើងបង្ហាញពីរបៀបដែលភាពក្រីក្ររបស់ប្រជាជនសរុបប្រៀបធៀបទៅនឹងភាពក្រីក្ររបស់កុមារ (សម្រាប់អ្នកដែលមានអាយុក្រោម ១៧ ឆ្នាំ) ហើយបន្ទាប់មកផ្តល់នូវទម្រង់នៃភាពក្រីក្រដល់កុមារក្រីក្រ។ លើសពីនេះទៀតយើងបង្ហាញពីចំនួនកុមារត្រួតលើគ្នាយោងទៅតាមស្ថានភាពភាពក្រីក្រនិងស្ថានភាពខ្វះខាត - ដូចដែលបានបង្ហាញនៅក្នុងទម្រង់របស់អង្គការយូនីសេហ្វកម្ពុជាឆ្នាំ ២០១២ ស្តីពីភាពក្រីក្ររបស់កុមារដោយប្រើវិធានការដកហូត។ [៥៣៨]
+[៥៤៣] ប្រវត្ដិរូបរបស់យើងត្រូវបានអនុវត្តជាមួយនឹងការវិភាគស្ថានការណ៍ហើយយើងក៏បានបង្ហាញបន្ថែមនូវការតំរែតំរង់ជាច្រើននៃហានិភ័យនៃភាពក្រីក្ររបស់កុមារដែលបង្ហាញនូវការជាប់ទាក់ទងគ្នារវាងកត្តាភូមិសាស្ត្រគ្រួសារនិងសេដ្ឋកិច្ចដែលអាចជូនដំណឹងដល់ការពិភាក្សាអំពីកត្តាកំណត់។ នៃសុខុមាលភាពកុមារនិងជាពិសេសលើ“ របាំងហិរញ្ញវត្ថុ” ។ [៩០៤]
+[៩០៩] ការវិភាគស៊ីជម្រៅបន្ថែមទៀតនៃទំនាក់ទំនងរវាងភាពក្រីក្ររូបិយវត្ថុនិងការដកហូតកុមារមាននៅក្នុងក្រដាសអមដែលមានការរុករកកាន់តែច្រើននៅក្នុងធម្មជាតិដើម្បីពិនិត្យមើលទំនាក់ទំនងរវាងភាពក្រីក្រនិងកំរិតការប្រើប្រាស់ខាងក្រោមនិងនៅខាងលើបន្ទាត់ភាពក្រីក្រ។ ។ [១១៩៦]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ការចំណាយសរុបរបស់រដ្ឋាភិបាលសម្រាប់កម្រិតអប់រំ (ឧ។ បឋម, អនុវិទ្យាល័យឬគ្រប់កម្រិតទាំងអស់បញ្ចូលគ្នា) ត្រូវបានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ។ &lt;/p&gt;
+&lt;p&gt; &lt;img src = &quot;ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAAG0AAAAxCAYAAADQtCfaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX6SURBVHhe7Zp / TFVlGMef678FJFQzBtQk10iNMAMCpWBTFJy6QgQXxVaB5pJFJQ7BrUCmaG5aRlD6j6YX1M025ZebFgoBUQ2nsaawWoy1Coysf6P7fTzv3eHcc + + 4vL5dzru9nO3vP + + 95z7 + + D9nufnObYpBySxFHOUUWIhpGgWRIpmQaRoFkSKZkGkaBZEimZBpGgWRBbXZmHqR + + XEDbYneZCWZkH0Lc0b1UOQK1e + + p7XrttKtW3 / T3j3ltH37a7RqdQl1dHTz51P / XedRvaZFXDMjSEtzZdmyJVRQkENLly5kwUDVzs00d244Xe46xnPwxfF6Hs + + fa2CRcOAc3wsGUjQNpSX5bGlgfPwvert8D31yuJoFFUxO / sNjSspTPILw8PspPj5Omc0sUjQNiYlP8Nja2kXVuz6id8qL2frU9PdfpezsdIqKeoCFfTY5n0W1n9yvXDGzSNF0KHljA71cVEGPPRrtIhjouvwdxzTbnIX04EPpQbMwgRRNh4uX + + thF5uVlKyvT6ezsppMn9jlj2ZKkBOWT4CCzRw1vbq2hjOXP0NkvL1LmC8lUWpqvfHIHuENY1 / DNDpo / P0ZZDRIye3TFbm / lES5x / bos2rf / គីឡូម៉ែត្រ / V9PVddbjD2GmC4Xv19UeUmXc0Nrb4 / B2BFE0BiUdV9SGq + + + + cHR2q eAtnq9YkUbDw79y7aamu / SJkRDQ7 + + xNaZlpbEVogaLjLqOV5 / fMEqPh8ZGVWuvsPOqoO0ecv7VLHjAMdF7eeekKI5gGBIPAAyQnD6dCePSPnFpkKIhgY7NTe38WbjeDrpRY5 / yB6HhkYc5cEunrecaqe + + + + XjtbpZbdtWVc / 35RzfHRV / បណ្ឌិត IxpAQbCvpRXRjdvtLPlpaQW8LkaWO / Hh0 / 4XiJ4imn4YXE3iQPmjrtSgGtg / vhM + + Ge4B3G9QL2mPUKN3t5BWrkync8R / 3COmCdcJ / ASX + + FiYYEQWL2f3mIoGsy9srKEWzOiVYM / QLgRYJW2TzC59FU / rcl9XpkRu1Mg3G509MMUF / cI1dU1OWLah9O6Kt7iNqYhEIu7BmwqzGV / jTtEYIW2TzCBy8vJyeBzjLhBcWNjz4pfXc / xC3Ost7c1OcX0BbeioYhMd2RFgtHR33gUrR5ghbaPGcA + + affFXwxFw50BCxLWAVGQ2sJlajFL2wdxVRsztYe / tZGZMMweUfyhlhAgcEIcEbvUiOdLRl0CJDC1NdtYUIh / 7doN3d + + ZLSDmbAN36RElezQUraDwXT715MJM3fYJNTyl / IhnaOW4I5htH7hrWLQ77hX3qCsaXBjiWUzMPGXFFVxzt20fgJYONhPfE / UcflsNRM7MKnbGRXGzaIHLFSWF0WEmt + + wvuu7RZrMpZ / q + + FpuKxCMyMsJZ7YsYiNqr2X6ALQsCYbNFSaAGv4v20NjY71S7 + + 1NeQwvoyNEztHjRApeEBu76laK1znT6nsRTTAsm6KoMfHuKhUY5IERXg2smxr9RZoEHlr48o0iZuYLnZ7iR9K6D + + z90sNJ5Q + + Eab14Q8hmzPJqBNcJiIRKSFvyjt2 / / 63SXGHFgY / A5LHomQGsJXgJNXHRrADYXc3R4EhLieS2QnSJ / mXXR0KvbuHE1n6NzMjExSY1NLc6OCto + + YWH3cbxE8zU1NZHXA83Pv4zR55 / VcAMAcRjNAIB5cvLiaQ2FQHWK / MW0XX5swNDQsEtsCwZw0Rvysg2TFrjq48f2Ot0hEqPCTe + + 5uD3Up3Cb585 / zWXRXf8vZnGPRgSy7eMLsIqBgevO7FYLbiZYUCA6Rf5iWtFmC9SVwMiNwZ0DNAxQfmwrq6MdFa / zg00tnl4Q8hcpmgZ1PNMDj14Qg0USgpJHz43C + + + + + 4MUTQXiFeKZEYHqFHEt2tzG9R6SFV tDVx7UXLvQoq4FBiqYBnaCszBRl5kqgOkWoO5EV + + RoqnASzoAb0mp03dB7potPBoV4aJTBMTDTb0XhFBaiDpP / 6IN5g25Q9l0LSOiAhzeSLiEbOn / KEMssrY2HlsmXoW7Ql9S5OYGmlpFkSKZkGkaBZEimY5iP4HbwaK8sfNCowAAAAASUVORK5CYII = &quot;&gt; &lt;/ p&gt;
+&lt;p&gt; = ការចំណាយលើកម្រិតអប់រំ &lt;em&gt; n &lt;/em&gt; ជាភាគរយនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ &lt;em&gt; ធីតា &lt;/em&gt; &lt;/p&gt;
+&lt;p&gt; = ការចំណាយទូទៅរបស់រដ្ឋាភិបាលសរុបទៅលើកម្រិតអប់រំ &lt;em&gt; n &lt;/em&gt; ក្នុងឆ្នាំហិរញ្ញវត្ថុ &lt;em&gt; ធីតា &lt;/em&gt;
+&lt;p&gt; = ការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ &lt;em&gt; ធីតា &lt;/em&gt; &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM">ក្នុងករណីខ្លះទិន្នន័យស្តីពីការចំណាយសាធារណៈសរុបលើការអប់រំសំដៅទៅលើក្រសួងអប់រំយុវជននិងកីឡាប៉ុណ្ណោះដោយមិនរាប់បញ្ចូលក្រសួងផ្សេងទៀតក៏អាចចំណាយថវិកាមួយចំណែកនៃសកម្មភាពរបស់ពួកគេ។ [២១៦]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; សូចនាករនេះត្រូវបានប្រើដើម្បីវាយតម្លៃការសង្កត់ធ្ងន់របស់រដ្ឋាភិបាលទៅលើការអប់រំទាក់ទងនឹងការវិនិយោគរបស់ខ្លួននៅក្នុងវិស័យផ្សេងៗ។ សូចនាករនេះបង្ហាញថាតើការអប់រំអាទិភាពមានប៉ុន្មានសម្រាប់រដ្ឋាភិបាលដែលបានផ្តល់ឱ្យលើសម៉ោងឬប្រៀបធៀបជាមួយប្រទេសដទៃទៀត។ [២៤៦]
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ [១០៦]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ ២០២១ [៣១]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ទិន្នន័យស្តីពីការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ទទួលបានពីមូលដ្ឋានទិន្នន័យហិរញ្ញវត្ថុរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុហើយត្រូវបានធ្វើបច្ចុប្បន្នភាពម្តងក្នុងមួយឆ្នាំ។ ចំណែកឯទិន្នន័យស្តីពីការចំណាយតាមវិស័យជាក់លាក់ដូចជាការចំណាយការអប់រំការចំណាយលើសុខភាពត្រូវបានផ្តល់ដោយ MEYS, ក្រសួងសុខាភិបាល។ ល។ [២៦៤]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; របាយការណ៍ហិរញ្ញវត្ថុប្រចាំឆ្នាំរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ (MEF) និងក្រសួងអប់រំយុវជននិងកីឡា (MEYS) [១១៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; ចំណាយទូទៅរបស់រដ្ឋាភិបាលទូទៅ (ក្នុងតំបន់និងកណ្តាល) លើការអប់រំ (បច្ចុប្បន្នមូលធននិងការផ្ទេរ) បានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាលលើវិស័យទាំងអស់ (រួមមានសុខភាពការអប់រំសេវាកម្មសង្គម។ ល។ ) ។ វារួមបញ្ចូលទាំងការចំណាយដែលផ្តល់មូលនិធិដោយការផ្ទេរពីប្រភពអន្តរជាតិទៅរដ្ឋាភិបាល។ [៣៤២]
+[៣៤៧] ការចំណាយរបស់រដ្ឋាភិបាលលើការអប់រំគ្របដណ្តប់លើការចំណាយការអប់រំរបស់រដ្ឋាភិបាលគ្រប់ជាន់ថ្នាក់ (ក្នុងតំបន់ថ្នាក់កណ្តាល) លើប្រព័ន្ធអប់រំផ្លូវការតាំងពីកុមារភាពរហូតដល់ការអប់រំនៅឧត្តមសិក្សាទាំងនៅក្នុងគ្រឹះស្ថានអប់រំសាធារណៈនិងឯកជននិងមិនមែនការអប់រំនៅព្រំដែន [៦៥៦]
+[៦៦១] ការចំណាយលើការអប់រំរួមមានការចំណាយលើទំនិញនិងសេវាកម្មអប់រំសំខាន់ៗដូចជាបុគ្គលិកបង្រៀនអគារសិក្សាឬសៀវភៅសិក្សានិងសម្ភារៈបង្រៀននិងទំនិញនិងសេវាកម្មអប់រំផ្សេងៗដូចជាសេវាកម្មជំនួយរដ្ឋបាលទូទៅនិងសកម្មភាពផ្សេងៗទៀត។ [៩៥០]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; kimnettt@gmail.com [២១]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] ០១៧ ៣៨០ ០៥៣ / ០១៦ ៧៧០ ៧៦៩ [២៦]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; ប្រធាននាយកដ្ឋាន [២៥]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ គីមណេត [១៤]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គម, អាយអាយអេស, ក្រសួងផែនការ [៥៨]
+									</field>
+									<field id="SDG_RELATED_INDICATORS">[០] ៤.៥.៣, ៤.៥.៤, ៤.៥.៥, ៤, ១, ៤, ១, ៤.b.២ [៤៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែតុលាឆ្នាំ ២០២០ [១៥]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើការអប់រំ [៥៥]
+[៦០] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសុខភាព [១១២]
+[១១៧] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើកិច្ចការពារសង្គម [១៨០]
+[១៨៥] សមាមាត្រនៃការចំណាយរបស់រដ្ឋាភិបាលសរុបលើកសិកម្ម [២៤២]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ១. ក ២៖ សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសេវាកម្មចាំបាច់ (ការអប់រំសុខភាពនិងការគាំពារសង្គម) [១១៣]
+[១១៨] ឯកសារនេះអនុវត្តចំពោះសមាសធាតុអប់រំនៃសូចនាករ ១. ក ២ [១៨៨]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; គោលដៅ ១. ក៖ ធានាការកៀរគរធនធានយ៉ាងច្រើនពីប្រភពជាច្រើនរាប់បញ្ចូលទាំងតាមរយៈកិច្ចសហប្រតិបត្តិការអភិវឌ្ឍន៍ដើម្បីផ្តល់មធ្យោបាយគ្រប់គ្រាន់និងអាចព្យាករណ៍បានសម្រាប់ប្រទេសកំពុងអភិវឌ្ឍន៍ជាពិសេសប្រទេសអភិវឌ្ឍន៍តិចតួចដើម្បីអនុវត្តកម្មវិធីនិងគោលនយោបាយដើម្បីបញ្ចប់។ ភាពក្រីក្រនៅគ្រប់វិស័យ [៣៣០]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅ ១. បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៥០]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គម, អាយអេសអាយអេស ៣៦
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
 									<field id="OTHER_DOC"/>
 </fields>
@@ -2162,134 +2337,234 @@
 						</indicator>
 						<indicator id="10-1-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍អង្កេតសេដ្ឋកិច្ចសង្គមកម្ពុជា៖ [៤៣] https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports [២២៤] [ ២២៨]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានដោយទីតាំងភូមិសាស្ត្រ៖ ជាតិទីក្រុងទីក្រុងជនបទនិងតាមតំបន់អេកូឡូស៊ី៖ បឹងទន្លេសាបធម្មតាឆ្នេរសមុទ្រនិងខ្ពង់រាបនិងភ្នំ។ [១៥១]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ដើម្បីតម្រឹមគំនិតនិងនិយមន័យសកលទំហំគ្រួសារជាមធ្យមដែលបានអនុវត្តនិងចំនួនប្រជាជនសរុបត្រូវបានប្រើប្រាស់ហើយលទ្ធផលជាទូទៅគឺដូចគ្នានឹងវិធីសាស្រ្តផ្អែកលើគ្រួសារដែរ។ [១៩២]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; កំណើនប្រចាំឆ្នាំជាមធ្យមនៃចំណូលឬការប្រើប្រាស់ពិតប្រាកដរបស់មនុស្សម្នាក់ៗត្រូវបានគណនាដោយការប៉ាន់ស្មានដំបូងនៃចំណូលមធ្យមឬចំណូលពិតរបស់មនុស្សម្នាក់ប្រៀបធៀបនឹងអត្រាកំណើនជាមធ្យមប្រចាំឆ្នាំ។ [១៩១]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt១, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ស៊ីអេសអេសត្រូវបានអនុវត្តដោយអាយអាយអេសចាប់តាំងពីឆ្នាំ ១៩៩៣ បន្ទាប់មកនៅឆ្នាំ ១៩៩៦, ១៩៩៧, ១៩៩៩, ២០០៤ និងធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧-២០០៧ ។ ការស្ទង់មតិចុងក្រោយគឺនៅក្នុងឆ្នាំ ២០១៩ ។ ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពរងគ្រោះភាពងាយរងគ្រោះនិងអ្នកដទៃ។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ បួនចុងក្រោយត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤ ២០០៩ ២០០៩ និងឆ្នាំ ២០១៩ ។ យ៉ាងណាក៏ដោយការស្ទង់មតិគំរូដ៏ធំនេះត្រូវបានធ្វើឡើងរៀងរាល់ ២ ឆ្នាំម្តងដែលចាប់ផ្តើមពីឆ្នាំ ២០២១ តទៅ។
+[៨១៥] ចាប់តាំងពីស៊ីអេសអេស ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់គ្រួសារនិងប្រាក់ចំណូលគ្រួសារត្រូវបានណែនាំ។ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១៣០៨]
+[១៣១៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសលើការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៥១៩] http://nada-nis.gov .kh / index.php / ផ្ទះ [១៦០៤] ។ [១៦០៩]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាកំណើននៅក្នុងសុខុមាលភាពសរុបក្រោម ៤០% ត្រូវបានគេគណនាថាជាអត្រាកំណើនជាមធ្យមប្រចាំឆ្នាំក្នុងការប្រើប្រាស់ឬចំណូលពិតប្រាកដរបស់មនុស្សម្នាក់ក្រោម ៤០% នៃការចែកចាយប្រាក់ចំណូលនៅក្នុងប្រទេសមួយពីការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (ស៊ីអេសអេស) ។ រយៈពេលប្រហែល ២ ឆ្នាំ។ អត្រាកំណើនជាមធ្យមថ្នាក់ជាតិនៅក្នុងសុខុមាលភាពសរុបត្រូវបានគណនាជាអត្រាកំណើនជាមធ្យមប្រចាំឆ្នាំក្នុងការប្រើប្រាស់ឬចំណូលពិតប្រាកដរបស់ប្រជាជនសរុបក្នុងប្រទេសមួយពីការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) ក្នុងរយៈពេលប្រហែល ២ ឆ្នាំ។ [៥៤១]
+									</field>
+									<field id="CONTACT_EMAIL">[០] [៣] saonith@gmail.com [៥៥] / [៦២] sotheavuth@gmail.com [១២០] [១២៤]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ៣៨៦ ផ្លូវ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា។
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១២ ៦២៦ ៧២៦ / ១១ ៣៨៨ ៨៨៩ [៣១]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អនុប្រធាននាយកដ្ឋាន [៣២]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ យឹមសាន់និត /Mr.Un Savin / លោកសំសុខសុធាវុធ [៥៥]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) [៤១]
+									</field>
+									<field id="META_LAST_UPDATE">[០] មិថុនា ២០២០ [១២]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ១០.១.១ អត្រាកំណើននៃការចំណាយក្នុងគ្រួសារឬប្រាក់ចំណូលសម្រាប់មនុស្សម្នាក់ៗ [១០.១.១] (SI_HEI_TOTL) [៩១]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; គោលដៅទី ១០.១៖ នៅឆ្នាំ ២០៣០ ទទួលបានលទ្ធផលជាលំដាប់និងរក្សាបាននូវកំណើនប្រាក់ចំណូលនៅបាត ៤០ ភាគរយនៃប្រជាជនក្នុងអត្រាខ្ពស់ជាងមធ្យមភាគជាតិ [១៥៩]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅទី ១០៖ កាត់បន្ថយវិសមភាពនៅក្នុងនិងក្នុងចំណោមប្រទេសនានា [៥៦]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានគណនេយ្យជាតិវិទ្យាស្ថានស្ថិតិជាតិ [៦៨]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="10-4-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍ពីបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៣]
+									</field>
+									<field id="DOC_METHOD">&lt;p&gt; អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; តួលេខការចូលនិវត្តន៍និងពិការភាពត្រូវបានកត់ត្រាដោយប្រព័ន្ធគ្រប់គ្រងទិន្នន័យសោធននិវត្តន៍និងជនពិការតាមឆ្នាំរបាយការណ៍។ [១២៨]
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]
+									</field>
+									<field id="DATA_SOURCE">បេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៥១]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; ម្តងក្នុងមួយឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ម្តងក្នុងមួយឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; កំណត់ត្រារដ្ឋបាលពីគ្រប់មន្ទីរខេត្ត [៥៥]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ប្រព័ន្ធទិន្នន័យបេឡាជាតិរបបសន្តិសុខសង្គមសម្រាប់មន្រ្តីរាជការស៊ីវិល [៦៦]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; បុគ្គល [៩]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; ការចូលនិវត្តន៍គឺជាមន្រ្តីរាជការដែលចូលនិវត្តន៍ម្នាក់ដែលទទួលបានប្រាក់ឧបត្ថម្ភប្រចាំខែដែលផ្តល់ដោយរដ្ឋផ្អែកលើអាយុ ៥៥ ឆ្នាំឡើងទៅនិងអាយុ ២០ ឆ្នាំ។
+[១៤៨] ភាពពិការគឺជាមន្រ្តីរាជការម្នាក់ដែលមិនអាចធ្វើការបានទៀតដោយសារតែបាត់បង់សមត្ថភាពជំនាញហើយទទួលបានប្រាក់ខែប្រចាំខែដែលផ្តល់ដោយរដ្ឋនិងមានអតីតភាពការងារចាប់ពី ២០ ឆ្នាំឡើងទៅ។
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; mosvy.dpss.gmail.com &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ យឹមកឹមសាន [១៧]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]
+									</field>
+									<field id="META_LAST_UPDATE">[០] ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៧]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ស៊េរីជាតិ ០.០.០ មិននៅក្នុងក្របខ័ណ្ឌសកល (_) [៥២]
+									</field>
+									<field id="SDG_INDICATOR">[០] ១០.៤.១ និវត្តន៍ជននិងជនពិការ [៤៧]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ១០.៤ យល់ព្រមលើគោលនយោបាយជាពិសេសគោលនយោបាយសារពើពន្ធប្រាក់ខែការគាំពារសង្គមនិងទទួលបានសមភាពបន្ថែមទៀត [១០៦]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ១០ ។ កាត់បន្ថយវិសមភាពនៅក្នុងប្រទេសនិងក្នុងចំណោមប្រទេសដទៃទៀត [៦៥]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="RATIONALE"/>
 									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
 									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="2-2-1">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; វិធីសាស្រ្តវិភាគស្តង់ដារដើម្បីកសាងសំណុំទិន្នន័យរួមមានគោលបំណងសម្រាប់ការប្រៀបធៀបអតិបរិមានៃការប៉ាន់ស្មានរបស់ប្រទេស។ ចំពោះការដាក់បញ្ចូលការប៉ាន់ស្មាននៃការស្ទង់មតិទៅក្នុងសំណុំទិន្នន័យ JME ក្រុមអន្តរទីភ្នាក់ងារអនុវត្តលក្ខណៈវិនិច្ឆ័យវាយតម្លៃគុណភាពស្ទង់មតិ។ នៅពេលមានឯកសារមិនគ្រប់គ្រាន់ការស្ទង់មតិមិនត្រូវបានរាប់បញ្ចូលទេរហូតដល់មានព័ត៌មាន។ នៅពេលមានទិន្នន័យឆៅហើយមានសំណួរអំពីវិធីសាស្រ្តវិភាគការវិភាគទិន្នន័យត្រូវបានអនុវត្តតាមវិធីសាស្ត្រស្តង់ដារ។ ភាពខុសគ្នារវាងលទ្ធផលពីវិធីសាស្រ្តស្តង់ដារនិងរបាយការណ៍ដែលបានរាយការណ៍អាចកើតឡើងដោយហេតុផលផ្សេងៗឧទាហរណ៍ការប្រើស្តង់ដារផ្សេងៗគ្នាសម្រាប់ការគណនាពិន្ទុ Z ការកាត់ទោសថ្ងៃកំណើតនៅពេលបាត់ការប្រើអាយុមូលក្នុងខែការប្រើប្រាស់ខុសៗគ្នា។ ប្រព័ន្ធដាក់ទង់សម្រាប់ការដកទិន្នន័យ។ សម្រាប់ការស្ទង់មតិផ្អែកលើឯកសារយោង NCHS / WHO ពីមុននិងសម្រាប់ទិន្នន័យដើមមិនអាចរកបានវិធីសាស្រ្តនៃការបំលែងពិន្ទុ Z ដោយផ្អែកលើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោកត្រូវបានអនុវត្ត (យ៉ង់និងដឺអូស៊ីសឆ្នាំ ២០០៨) លើសពីនេះទៀតនៅពេលដែលការស្ទង់មតិមិនគ្របដណ្តប់លើចន្លោះអាយុ ០- &lt;៥ ឆ្នាំឬគ្រាន់តែជាតំណាងតំបន់ជនបទការកែសំរួលផ្អែកលើការស្ទង់មតិផ្សេងទៀតសម្រាប់ប្រទេសតែមួយត្រូវបានអនុវត្ត។ ការកែសំរួលឬបំលែងណាមួយត្រូវបានបញ្ជាក់ដោយតម្លាភាពនៅក្នុងសំណុំទិន្នន័យរួមដែលបានពន្យល់។ &lt;/p&gt;
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្តាយ (ទីក្រុង / ជនបទ) និងតាមការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២១០]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ការប៉ាន់ស្មាននៃការស្ទង់មតិគឺផ្អែកលើវិធីសាស្រ្តដែលមានលក្ខណៈស្តង់ដារដោយប្រើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក។ [៩៥]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ការលូតលាស់របស់កុមារគឺជាលទ្ធផលទទួលយកជាអន្តរជាតិដែលឆ្លុះបញ្ចាំងពីស្ថានភាពអាហារូបត្ថម្ភរបស់កុមារ។ ភាពក្រិនរបស់កុមារសំដៅទៅលើកុមារដែលមានអាយុខ្លីពេកសម្រាប់អាយុរបស់ពួកគេហើយជាលទ្ធផលនៃកង្វះអាហារូបត្ថម្ភរ៉ាំរ៉ៃឬកើតឡើងវិញ។ ភាពក្រិនគឺជាកត្តាហានិភ័យរួមចំណែកដល់អត្រាមរណភាពកុមារហើយក៏ជាសញ្ញាណនៃវិសមភាពក្នុងការអភិវឌ្ឍមនុស្សផងដែរ។ កុមារក្រិនមិនបានឈានដល់សក្តានុពលរាងកាយនិងការយល់ដឹងរបស់ពួកគេទេ។ ភាពក្រិនរបស់កុមារគឺជាសូចនាករមួយក្នុងចំណោមសូចនាករគោលដៅអាហារូបត្ថម្ភរបស់អង្គការសុខភាពពិភពលោក។ [៤៨៤]
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Quater3, ២០២១ [៣៩]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៨៣៩] http://nada.nis.gov .kh / index.php / ផ្ទះ [១៩២៤] [១៩២៨]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្រិតអាយុសម្រាប់អាយុ -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផាន់ចិន្តា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ២.២.១ កុមារ (មានចំនួនតិចឬក្រិនធ្ងន់ធ្ងរ) [២.២.១] (SH_STA_STNTN) [៨០]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ២.២.១៖ អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្ពស់សម្រាប់អាយុ dev -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារលូតលាស់របស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET">[០] ២,២: នៅឆ្នាំ ២០៣០ បញ្ចប់កង្វះអាហារូបត្ថម្ភគ្រប់ទម្រង់ទាំងអស់រួមទាំងការសម្រេចគោលដៅអន្តរជាតិស្តីពីភាពក្រិននិងការខ្ជះខ្ជាយចំពោះកុមារអាយុក្រោម ៥ ឆ្នាំនិងដោះស្រាយតម្រូវការអាហារូបត្ថម្ភរបស់ក្មេងស្រីវ័យជំទង់មានផ្ទៃពោះនិងស្ត្រីបំបៅកូននិងមនុស្សចាស់។ [២៧៣]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅទី ២៖ បញ្ចប់ភាពអត់ឃ្លាន, ទទួលបានសន្តិសុខស្បៀងនិងការលើកកម្ពស់អាហារូបត្ថម្ភនិងលើកកម្ពស់កសិកម្មប្រកបដោយចីរភាព [១០៣]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2298,46 +2573,86 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="2-2-2">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; វិធីសាស្រ្តវិភាគស្តង់ដារដើម្បីកសាងសំណុំទិន្នន័យរួមមានគោលបំណងសម្រាប់ការប្រៀបធៀបអតិបរិមានៃការប៉ាន់ស្មានរបស់ប្រទេស។ ចំពោះការដាក់បញ្ចូលការប៉ាន់ស្មាននៃការស្ទង់មតិទៅក្នុងសំណុំទិន្នន័យ JME ក្រុមអន្តរទីភ្នាក់ងារអនុវត្តលក្ខណៈវិនិច្ឆ័យវាយតម្លៃគុណភាពស្ទង់មតិ។ នៅពេលមានឯកសារមិនគ្រប់គ្រាន់ការស្ទង់មតិមិនត្រូវបានរាប់បញ្ចូលទេរហូតដល់មានព័ត៌មាន។ នៅពេលមានទិន្នន័យឆៅហើយមានសំណួរអំពីវិធីសាស្រ្តវិភាគការវិភាគទិន្នន័យត្រូវបានអនុវត្តតាមវិធីសាស្ត្រស្តង់ដារ។ ភាពខុសគ្នារវាងលទ្ធផលពីវិធីសាស្រ្តស្តង់ដារនិងរបាយការណ៍ដែលបានរាយការណ៍អាចកើតឡើងដោយហេតុផលផ្សេងៗឧទាហរណ៍ការប្រើស្តង់ដារផ្សេងៗគ្នាសម្រាប់ការគណនាពិន្ទុ Z ការកាត់ទោសថ្ងៃកំណើតនៅពេលបាត់ការប្រើអាយុមូលក្នុងខែការប្រើប្រាស់ខុសៗគ្នា។ ប្រព័ន្ធដាក់ទង់សម្រាប់ការដកទិន្នន័យ។ សម្រាប់ការស្ទង់មតិផ្អែកលើឯកសារយោង NCHS / WHO ពីមុននិងសម្រាប់ទិន្នន័យដើមមិនអាចរកបានវិធីសាស្រ្តនៃការបំលែងពិន្ទុ Z ដោយផ្អែកលើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោកត្រូវបានអនុវត្ត (យ៉ង់និងដឺអូស៊ីសឆ្នាំ ២០០៨) លើសពីនេះទៀតនៅពេលដែលការស្ទង់មតិមិនគ្របដណ្តប់លើចន្លោះអាយុ ០- &lt;៥ ឆ្នាំឬគ្រាន់តែជាតំណាងតំបន់ជនបទការកែសំរួលផ្អែកលើការស្ទង់មតិផ្សេងទៀតសម្រាប់ប្រទេសតែមួយត្រូវបានអនុវត្ត។ ការកែសំរួលឬបំលែងណាមួយត្រូវបានបញ្ជាក់ដោយតម្លាភាពនៅក្នុងសំណុំទិន្នន័យរួមដែលបានពន្យល់។ &lt;/p&gt;
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្តាយ (ទីក្រុង / ជនបទ) និងតាមការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២១០]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ការប៉ាន់ស្មាននៃការស្ទង់មតិគឺផ្អែកលើវិធីសាស្រ្តដែលមានលក្ខណៈស្តង់ដារដោយប្រើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក។ [៩៥]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប៉ាន់ស្មានរបស់ CDHS មានកម្រិតមិនច្បាស់លាស់ដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ការលូតលាស់របស់កុមារគឺជាលទ្ធផលទទួលយកជាអន្តរជាតិដែលឆ្លុះបញ្ចាំងពីស្ថានភាពអាហារូបត្ថម្ភរបស់កុមារ។ ការខ្ជះខ្ជាយឬលើសទម្ងន់របស់កុមារសំដៅទៅលើក្មេងដែលស្គមស្គាំងចំពោះកម្ពស់របស់ខ្លួនហើយជាលទ្ធផលនៃការស្រកទម្ងន់យ៉ាងឆាប់រហ័សឬការឡើងទម្ងន់។ ក្មេងដែលខ្ជះខ្ជាយមធ្យមឬខ្ជះខ្ជាយមានការកើនឡើងហានិភ័យនៃការស្លាប់ប៉ុន្តែការព្យាបាលអាចធ្វើទៅបាន។ ការខ្ជះខ្ជាយកុមារគឺជាសូចនាករមួយក្នុងចំណោមសូចនាករគោលដៅអាហារូបត្ថម្ភរបស់អង្គការសុខភាពពិភពលោក។ [៤៣២]
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Quater3, ២០២១ [៣៩]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៨៣៩] http://nada.nis.gov .kh / index.php / ផ្ទះ [១៩២៤] [១៩២៨]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាប្រេវ៉ាឡង់នៃការខ្ជះខ្ជាយ / លើសទម្ងន់ (ទំងន់កម្ពស់&gt; + គម្លាតគំរូពីកំរិតមធ្យមនៃស្តង់ដារលូតលាស់របស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ។ [១៩៣]
+[១៩៨] សូចនាករ MDG ផ្លូវការកំពុងខ្ជះខ្ជាយដូចដែលបានវាយតម្លៃដោយប្រើទំងន់។ ទោះយ៉ាងណាការតមអាហារក៏អាចត្រូវបានគេវាយតម្លៃជាមួយនឹងបរិមណដៃពាក់កណ្តាល (MUAC) ។ ការប៉ាន់ប្រមាណនៃការខ្ជះខ្ជាយដោយផ្អែកលើ MUAC មិនត្រូវបានពិចារណាសម្រាប់សំណុំទិន្នន័យរួមគ្នាទេ។ លើសពីនេះទៀតខណៈពេលដែលខ្ជះខ្ជាយបង្កើតជាទម្រង់ដ៏សំខាន់នៃកង្វះអាហារូបត្ថម្ភស្រួចស្រាវមានកុមារខ្វះអាហារូបត្ថម្ភច្រើនដែលមិនត្រូវបានលើកទម្ងន់ឬកម្ពស់ដូចជា MUAC ។ និងអវយវៈ) ។ សម្រាប់ការស្ទង់មតិដែលរាយការណ៍អំពីករណីហើមពោះនៅក្នុងសំណុំទិន្នន័យរួមទាំងនេះត្រូវបានរាប់បញ្ចូលក្នុងអត្រាប្រេវ៉ាឡង់នៃទំងន់ទាបសម្រាប់កម្ពស់។
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ២.២.២ កុមារខ្ជះខ្ជាយមធ្យមឬខ្ជះខ្ជាយ (ចំនួន) [៥៦]
+[៦១] ២.២.២ សមាមាត្រនៃកុមារលើសទម្ងន់មធ្យមឬធ្ងន់ [១២៦]
+[១៣១] ២.២.២ កុមារផ្ទុកលើសទម្ងន់ល្មមឬមធ្យម (ចំនួន) [១៩១]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ២.២.២ អត្រាប្រេវ៉ាឡង់នៃកង្វះអាហារូបត្ថម្ភ (ទំងន់កម្ពស់&gt; +២ ឬគម្លាតគំរូពីកំរិតមធ្យមនៃស្តង់ដារលូតលាស់របស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំតាមប្រភេទ (ខ្ជះខ្ជាយនិងលើសទម្ងន់) &lt;/p&gt; &gt;
+									</field>
+									<field id="SDG_TARGET">[០] ២,២: នៅឆ្នាំ ២០៣០ បញ្ចប់កង្វះអាហារូបត្ថម្ភគ្រប់ទម្រង់ទាំងអស់រួមទាំងការសម្រេចគោលដៅអន្តរជាតិស្តីពីភាពក្រិននិងការខ្ជះខ្ជាយចំពោះកុមារអាយុក្រោម ៥ ឆ្នាំនិងដោះស្រាយតម្រូវការអាហារូបត្ថម្ភរបស់ក្មេងស្រីវ័យជំទង់មានផ្ទៃពោះនិងស្ត្រីបំបៅកូននិងមនុស្សចាស់។ [២៧៣]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅទី ២៖ បញ្ចប់ភាពអត់ឃ្លាន, ទទួលបានសន្តិសុខស្បៀងនិងការលើកកម្ពស់អាហារូបត្ថម្ភនិងលើកកម្ពស់កសិកម្មប្រកបដោយចីរភាព [១០៣]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2346,46 +2661,88 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="2-2-3">
 								<fields>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Quater3, ២០២១ [៣៩]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៨៣៩] http://nada.nis.gov .kh / index.php / ផ្ទះ [១៩២៤] [១៩២៨]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; ភាគរយនៃស្ត្រីដែលមានអាយុពី ១៥-៤៩ ឆ្នាំជាមួយនឹងកំហាប់អេម៉ូក្លូប៊ីនតិចជាង ១២០ ក្រាមក្នុងមួយលីសម្រាប់ស្ត្រីដែលមិនមានផ្ទៃពោះនិងស្ត្រីបំបៅដោះនិងតិចជាង ១១០ ក្រាមក្នុងមួយលីសម្រាប់ស្ត្រីមានផ្ទៃពោះដែលត្រូវបានកែសម្រួលសម្រាប់កំពស់និងជក់បារី។
+[២១៦] ភាពស្លេកស្លាំង៖ ស្ថានភាពដែលកំហាប់អេម៉ូក្លូប៊ីនក្នុងឈាមទាបជាងតម្លៃដែលត្រូវបានបង្កើតឡើង។
+[៣៣០] រដ្ឋដែលខ្វះជាតិដែកដែលក្នុងនោះមានជាតិដែកមិនគ្រប់គ្រាន់ដើម្បីរក្សាមុខងារសរីរវិទ្យាធម្មតានៃឈាមខួរក្បាលនិងសាច់ដុំ (អាន់ឌីឌី ១១- កង្វះជាតិដែក ៥ ប៊ី ៥K.០) [៤៩៧]
+[៥០២] ភាពស្លេកស្លាំងកង្វះជាតិដែក៖ (អាយស៊ីឌី -១១, ៣ អា។ , ភាពស្លកសាំងខ្វះជាតិដែក) [៥៦៩]
+[៥៧៤] កំហាប់អេម៉ូក្លូប៊ីនឈាម៖ កំហាប់អេម៉ូក្លូប៊ីនក្នុងឈាមទាំងមូល [៦៥៣]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ២.២.៣ សមាមាត្រនៃស្ត្រីដែលមានអាយុពី ១៥-៤៩ ឆ្នាំមានភាពស្លេកស្លាំង, មានផ្ទៃពោះ [៦៨]
+[៧៣] ២.២.៣ សមាមាត្រនៃស្ត្រីដែលមានអាយុពី ១៥-៤៩ ឆ្នាំមានភាពស្លេកស្លាំងមិនមានផ្ទៃពោះ [១៤៥]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ២.២.៣ ភាពមិនប្រក្រតីនៃភាពស្លេកស្លាំងចំពោះស្ត្រីដែលមានអាយុពី ១៥ ទៅ ៤៩ ឆ្នាំតាមស្ថានភាពមានផ្ទៃពោះ [៨១]
+									</field>
+									<field id="SDG_TARGET">[០] ២,២: នៅឆ្នាំ ២០៣០ បញ្ចប់កង្វះអាហារូបត្ថម្ភគ្រប់ទម្រង់ទាំងអស់រួមទាំងការសម្រេចគោលដៅអន្តរជាតិស្តីពីភាពក្រិននិងការខ្ជះខ្ជាយចំពោះកុមារអាយុក្រោម ៥ ឆ្នាំនិងដោះស្រាយតម្រូវការអាហារូបត្ថម្ភរបស់ក្មេងស្រីវ័យជំទង់មានផ្ទៃពោះនិងស្ត្រីបំបៅកូននិងមនុស្សចាស់។ [២៧៣]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅទី ២៖ បញ្ចប់ភាពអត់ឃ្លាន, ទទួលបានសន្តិសុខស្បៀងនិងការលើកកម្ពស់អាហារូបត្ថម្ភនិងលើកកម្ពស់កសិកម្មប្រកបដោយចីរភាព [១០៣]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥១] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៨០] [១៨៤]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានផ្អែកលើ CDHS ២០០០ ២០០៥ ២០០៥ ឆ្នាំ ២០១០ និង ២០១៤។ [៥៨]
+[៦៣] ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្ដាយ (ទីក្រុង / ជនបទ) និងដោយការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២៧៣]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនស្ត្រីដែលមានភាពស្លេកស្លាំងដែលមានអាយុពី ១៥ ទៅ ៤៩ ឆ្នាំចែកនឹងចំនួនស្ត្រីសរុបដែលមានអាយុពី ១៥ ទៅ ៤៩ ឆ្នាំ
+[១០៦] ស្ថានភាពភាពស្លេកស្លាំងរបស់ស្ត្រីត្រូវបានវាយតម្លៃដោយប្រើកំហាប់អេម៉ូក្លូប៊ីនក្នុងឈាម។ នៅក្នុងការស្ទង់មតិការផ្តោតអារម្មណ៍អេម៉ូក្លូប៊ីនឈាមត្រូវបានវាស់ជាធម្មតាដោយប្រើវិធីសាស្ដ្រស៊ីណៃម៉ាឡូឡូប៊ីននៅក្នុងមន្ទីរពិសោធន៍រឺក៏ដោយប្រើម៉ូទ័រអេម៉ូក្លូប៊ីនដែលអាចយកតាមខ្លួនបានដោយប្រើថាមពលអគ្គីសនីនៅក្នុងកន្លែងដែលប្រើវិធីសាស្ត្រអាហ្សីត - មេតាមូក្លូប៊ីន។
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ទោះបីជាមានការស្វែងរកទិន្នន័យយ៉ាងទូលំទូលាយក៏ដោយទិន្នន័យសម្រាប់កំហាប់អេម៉ូក្លូប៊ីនក្នុងឈាមនៅតែមានកំរិតនៅឡើយបើប្រៀបធៀបទៅនឹងសូចនាករអាហារូបត្ថម្ភផ្សេងទៀតដូចជាកត្តាមនុស្សសាស្ត្រ (១ ២៤) នេះជាការពិតជាពិសេសនៅក្នុងបណ្តាប្រទេសដែលមានប្រាក់ចំណូលខ្ពស់នៃតំបន់អឺរ៉ុបរបស់អង្គការសុខភាពពិភពលោក។ ជាលទ្ធផលការប៉ាន់ស្មានមិនអាចចាប់យកបំរែបំរួលពេញលេញនៅទូទាំងប្រទេសនិងតំបន់ទេ។ លើសពីនេះទៀតវាមិនអាចទៅរួចទេក្នុងការបញ្ចូលទៅក្នុងការវិភាគព្យាករណ៍សំខាន់ៗមួយចំនួននៃការផ្តោតអារម្មណ៍អេម៉ូក្លូប៊ីនឈាមជាពិសេសការបន្ថែមជាតិដែកនិងអាហារបំប៉នជាតិដែកដោយសារតែទិន្នន័យមានកំណត់។ [៦២៩]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ភាពស្លេកស្លាំងគឺមានជាទូទៅនៅទូទាំងពិភពលោកដែលជះឥទ្ធិពលយ៉ាងខ្លាំងដល់កុមារនិងស្ត្រីដែលមានអាយុបន្តពូជ។ វាជះឥទ្ធិពលអវិជ្ជមានដល់ការយល់ដឹងនិងការអភិវឌ្ឍម៉ូទ័រនិងសមត្ថភាពការងារហើយក្នុងចំនោមស្ត្រីមានផ្ទៃពោះភាពស្លកសាំងកង្វះជាតិដែកត្រូវបានផ្សារភ្ជាប់ជាមួយនឹងលទ្ធផលមិនល្អរួមមានការសម្រាលកូនមិនគ្រប់ខែទារកដែលមានទំងន់ទាបនិងការថយចុះការផ្ទុកជាតិដែកសម្រាប់ទារកដែលអាចនាំឱ្យមានការវិវត្តខ្សោយ។ ។ កង្វះជាតិដែកត្រូវបានគេចាត់ទុកថាជាមូលហេតុទូទៅបំផុតនៃភាពស្លកសាំងប៉ុន្តែមានមូលហេតុអាហារូបត្ថម្ភនិងមិនមែនអាហារូបត្ថម្ភដទៃទៀត។ កំហាប់អេម៉ូក្លូប៊ីនក្នុងឈាមត្រូវបានប៉ះពាល់ដោយកត្តាជាច្រើនរួមមានកម្ពស់ (ម៉ែត្រខ្ពស់ជាងកម្រិតទឹកសមុទ្រ) ការជក់បារីត្រីមាសនៃការមានផ្ទៃពោះអាយុនិងភេទ។ ភាពស្លេកស្លាំងអាចត្រូវបានវាយតម្លៃដោយវាស់ជាតិអេម៉ូក្លូប៊ីនហើយនៅពេលប្រើរួមជាមួយសូចនាករផ្សេងទៀតនៃស្ថានភាពជាតិដែកអេម៉ូក្លូប៊ីនផ្តល់ព័ត៌មានអំពីភាពធ្ងន់ធ្ងរនៃកង្វះជាតិដែក។ អត្រាភាពស្លេកស្លាំងចំពោះប្រជាជនត្រូវបានប្រើដើម្បីចាត់ថ្នាក់សារៈសំខាន់សុខភាពសាធារណៈនៃបញ្ហានេះ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2394,9 +2751,7 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
@@ -2450,37 +2805,76 @@
 						</indicator>
 						<indicator id="3-1-1">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩]៖ [១៨៥]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្តាយ (ទីក្រុង / ជនបទ) និងតាមការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២១០]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt៣, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណាសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៨៧៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ក្នុងមួយកំណើតរស់ ១០០.០០០ [២៥]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាមរណភាពមាតា (MMR) ត្រូវបានកំណត់ជាចំនួនមរណភាពមាតាក្នុងកំឡុងពេលដែលបានផ្តល់ឱ្យក្នុងមួយកំណើតរស់ ១០០.០០០ នាក់ក្នុងរយៈពេលដូចគ្នា។ វាបង្ហាញពីហានិភ័យនៃការស្លាប់របស់មាតាដែលទាក់ទងនឹងចំនួនកំណើតរស់និងចាប់យកហានិភ័យនៃការស្លាប់ក្នុងផ្ទៃពោះតែមួយឬកំណើតរស់តែមួយ។ [៣២៦]
+[៣៣១] មរណភាពមាតា៖ ចំនួនមរណភាពរបស់ស្ត្រីប្រចាំឆ្នាំពីបុព្វហេតុណាមួយដែលទាក់ទងនឹងការធ្វើឱ្យកាន់តែធ្ងន់ធ្ងរដោយការមានផ្ទៃពោះឬការគ្រប់គ្រងរបស់វា (មិនរាប់បញ្ចូលមូលហេតុចៃដន្យឬដោយចៃដន្យ) អំឡុងពេលមានផ្ទៃពោះនិងសម្រាលកូនឬក្នុងរយៈពេល ៤២ ថ្ងៃនៃការបញ្ចប់ការមានផ្ទៃពោះដោយមិនគិតពីរយៈពេលនិងទីតាំង នៃការមានផ្ទៃពោះបង្ហាញក្នុងកំណើតរស់ ១០០.០០០ ក្នុងរយៈពេលកំណត់មួយ។ [៦៩៩]
+[៧០៤] មរណភាពមាតា៖ មរណភាពរបស់ស្ត្រីពេលមានផ្ទៃពោះឬក្នុងរយៈពេល ៤២ ថ្ងៃនៃការបញ្ចប់នៃការមានផ្ទៃពោះដោយមិនគិតពីរយៈពេលនិងទីតាំងនៃការមានផ្ទៃពោះពីបុព្វហេតុណាមួយដែលទាក់ទងនឹងការធ្វើឱ្យកាន់តែធ្ងន់ធ្ងរដោយការមានផ្ទៃពោះឬការគ្រប់គ្រងរបស់វា (ពីផ្ទាល់ឬដោយប្រយោល) មរណភាពក្នុងស្បូន) ប៉ុន្តែមិនមែនមកពីមូលហេតុចៃដន្យឬដោយចៃដន្យទេ។ [១០២៥]
+[១០៣០] ការស្លាប់ដែលទាក់ទងនឹងការមានផ្ទៃពោះ៖ ការស្លាប់របស់ស្ត្រីពេលមានផ្ទៃពោះឬក្នុងរយៈពេល ៤២ ថ្ងៃនៃការបញ្ចប់នៃការមានផ្ទៃពោះដោយមិនគិតពីមូលហេតុនៃការស្លាប់។
+[១១៨១] មរណភាពមាតាយឺត ៗ : ការស្លាប់របស់ស្ត្រីពីបុព្វហេតុសម្ភពដោយផ្ទាល់ឬដោយប្រយោលគឺច្រើនជាង ៤២ ថ្ងៃប៉ុន្តែតិចជាងមួយឆ្នាំបន្ទាប់ពីការបញ្ចប់នៃការមានផ្ទៃពោះ [១៣៤០]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៣.១.១ អត្រាមរណភាពមាតា [៣៣]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៣.១ នៅឆ្នាំ ២០៣០ កាត់បន្ថយអត្រាមរណភាពមាតាសកលលោកឱ្យតិចជាង ៧០ នាក់ក្នុងចំនោមកំណើតរស់ ១០០.០០០ [៩៨]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៣ ។ ធានាបាននូវសុខភាពល្អនិងលើកកម្ពស់សុខុមាលភាពសម្រាប់មនុស្សគ្រប់វ័យ [៦៩]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
 									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
@@ -2490,46 +2884,82 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="3-1-2">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ការបែងចែកទិន្នន័យគឺអាចរកបានសម្រាប់លក្ខណៈសេដ្ឋកិច្ចសង្គមផ្សេងៗគ្នារួមមានលំនៅដ្ឋាន (ទីក្រុង / ជនបទ) ចំនួនគ្រួសារទ្រព្យសម្បត្តិគ្រួសារកម្រិតការអប់រំរបស់ម្តាយអាយុម្តាយតំបន់ភូមិសាស្ត្រ (ខេត្ត) ។
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនស្ត្រីដែលមានអាយុពី ១៥-៤៩ ឆ្នាំដែលមានកំណើតផ្ទាល់បានចូលរួមដោយបុគ្គលិកសុខាភិបាលជំនាញ (វេជ្ជបណ្ឌិតគិលានុបដ្ឋាយិកាឬឆ្មប) ក្នុងកំឡុងពេលសម្រាលកូនត្រូវបានបង្ហាញជាភាគរយនៃស្ត្រីដែលមានអាយុពី ១៥-៤៩ ឆ្នាំជាមួយនឹងកំណើតរស់ក្នុងកំឡុងពេលដូចគ្នា។ ២២១]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។
+[៣១២] ទំងន់សម្រាប់ការស្ទង់មតិស្ទង់មតិនីមួយៗត្រូវបានកំណត់ដោយការរចនាគំរូទម្ងន់រចនានិងត្រូវបានកែតម្រូវសម្រាប់ការមិនឆ្លើយតបនិងភាពមិនល្អឥតខ្ចោះផ្សេងទៀតដូចជានៅក្រោមការគ្របដណ្ដប់រឺកែសំរួលដើម្បីកែលម្អភាពជាក់លាក់នៃការប៉ាន់ស្មាន។ [៥៣៨]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; មានអ្នកជំនួយការជំនាញនៅពេលសម្រាលកូនគឺជាអន្តរាគមន៍សង្គ្រោះជីវិតដ៏សំខាន់សម្រាប់ទាំងស្ត្រីនិងទារក។ ការមិនទទួលបានជំនួយដ៏សំខាន់នេះនឹងធ្វើឱ្យខូចសុខភាពរបស់ស្ត្រីព្រោះវាអាចបណ្តាលឱ្យស្ត្រីស្លាប់ឬភាពស្ថិតស្ថេរយូរអង្វែងជាពិសេសក្នុងស្ថានភាពងាយរងគ្រោះ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt៣, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណាសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៨៧៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; វាសំដៅទៅលើសមាមាត្រនៃការសំរាលកូនដែលបានចូលរួមដោយបុគ្គលិកសុខាភិបាលជំនាញរួមមានគ្រូពេទ្យជំនួយការពេទ្យឆ្មបនិងគិលានុបដ្ឋាយិកាប៉ុន្តែមិនរួមបញ្ចូលអ្នកសំរាលកូនតាមប្រពៃណីទេ។
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៣.១.២ សមាមាត្រនៃកំណើតបានចូលរួមដោយបុគ្គលិកសុខាភិបាលជំនាញ [៦៦]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៣.១ នៅឆ្នាំ ២០៣០ កាត់បន្ថយអត្រាមរណភាពមាតាសកលលោកឱ្យតិចជាង ៧០ នាក់ក្នុងចំនោមកំណើតរស់ ១០០.០០០ [៩៨]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៣ ។ ធានាបាននូវសុខភាពល្អនិងលើកកម្ពស់សុខុមាលភាពសម្រាប់មនុស្សគ្រប់វ័យ [៦៩]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2538,47 +2968,91 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="3-2-1">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ការបែងចែកទិន្នន័យគឺអាចរកបានសម្រាប់លក្ខណៈសេដ្ឋកិច្ចសង្គមផ្សេងៗគ្នារួមមានលំនៅដ្ឋាន (ទីក្រុង / ជនបទ) ចំនួនគ្រួសារទ្រព្យសម្បត្តិគ្រួសារកម្រិតការអប់រំរបស់ម្តាយអាយុម្តាយតំបន់ភូមិសាស្ត្រ (ខេត្ត) ។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ខណៈពេលដែលការពង្រីកខ្លឹមសារការស្ទង់មតិឆ្នាំ ២០១០ គឺជាអ្នកស្នងរាជ្យបន្តពីការស្ទង់មតិ ២០០៥, ២០០០ និង ២០១៤ និងអាចប្រៀបធៀបដោយផ្ទាល់។
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនអ្នកស្លាប់អាយុក្រោម ៥ ឆ្នាំចែកនឹងចំនួនកំណើតរស់សរុប។ នៅក្នុងការគណនានៃសូចនាករនេះវិធីសាស្រ្តពីរត្រូវបានប្រើដើម្បីប៉ាន់ស្មានចំនួនមរណភាពរបស់កុមារអាយុក្រោម ៥ ឆ្នាំ។ [១៧៧]
+[១៨២] វិធីសាស្រ្តដោយផ្ទាល់ត្រូវបានប្រើលើទិន្នន័យ DHS ដែលប្រមូលបានលើប្រវត្តិកំណើតរបស់ស្ត្រីដែលមានអាយុបង្កើតកូនហើយបង្កើតប្រូបាប៊ីលីតេនៃការស្លាប់មុនអាយុ ៥ ឆ្នាំចំពោះកុមារដែលកើតនៅរស់ក្នុងចំណោមស្ត្រីដែលមានអាយុបង្កើតកូនក្នុងកំឡុងពេល ៥ ឆ្នាំមុនពេលធ្វើការស្ទង់មតិ (0 -៤, ៥-៩ ។ ល។ ) ។ វិធីសាស្រ្តដោយផ្ទាល់តម្រូវឱ្យមានថ្ងៃខែឆ្នាំកំណើតរបស់កុមារស្ថានភាពរស់រានមានជីវិតនិងកាលបរិច្ឆេទឬអាយុនៅពេលស្លាប់។ ព័ត៌មាននេះត្រូវបានរកឃើញជាទូទៅនៅក្នុងប្រព័ន្ធចុះបញ្ជីសំខាន់ៗនិងនៅក្នុងការស្ទង់មតិគ្រួសារដែលប្រមូលប្រវត្តិកំណើតពេញលេញពីស្ត្រីដែលមានអាយុបង្កើតកូន។ ប្រវតិ្តកំណើតរួមមានសំណួរលំអិតជាច្រើនស្តីពីកុមារម្នាក់ៗដែលស្ត្រីម្នាក់បានផ្តល់កំណើតក្នុងមួយជីវិតរបស់នាងរួមមានថ្ងៃខែឆ្នាំកំណើតតើកុមារនៅរស់ឬអត់ហើយបើកុមារបានស្លាប់អាយុនៅពេលស្លាប់។ [៩៥៤]
+[៩៥៩] វិធីសាស្រ្តប្រយោល (ឬវិធីសាស្ត្រលង្ហិន) ត្រូវបានប្រើលើស៊ី។ អេ។ អេ។ ដែលបំលែងសមាមាត្រនៃកុមារស្លាប់ដែលកើតមកដែលបានរាយការណ៍ដោយស្ត្រីក្នុងក្រុមអាយុ ១៥-១៩, ២០-២៤, … ៤៥-៤៩ ទៅជាការប៉ាន់ប្រមាណនៃប្រូបាប៊ីលីតេនៃការស្លាប់មុនពេលឈានដល់អាយុជាក់លាក់នៃកុមារ។ វិធីសាស្រ្តរបស់លោក Brass សន្មតថាអាយុរបស់ម្តាយអាចដើរតួជាប្រូកស៊ីសម្រាប់អាយុរបស់កូន ៗ ហើយដូច្នេះរយៈពេលប៉ុន្មានដែលពួកគេត្រូវប្រឈមនឹងហានិភ័យនៃការស្លាប់។
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។
+[៣១២] ទំងន់សម្រាប់ការស្ទង់មតិស្ទង់មតិនីមួយៗត្រូវបានកំណត់ដោយការរចនាគំរូទម្ងន់រចនានិងត្រូវបានកែតម្រូវសម្រាប់ការមិនឆ្លើយតបនិងភាពមិនល្អឥតខ្ចោះផ្សេងទៀតដូចជានៅក្រោមការគ្របដណ្ដប់រឺកែសំរួលដើម្បីកែលម្អភាពជាក់លាក់នៃការប៉ាន់ស្មាន។ [៥៣៨]
+									</field>
+									<field id="RATIONALE">អត្រាមរណភាពក្នុងចំណោមកុមារគឺជាសូចនាករទិន្នផលសំខាន់សម្រាប់សុខភាពនិងសុខុមាលភាពរបស់កុមារហើយជាទូទៅសម្រាប់ការអភិវឌ្ឍសង្គមនិងសេដ្ឋកិច្ច។ វាគឺជាសូចនាករសុខភាពសាធារណៈដែលបានឃ្លាំមើលយ៉ាងដិតដល់ព្រោះវាឆ្លុះបញ្ចាំងពីការទទួលបានរបស់កុមារនិងសហគមន៍ចំពោះអន្តរាគមន៍សុខភាពជាមូលដ្ឋានដូចជាការចាក់វ៉ាក់សាំងការព្យាបាលវេជ្ជសាស្ត្រនៃជំងឺឆ្លងនិងអាហារូបត្ថម្ភគ្រប់គ្រាន់។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) [៤១]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) [៤១]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt៣, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណាសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៨៧៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ក្នុង ១.០០០ កំណើតរស់ផ្ទាល់ [២៤]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; មរណភាពអាយុក្រោម ៥ ឆ្នាំគឺជាប្រូបាប៊ីលីតេនៃការស្លាប់មុនពេលខួបកំណើតទី ៥ ក្នុងរយៈពេល ៥ ឬ ១០ ឆ្នាំមុនការស្ទង់មតិក្នុង ១០០០ កំណើតរស់។ [១៤៧]
+[១៥២] អត្រាមរណៈអាយុ ៥ ឆ្នាំដូចបានកំណត់នៅទីនេះគឺនិយាយយ៉ាងតឹងរឹងមិនមែនអត្រាមួយទេ (ឧទាហរណ៍ចំនួនមរណភាពចែកនឹងចំនួនប្រជាជនដែលប្រឈមនឹងគ្រោះថ្នាក់ក្នុងកំឡុងពេលជាក់លាក់ណាមួយ) ប៉ុន្តែប្រូបាប៊ីលីតេនៃការស្លាប់កើតចេញពី តារាងជិវិតនិងត្រូវបានបង្ហាញជាអត្រាមួយក្នុងចំណោមកំណើតរស់ ១.០០០ នាក់។
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="SDG_RELATED_INDICATORS">&lt;p&gt; អត្រាមរណភាពទារក; អត្រាមរណភាពទារកទើបកើត; អត្រាមរណភាពទារកទើបនឹងកើត [៧៩]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ៣.២.១ ស្លាប់ក្រោម ៥ នាក់ (ចំនួន) [៣៥]
+[៤០] ៣.២.១ អត្រាមរណភាពទារក [៧០]
+[៧៥] ៣.២.១ ការស្លាប់របស់ទារក (ចំនួន) [១០៦]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៣.២.១ ក្រោមអត្រាមរណភាព ‑ ៥ [៣១]
+									</field>
+									<field id="SDG_TARGET">[០] ៣.២ នៅឆ្នាំ ២០៣០ បញ្ចប់ការស្លាប់ដែលអាចបង្ការបាននៃទារកទើបនឹងកើតនិងកុមារអាយុក្រោម ៥ ឆ្នាំដោយប្រទេសទាំងអស់មានគោលបំណងកាត់បន្ថយអត្រាមរណភាពទារកយ៉ាងហោចណាស់ត្រឹម ១២ នាក់ក្នុងអត្រាកំណើតរស់ ១.០០០ នាក់និងអត្រាមរណភាពក្រោម ៥ យ៉ាងតិចបំផុត។ ២៥ ក្នុងកំណើតរស់ ១.០០០ [២៥៦]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៣ ។ ធានាបាននូវសុខភាពល្អនិងលើកកម្ពស់សុខុមាលភាពសម្រាប់មនុស្សគ្រប់វ័យ [៦៩]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
@@ -2586,47 +3060,87 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="3-2-2">
 								<fields>
+									<field id="OTHER_DOC">[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; ការប៉ាន់ប្រមាណក្រុមអន្តរទីភ្នាក់ងារអង្គការសហប្រជាជាតិសម្រាប់ការប៉ាន់ប្រមាណអត្រាមរណភាពកុមារ (អ។ ស។ ប។ អាយ។ អាយ។ អេ។ អាយ។ អេ។ អាយ។ អឹម។ អេ។ អ៊ី) បានមកពីទិន្នន័យតំណាងជាតិមកពីជំរឿនការស្ទង់មតិឬប្រព័ន្ធចុះឈ្មោះសំខាន់ៗ។ អ។ ស។ ប។ អាយ។ អេ។ អាយ។ អេ។ អេ។ អាយ។ អេ។ អាយ។ អេ។ អេ។ មិនប្រើប្រាស់វ៉ូដារីសណាមួយដើម្បីទាញយកការប៉ាន់ស្មានរបស់ខ្លួនឡើយ។ វាគ្រាន់តែអនុវត្តវិធីសាស្រ្តសមនឹងខ្សែកោងទៅនឹងទិន្នន័យដែលមានគុណភាពល្អដើម្បីទាញយកការប៉ាន់ស្មាននិន្នាការបន្ទាប់ពីការវាយតំលៃគុណភាពទិន្នន័យ។ ចំណែកឯប្រទេសប្រើវិធីសាស្ត្រផ្ទាល់ត្រូវបានប្រើផ្អែកលើប្រវត្តិកំណើតពេញលេញនៃសំណួរលំអិតអំពីកុមារម្នាក់ៗដែលស្ត្រីបានផ្តល់កំណើតក្នុងជីវិតរបស់នាង។ [៥៤៥]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ការបែងចែកទិន្នន័យគឺអាចរកបានសម្រាប់លក្ខណៈសេដ្ឋកិច្ចសង្គមផ្សេងៗគ្នារួមមានលំនៅដ្ឋាន (ទីក្រុង / ជនបទ) ចំនួនគ្រួសារទ្រព្យសម្បត្តិគ្រួសារកម្រិតការអប់រំរបស់ម្តាយអាយុម្តាយតំបន់ភូមិសាស្ត្រ (ខេត្ត) ។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ខណៈពេលដែលការពង្រីកខ្លឹមសារការស្ទង់មតិឆ្នាំ ២០១០ គឺជាអ្នកស្នងរាជ្យបន្តពីការស្ទង់មតិ ២០០៥, ២០០០ និង ២០១៤ និងអាចប្រៀបធៀបដោយផ្ទាល់។
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនមរណភាពរបស់ទារកទើបនឹងកើតចែកនឹងចំនួនសរុបនៃការចាប់កំណើតផ្ទាល់និងគុណនឹងលទ្ធផលដោយ ១០០០ [១០២]
+									</field>
+									<field id="RATIONALE">អត្រាមរណភាពក្នុងចំណោមកុមារគឺជាសូចនាករទិន្នផលសំខាន់សម្រាប់សុខភាពនិងសុខុមាលភាពរបស់កុមារហើយជាទូទៅសម្រាប់ការអភិវឌ្ឍសង្គមនិងសេដ្ឋកិច្ច។ វាគឺជាសូចនាករសុខភាពសាធារណៈដែលបានឃ្លាំមើលយ៉ាងដិតដល់ព្រោះវាឆ្លុះបញ្ចាំងពីការទទួលបានរបស់កុមារនិងសហគមន៍ចំពោះអន្តរាគមន៍សុខភាពជាមូលដ្ឋានដូចជាការចាក់វ៉ាក់សាំងការព្យាបាលវេជ្ជសាស្ត្រនៃជំងឺឆ្លងនិងអាហារូបត្ថម្ភគ្រប់គ្រាន់។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) [៤១]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) [៤១]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt៣, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណាសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៨៧៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ក្នុង ១.០០០ កំណើតរស់ផ្ទាល់ [២៤]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; អត្រាមរណៈភាពរបស់ទារកគឺជាប្រូបាប៊ីលីតេក្នុងខែដំបូងនៃជីវិតក្នុងរយៈពេលប្រាំឬដប់ឆ្នាំមុនការស្ទង់មតិនេះបានបង្ហាញក្នុងកំណើតរស់ចំនួន ១.០០០ នាក់។
+[១៦១] មរណភាពរបស់ទារកទើបកើត (ការស្លាប់ក្នុងចំណោមកំណើតរស់ក្នុងអំឡុងពេល ២៨ ថ្ងៃនៃជីវិតដែលបានបញ្ចប់) អាចត្រូវបានបែងចែកទៅជាមរណភាពរបស់ទារកទើបនឹងកើតដែលកើតឡើងក្នុងកំឡុង ៧ ថ្ងៃដំបូងនៃជីវិតនិងការស្លាប់របស់ទារកទើបនឹងកើតដែលកើតឡើងបន្ទាប់ពីថ្ងៃទី ៧ ប៉ុន្តែមុនថ្ងៃទី ២៨ ថ្ងៃបញ្ចប់នៃជីវិត។ [៤៣៥]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; phanchinda@yahoo.com [២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អគ្គនាយករង &lt;/p&gt;
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ផានចិននដា (លោក) [១៩]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="SDG_RELATED_INDICATORS">&lt;p&gt; អត្រាមរណៈភាពរបស់ទារក អត្រាមរណភាពក្រោយសម្រាលកូន; អត្រាមរណភាពរបស់ទារក; អត្រាមរណៈអាយុក្រោម ៥ ឆ្នាំ [១០៦]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ៣.២.២ ការស្លាប់របស់ទារកទើបនឹងកើត (ចំនួន) [៣៣]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៣.២.២ អត្រាមរណភាពរបស់ទារកទើបនឹងកើត [៣២]
+									</field>
+									<field id="SDG_TARGET">[០] ៣.២ នៅឆ្នាំ ២០៣០ បញ្ចប់ការស្លាប់ដែលអាចបង្ការបាននៃទារកទើបនឹងកើតនិងកុមារអាយុក្រោម ៥ ឆ្នាំដោយប្រទេសទាំងអស់មានគោលបំណងកាត់បន្ថយអត្រាមរណភាពទារកយ៉ាងហោចណាស់ត្រឹម ១២ នាក់ក្នុងអត្រាកំណើតរស់ ១.០០០ នាក់និងអត្រាមរណភាពក្រោម ៥ យ៉ាងតិចបំផុត។ ២៥ ក្នុងកំណើតរស់ ១.០០០ [២៥៦]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៣ ។ ធានាបាននូវសុខភាពល្អនិងលើកកម្ពស់សុខុមាលភាពសម្រាប់មនុស្សគ្រប់វ័យ [៦៩]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; ស្ថិតិប្រជាសាស្ត្រ, ចំនួនប្រជាជននិងនាយកដ្ឋានអង្កេត, អាយ។ អេស។
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
 									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
@@ -2634,286 +3148,540 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="4-3-2">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; ផែនការយុទ្ធសាស្រ្តអភិវឌ្ឍន៍ជាតិ - អិនអេឌីភី ២០១៩-២០១៣៖ [៥៧] http://www.mop.gov.kh/ [១២៨] [១៣២]
+[១៣៧] គោលនយោបាយអភិវឌ្ឍន៍ជំនាញជាតិ (អិន។ ស៊ី។ ភី។ អេ): https://www.ilo.org/dhaka/Whatwedo/Projects/WCMS_226500/lang--en/index.htm Askiv ២៥៧
+[២៦២] វេទិកាចំណេះដឹងគោលដៅ SDG៖ [២៩៤] https ការត្រួតពិនិត្យជាតិដោយស្ម័គ្រចិត្តកម្ពុជាឆ្នាំ ២០១៩៖ [៤១០] [៤១៤]
+[៤១៩] [៤២២] [៥២៤] [៥២៨] https://s Sustainableevelopment.un.org/content/documents/23603Cambodia_VNR_SDPM_Approved.pdf &lt;/a&gt; &lt;/p&gt;
+[៦៩៨] [៧០១] ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈៈ [៨១៦] [៨២០] [៨៥៣] [៨៥៧] http://www.mlvt.gov.kh [៩៤៩] [៩៥៣] [១០២៤] [១០២៨]
+[១០៣៣] [១០៣៦]: //s Sustainableevelopment.un.org/memberstates/cambodia [១១៦០] [១១៦៤]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; ភាពខុសគ្នាអាចកើតឡើងដោយសារតែ៖ ក) ភាពខុសគ្នានៃប្រភពទិន្នន័យ។ ខ) ការពិនិត្យអាយអាយស៊ីប្រើដោយប្រទេសមួយ។ គ) ការងារក្រៅផ្លូវការ។ ឃ) ការគ្របដណ្តប់លើប្រភពទិន្នន័យ (គ្របដណ្តប់លើភូមិសាស្ត្រសកម្មភាពសេដ្ឋកិច្ចគ្របដណ្តប់ប្រភេទគ្រឹះស្ថានដែលគ្របដណ្ដប់។ ល។ ) ង) និយមន័យចំនួនប្រជាជនដែលមានអាយុធ្វើការ។ [២៨៧]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; សូចនាករនេះអាចត្រូវបានបែងចែកតាមភេទការកាន់កាប់អាយុតំបន់និងអ្នកដទៃ។
+									</field>
+									<field id="QUALITY_ASSMNT">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈមាននាយកដ្ឋានស្ថិតិនិងរបាយការណ៍ដើម្បីដឹកនាំការធានាទិន្នន័យទម្រង់របាយការណ៍ការត្រួតពិនិត្យរបាយការណ៍និងការត្រួតពិនិត្យគុណភាពមុនពេលបញ្ជូនរបាយការណ៍ទៅក្រសួងផែនការ។ [២៣២]
+									</field>
+									<field id="QUALITY_ASSURE">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈមាននាយកដ្ឋានស្ថិតិនិងរបាយការណ៍ដើម្បីដឹកនាំការធានាទិន្នន័យនិងការវាយតម្លៃទិន្នន័យពីក្រសួងផ្ទាល់របស់ពួកគេ [១៦២]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; ក្រសួងផែនការមាននាយកដ្ឋានស្ថិតិនិងនាយកដ្ឋានរបាយការណ៍ដើម្បីដឹកនាំការគ្រប់គ្រងទិន្នន័យការធានាទិន្នន័យនិងការវាយតម្លៃទិន្នន័យពីក្រសួងរបស់ខ្លួននិងក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈ [២០៣]
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈនិងក្រសួងផែនការនឹងធ្វើឱ្យទិន្នន័យមានសុពលភាព &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនសិក្ខាកាមនិស្សិតចុះឈ្មោះចូលរៀននៅ TVET ដែលមានអាយុពី ១៥-២៤ ឆ្នាំត្រូវបានជ្រើសរើសដោយប្រជាជនដែលមានអាយុ (១៥-២៤ ឆ្នាំនិងគុណនឹង ១០០ [១២៤]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; សូចនាករនេះមានគោលបំណងវាស់វែងភាគរយនៃសិក្ខាកាមនិងនិស្សិតដែលទទួលបានលទ្ធផលសិក្សាអប្បបរមានៅក្នុងកម្មវិធីអប់រំវិជ្ជាជីវៈ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; រាជរដ្ឋាភិបាលកម្ពុជា (រ។ រ។ ក។ ក) មានគោលនយោបាយនិងក្របខ័ណ្ឌច្បាប់រឹងមាំនិងអំណោយផលដើម្បីធានាបាននូវការចូលប្រើប្រាស់និងការតភ្ជាប់ដែលមានតំលៃសមរម្យ។ រដ្ឋាភិបាលដៃគូអភិវឌ្ឍន៍និងវិស័យឯកជនបានបន្តកំណត់ទិសដៅហេដ្ឋារចនាសម្ព័ន្ធសំខាន់ៗផ្លូវថ្នល់ផ្លូវដែកស្ពានកំពង់ផែវារីអគ្គិសនីកសិដ្ឋានថាមពលពន្លឺព្រះអាទិត្យបណ្តាញបញ្ជូនថាមពលនិងប្រព័ន្ធធារាសាស្ត្រ។ នេះបានធ្វើឱ្យរោងចក្រកាត់ដេរមួយចំនួនត្រូវផ្លាស់ប្តូរពីរដ្ឋធានីទៅតំបន់ជនបទដែលធ្វើឱ្យវាខិតទៅជិតប្រភពកម្លាំងពលកម្មនិងបន្ធូរបន្ទុកខ្លះលើហេដ្ឋារចនាសម្ព័ន្ធទីក្រុង។ [៥៣១]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; ក្រសួងផែនការនឹងផលិតកម្ពុជា VNR ២០១៩, ២០២៣, ២០២៧, ២០៣០ ដែលអាចរកបាននៅលើគេហទំព័រ៖ [១០៣] http://www.mop.gov.kh/ [១៧៤] [១៧៨]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈ [៤៤]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; ប្រាំមួយខែបន្ទាប់ពីប្រមូលនិងប្រមូលទិន្នន័យ [៥៣]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការពិនិត្យជាតិស្ម័គ្រចិត្តកម្ពុជា (CVNR) នឹងត្រូវបានផលិតក្នុងរយៈពេលបួនឆ្នាំតាមរយៈរបាយការណ៍ចំនួន ៤ ។ [១០១]
+[១០៦]
+  [១១៣] CVNR ឆ្នាំ ២០១៥-២០១៨ បោះពុម្ពផ្សាយនៅខែមិថុនាឆ្នាំ ២០១៩ [១៥៥]
+  [១៦៣] CVNR ២០១៩-២០២២ បោះពុម្ពផ្សាយថ្ងៃទី ២០ ខែមិថុនាឆ្នាំ ២០២៣ [២០៥]
+  [២១៣] CVNR ២០២៣-២០២៦ ចេញផ្សាយថ្ងៃទី ២០ ខែមិថុនាឆ្នាំ ២០២៧ [២៥៥]
+  [២៦៣] CVNR ២០២៧-២០៣០ បោះពុម្ពផ្សាយថ្ងៃទី ២០ ខែមិថុនាឆ្នាំ ២០៣០ [៣០៥]
+[៣១១]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; វិធីសាស្រ្តដែលប្រមូលបានតាមរយៈទិន្នន័យរដ្ឋបាលដោយក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈ (MoLVT) ។ ហើយក្រសួងការងារនឹងបញ្ជូនរបាយការណ៍ទៅក្រសួងផែនការដើម្បីចងក្រងទិន្នន័យនិងរាយការណ៍ [១៩១]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈនឹងប្រមូលទិន្នន័យនិងរាយការណ៍ទៅក្រសួងផែនការរៀងរាល់ឆ្នាំ។ របាយការណ៍នេះនឹងត្រូវបោះពុម្ពផ្សាយជា“ របាយការណ៍ប្រចាំឆ្នាំរបស់ក្រសួងសុខាភិបាល” ដែលអាចរកឃើញនៅលើគេហទំព័រ៖ [១៩៨]
+[២០៣] [២០៦] http://www.mlvt.gov.kh [២៦១] [២៦៥]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១៣]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; ចំនួនសិក្ខាកាមនិស្សិតបានចូលរួមកម្មវិធីអប់រំបច្ចេកទេសនិងវិជ្ជាជីវៈតាមអាយុ (១៥ ដល់ ២៤ ឆ្នាំ) &quot;[១១៤]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; pleaseyhsandy@yahoo.com [២៤]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ៩៧ ៨៨ ៦៦ ០៦២ [២០]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; មន្រ្តី [១០]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ១- លោក។ ហីសិនឌី [២១]
+[២៦] ២- លោក។ មុំមុំ [៤៣]
+[៤៨] ៣- លោកឈូកវណ្ណៈ [៧០]
+[៧៥] ៤- លោកឃូវសូលីណា [៩៧]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; ក្រសួងការងារនិងបណ្តុះបណ្តាលវិជ្ជាជីវៈ [៤៤]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; រៀងរាល់ ២ ឆ្នាំម្តង [១៦]
+									</field>
+									<field id="SDG_INDICATOR">[០] ៤.៣.២ ។ អត្រាសិក្សាទូទៅក្នុងកម្មវិធីបណ្តុះបណ្តាលបច្ចេកទេសនិងវិជ្ជាជីវៈ (១៥-២៤ ឆ្នាំ [១០៤]
+									</field>
+									<field id="SDG_TARGET">[០] ៤.៣ ។ នៅឆ្នាំ ២០៣០ ធានាបាននូវសិទ្ធិស្មើគ្នាសម្រាប់បុរសនិងស្ត្រីទាំងអស់ក្នុងការបណ្តុះបណ្តាលវិជ្ជាជីវៈនិងឧត្តមសិក្សារួមទាំងសាកលវិទ្យាល័យនានា [១២៦]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; គោលដៅ ៤ ធានាការអប់រំប្រកបដោយគុណភាពបរិស្ថាននិងសមធម៌និងបង្កើនឱកាសសិក្សាពេញមួយជីវិតសំរាប់មនុស្សទាំងអស់។
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានផែនការស្ថិតិនិងនីតិកម្ម [៥៣]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
 									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
 									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="6-1-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍អង្កេតសេដ្ឋកិច្ចសង្គមកម្ពុជា៖ [៤៣] https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports [២២៤] [ ២២៨]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; កម្មវិធីឃ្លាំមើលរួមគ្នារបស់អង្គការសុខភាពពិភពលោក / យូ។ យូ។ អេ។ យូ។ អេស។ យូ។ សម្រាប់ការផ្គត់ផ្គង់ទឹកអនាម័យនិងអនាម័យ (JMP) ប៉ាន់ប្រមាណថាអាចទទួលបានសេវាមូលដ្ឋានសម្រាប់ប្រទេសកម្ពុជាដោយបំពាក់ខ្សែតំរែតំរង់ទៅចំណុចទិន្នន័យជាបន្តបន្ទាប់ពីការស្ទង់មតិនិងជំរុំគ្រួសារឧទាហរណ៍ស៊ីអេសអេសស៊ីអេសអេសអេស។ CIPS និង GPCC ។ វិធីសាស្រ្តនេះអង្គការសុខភាពពិភពលោក / យូនីសេហ្វយូអេហ្វអេហ្វអេជត្រូវបានប្រើដើម្បីរាយការណ៍អំពីការប្រើប្រាស់ប្រភពទឹកដែលប្រសើរឡើងសម្រាប់ការឃ្លាំមើលអេសជីជីចំណែកឯប្រទេសកម្ពុជាប្រើតែទិន្នន័យពីស៊ីអេសអេសប៉ុណ្ណោះ។
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានតាមទីតាំងភូមិសាស្ត្រ៖ ទីក្រុង / ជនបទនិងតំបន់អេកូឡូស៊ី៖ បឹងទន្លេសាបធម្មតាឆ្នេរសមុទ្រនិងខ្ពង់រាបនិងភ្នំ។ [១៣៩]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ដើម្បីតម្រឹមគំនិតនិងនិយមន័យសកលទំហំគ្រួសារជាមធ្យមដែលបានអនុវត្តនិងចំនួនប្រជាជនសរុបត្រូវបានប្រើប្រាស់ហើយលទ្ធផលជាទូទៅគឺដូចគ្នានឹងវិធីសាស្រ្តផ្អែកលើគ្រួសារដែរ។ [១៩២]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; អ្នកចង្អុលបង្ហាញត្រូវបានគណនាដោយបែងចែកចំនួនគ្រួសារដែលបានប្រើប្រភពទឹកដែលបានកែលម្អទៅចំនួនគ្រួសារសរុបនិងគុណនឹង ១០០ ។
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+[៩៧១] ដោយសារកង្វះធនធាននិងបច្ចេកទេសមានកំណត់ទិន្នន័យអំពីការព្យាបាលគុណភាពទឹកសម្រាប់ការចម្លងរោគនិងការចម្លងរោគគីមីតាមរយៈការស្ទង់មតិនេះមិនត្រូវបានប្រមូលទេ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; គោលដៅអភិវឌ្ឍន៍សហស្សវត្សរ៍ ៧ ស៊ីបានអំពាវនាវឱ្យមាន“ ទឹកស្អាតប្រកបដោយសុវត្ថិភាព” ។ នៅពេលចាប់ផ្តើមនៃ MDG មានការខ្វះខាតនូវទិន្នន័យតំណាងជាតិអំពីសុវត្ថិភាពទឹកផឹកនៅក្នុងប្រទេសកំពុងអភិវឌ្ឍន៍ហើយទិន្នន័យបែបនេះមិនត្រូវបានប្រមូលតាមរយៈការស្ទង់មតិឬជំរឿនគ្រួសារទេ។ JMP បានបង្កើតគំនិតនៃប្រភពទឹក &apos;បានកែលម្អ&apos; ដែលត្រូវបានប្រើជាប្រូកស៊ីសម្រាប់ &apos;ទឹកមានសុវត្ថិភាព&apos; ពីព្រោះប្រភពបែបនេះទំនងជាត្រូវបានការពារប្រឆាំងនឹងការចម្លងរោគរបស់ faecal ហើយម៉ែត្រនេះត្រូវបានប្រើតាំងពីឆ្នាំ ២០០០ ដើម្បីតាមដានវឌ្ឍនភាពឆ្ពោះទៅរក MDG ។ គោលដៅ។ ការពិគ្រោះយោបល់អន្ដរជាតិចាប់តាំងពីឆ្នាំ ២០១១ បានបង្កើតការមូលមតិគ្នាលើតម្រូវការដើម្បីពង្រឹងនិងដោះស្រាយនូវចំណុចខ្វះខាតនៃសូចនាករនេះ។ ជាពិសេសដើម្បីដោះស្រាយលក្ខណៈវិនិច្ឆ័យបទដ្ឋាននៃសិទ្ធិរបស់មនុស្សក្នុងការទទួលបានទឹករួមមានភាពអាចរកបានភាពអាចរកបាននិងគុណភាព។ &lt;/p&gt;
+[៨១៦] ការពិគ្រោះយោបល់ខាងលើបានសន្និដ្ឋានថា JMP គួរតែហួសពីកំរិតមូលដ្ឋាននៃការចូលនិងដោះស្រាយការគ្រប់គ្រងប្រកបដោយសុវត្ថិភាពនៃសេវាកម្មទឹកផឹករួមទាំងវិមាត្រនៃភាពអាចរកបានភាពអាចរកបាននិងគុណភាព។ សូចនាករដែលបានស្នើឡើងនៃ“ សេវាកម្មទឹកស្អាតគ្រប់គ្រងដោយសុវត្ថិភាព” ត្រូវបានរៀបចំឡើងដើម្បីដោះស្រាយបញ្ហានេះ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt១, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពងាយរងគ្រោះភាពងាយរងគ្រោះនិង ផ្សេងទៀត។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ស៊ី។ អេស។ អេសត្រូវបានធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧ ដល់ឆ្នាំ ២០១៧ ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ ចុងក្រោយចំនួន ៤ ត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤ ២០០៩ ២០០៩ ២០១៤ និង ២០១៩ ។
+[៦៥៧] ចាប់តាំងពីស៊ី។ អេស។ ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់គ្រួសារនិងប្រាក់ចំណូលគ្រួសារត្រូវបានណែនាំ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១១៥០]
+[១១៥៥] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៣៩៨]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; សមាមាត្រប្រជាជនដោយប្រើប្រាស់សេវាកម្មទឹកស្អាតគ្រប់គ្រងដោយសុវត្ថិភាពត្រូវបានវាស់វែងដោយសមាមាត្រនៃគ្រួសារដែលប្រើប្រាស់ប្រភពទឹកផឹកល្អប្រសើរដែលមានទីតាំងនៅតាមបរិវេណ (ក្នុងទីធ្លាទីធ្លាដីឡូតិ៍រឺដីឡូតិ៍) រឺអាចរកបាននៅពេលចាំបាច់។ ប្រភពទឹកផឹកដែលមានភាពប្រសើរឡើងរួមមាន៖ បំពង់បង្ហូរទឹកចូលទៅក្នុងទីធ្លាផ្ទះឬទីធ្លា taps ឬ standpipes សាធារណៈ; អណ្តូងទឹកឬអណ្តូងបំពង់; ការពារអណ្តូងជីក; ប្រភពទឹកការពារ ទឹកខ្ចប់; ផ្តល់ទឹក; ទឹកភ្លៀងនិងទឹកដប / ទឹកដែលបានទិញ [៥០៦]
+[៥១១] ទឹកផឹកត្រូវបានកំណត់ជាទឹកដែលប្រើសម្រាប់ទទួលទានការរៀបចំអាហារនិងគោលបំណងអនាម័យមូលដ្ឋាន។
+									</field>
+									<field id="CONTACT_EMAIL">[០] [៣] pomao.nis@gmail.com [៥៩]; [៦៥] bony_som@yahoo.com [១១៩] [១២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១២ ៨៩៤ ៩៣៤ / ១២ ៧២៤ ២២២ [៣១]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; នាយករង [១៩]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ប៉ូម៉ៅ (លោក) / Som Bony (Mr) [៣១]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៦.១.១ សមាមាត្រប្រជាជនដែលប្រើប្រាស់សេវាកម្មទឹកស្អាតគ្រប់គ្រងដោយសុវត្ថិភាព [៧៨]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៦.១: នៅឆ្នាំ ២០៣០ ទទួលបានទឹកស្អាតនិងមានតំលៃសមរម្យសំរាប់មនុស្សគ្រប់គ្នា [១០១]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៦ ។ ធានាបាននូវភាពអាចរកបាននិងការគ្រប់គ្រងទឹកនិងអនាម័យប្រកបដោយនិរន្តរភាពសម្រាប់ទាំងអស់គ្នា [៨៤]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គមនិង / ឬនាយកដ្ឋានស្ថិតិនិងនាយកដ្ឋានស្ថិតិស្ថិតិ &lt;/p&gt;
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="6-2-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍អង្កេតសេដ្ឋកិច្ចសង្គមកម្ពុជា៖ [៤៣] https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports [២២៤] [ ២២៨]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; កម្មវិធីឃ្លាំមើលរួមគ្នារបស់អង្គការសុខភាពពិភពលោក / យូ។ យូ។ អេ។ យូ។ អេស។ យូ។ សម្រាប់ការផ្គត់ផ្គង់ទឹកអនាម័យនិងអនាម័យ (JMP) ប៉ាន់ប្រមាណថាអាចទទួលបានសេវាមូលដ្ឋានសម្រាប់ប្រទេសកម្ពុជាដោយបំពាក់ខ្សែតំរែតំរង់ទៅចំណុចទិន្នន័យជាបន្តបន្ទាប់ពីការស្ទង់មតិនិងជំរុំគ្រួសារឧទាហរណ៍ស៊ីអេសអេសស៊ីអេសអេសអេស។ CIPS និង GPCC ។ វិធីសាស្រ្តនេះអង្គការសុខភាពពិភពលោក / យូនីសេហ្វយូអេហ្វអេហ្វអេជត្រូវបានប្រើដើម្បីរាយការណ៍អំពីការប្រើប្រាស់ប្រភពទឹកដែលប្រសើរឡើងសម្រាប់ការឃ្លាំមើលអេសជីជីចំណែកឯប្រទេសកម្ពុជាប្រើតែទិន្នន័យពីស៊ីអេសអេសប៉ុណ្ណោះ។
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានតាមទីតាំងភូមិសាស្ត្រ៖ ទីក្រុង / ជនបទនិងតំបន់អេកូឡូស៊ី៖ បឹងទន្លេសាបធម្មតាឆ្នេរសមុទ្រនិងខ្ពង់រាបនិងភ្នំ។ [១៣៩]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ដើម្បីតម្រឹមគំនិតនិងនិយមន័យសកលទំហំគ្រួសារជាមធ្យមដែលបានអនុវត្តនិងចំនួនប្រជាជនសរុបត្រូវបានប្រើប្រាស់ហើយលទ្ធផលជាទូទៅគឺដូចគ្នានឹងវិធីសាស្រ្តផ្អែកលើគ្រួសារដែរ។ [១៩២]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; អ្នកចង្អុលបង្ហាញត្រូវបានគណនាដោយបែងចែកចំនួនគ្រួសារដែលបានប្រើប្រាស់សេវាកម្មអនាម័យដែលបានធ្វើឱ្យប្រសើរឡើងដល់ចំនួនគ្រួសារសរុបនិងគុណនឹង ១០០ ។
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+[៩៧១] បន្ថែមទៀតវាត្រូវបាននាំចូលដើម្បីកត់សម្គាល់ថាទិន្នន័យសម្រាប់ការស្ទង់មតិពីមុនរហូតដល់ស៊ីអេសអេស ២០១៧ ខ្វះធនធាននិងបច្ចេកទេសមានកំណត់ទិន្នន័យស្តីពីការព្យាបាលគុណភាពទឹកសម្រាប់ការចម្លងរោគនិងការចម្លងរោគគីមីតាមរយៈការស្ទង់មតិនេះមិនត្រូវបានប្រមូលទេ។ [១២១៥]
+									</field>
+									<field id="RATIONALE">&lt;p&gt; គោលដៅអភិវឌ្ឍន៍សហស្សវត្សរ៍ ៧ ស៊ីបានអំពាវនាវឱ្យមាន“ ទឹកស្អាតប្រកបដោយសុវត្ថិភាព” ។ នៅពេលចាប់ផ្តើមនៃ MDG មានការខ្វះខាតនូវទិន្នន័យតំណាងជាតិអំពីសុវត្ថិភាពទឹកផឹកនៅក្នុងប្រទេសកំពុងអភិវឌ្ឍន៍ហើយទិន្នន័យបែបនេះមិនត្រូវបានប្រមូលតាមរយៈការស្ទង់មតិឬជំរឿនគ្រួសារទេ។ JMP បានបង្កើតគំនិតនៃប្រភពទឹក &apos;បានកែលម្អ&apos; ដែលត្រូវបានប្រើជាប្រូកស៊ីសម្រាប់ &apos;ទឹកមានសុវត្ថិភាព&apos; ពីព្រោះប្រភពបែបនេះទំនងជាត្រូវបានការពារប្រឆាំងនឹងការចម្លងរោគរបស់ faecal ហើយម៉ែត្រនេះត្រូវបានប្រើតាំងពីឆ្នាំ ២០០០ ដើម្បីតាមដានវឌ្ឍនភាពឆ្ពោះទៅរក MDG ។ គោលដៅ។ ការពិគ្រោះយោបល់អន្ដរជាតិចាប់តាំងពីឆ្នាំ ២០១១ បានបង្កើតការមូលមតិគ្នាលើតម្រូវការដើម្បីពង្រឹងនិងដោះស្រាយនូវចំណុចខ្វះខាតនៃសូចនាករនេះ។ ជាពិសេសដើម្បីដោះស្រាយលក្ខណៈវិនិច្ឆ័យបទដ្ឋាននៃសិទ្ធិរបស់មនុស្សក្នុងការទទួលបានទឹករួមមានភាពអាចរកបានភាពអាចរកបាននិងគុណភាព។ &lt;/p&gt;
+[៨១៦] ការពិគ្រោះយោបល់ខាងលើបានសន្និដ្ឋានថា JMP គួរតែហួសពីកំរិតមូលដ្ឋាននៃការចូលនិងដោះស្រាយការគ្រប់គ្រងប្រកបដោយសុវត្ថិភាពនៃសេវាកម្មទឹកផឹករួមទាំងវិមាត្រនៃភាពអាចរកបានភាពអាចរកបាននិងគុណភាព។ សូចនាករដែលបានស្នើឡើងនៃ“ សេវាកម្មទឹកស្អាតគ្រប់គ្រងដោយសុវត្ថិភាព” ត្រូវបានរៀបចំឡើងដើម្បីដោះស្រាយបញ្ហានេះ។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt១, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពងាយរងគ្រោះភាពងាយរងគ្រោះនិង ផ្សេងទៀត។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ស៊ី។ អេស។ អេសត្រូវបានធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧ ដល់ឆ្នាំ ២០១៧ ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ ចុងក្រោយចំនួន ៤ ត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤ ២០០៩ ២០០៩ ២០១៤ និង ២០១៩ ។
+[៦៥៧] ចាប់តាំងពីស៊ី។ អេស។ ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់គ្រួសារនិងប្រាក់ចំណូលគ្រួសារត្រូវបានណែនាំ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១១៥០]
+[១១៥៥] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិមៈ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៣៩៨]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ [១០]
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; សមាមាត្រនៃចំនួនប្រជាជនដែលប្រើប្រាស់សេវាកម្មអនាម័យគ្រប់គ្រងដោយសុវត្ថិភាពរួមទាំងកន្លែងលាងដៃជាមួយសាប៊ូនិងទឹកកំពុងត្រូវបានវាស់វែងដោយសមាមាត្រនៃចំនួនប្រជាជនដែលប្រើប្រាស់កន្លែងអនាម័យមូលដ្ឋានដែលមិនត្រូវបានចែករំលែកជាមួយគ្រួសារផ្សេងទៀតនិងកន្លែងដែលមានទឹករំអិលមានសុវត្ថិភាព។ បោះចោលនៅកន្លែងឬត្រូវបានព្យាបាលនៅនឹងកន្លែង។ គ្រឿងបរិក្ខារអនាម័យដែលបានធ្វើឱ្យប្រសើរឡើងរួមមានៈបង្គន់ទឹកហូរឬចាក់ទឹកទៅក្នុងប្រព័ន្ធលូអាងស្តុកទឹកឬបង្គន់រណ្តៅបង្គន់អនាម័យដែលមានខ្យល់ចេញចូលបង្គន់រណ្តៅដែលមានជម្រាលនិងបង្គន់ជីកំប៉ុស។ [៥៣៦]
+[៥៤១] ចំនួនប្រជាជនដែលមានកន្លែងលាងដៃមូលដ្ឋាន៖ ឧបករណ៍សំរាប់ផ្ទុកដឹកជញ្ជូនរឺកំនត់លំហូរទឹកដើម្បីសម្រួលដល់ការលាងដៃជាមួយសាប៊ូនិងទឹកក្នុងគ្រួសារ [៧១៦]
+[៧២១] [៧២៤] សំគាល់ [៧៣៦] ៈនិយមន័យដែលបានរៀបរាប់ខាងលើទោះយ៉ាងណាកម្ពុជាអនុវត្តតែសមាមាត្រនៃចំនួនប្រជាជនដែលប្រើមធ្យោបាយអនាម័យល្អប្រសើរប៉ុណ្ណោះ។ គ្រឿងបរិក្ខារអនាម័យដែលបានធ្វើឱ្យប្រសើរឡើងរួមមានៈបង្គន់ទឹកហូរឬចាក់ទឹកទៅក្នុងប្រព័ន្ធលូអាងស្តុកទឹកឬបង្គន់រណ្តៅបង្គន់អនាម័យដែលមានខ្យល់ចេញចូលបង្គន់រណ្តៅដែលមានជម្រាលនិងបង្គន់ជីកំប៉ុស។ [១០៧៨]
+									</field>
+									<field id="CONTACT_EMAIL">[០] [៣] pomao.nis@gmail.com [៥៩]; [៦៥] bony_som@yahoo.com [១១៩] [១២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១២ ៨៩៤ ៩៣៤ / ១២ ៧២៤ ២២២ [៣១]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; នាយករង [១៩]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ប៉ូម៉ៅ (លោក) / Som Bony (Mr) [៣១]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ៦.២.១ សមាមាត្រនៃប្រជាជនដែលអនុវត្តការបន្ទោរបង់ចំហរ (៦.២.១) (SH_SAN_DEFECT) [៨៤]
+[៨៩] ៦.២.១ សមាមាត្រនៃប្រជាជនដែលមានកន្លែងលាងដៃមូលដ្ឋាននៅតាមកន្លែង [៦.២.១] (SH_SAN_HNDWSH) [១៩២]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៦.២.១ សមាមាត្រនៃប្រជាជនដែលប្រើប្រាស់សេវាកម្មអនាម័យគ្រប់គ្រងដោយសុវត្ថិភាព [៦.២.១] (SH_SAN_SAFE) [៩៦]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៦.២: នៅឆ្នាំ ២០៣០ ទទួលបាននូវអនាម័យនិងអនាម័យគ្រប់គ្រាន់និងស្មើភាពគ្នាសម្រាប់ទាំងអស់គ្នានិងបញ្ចប់ការបន្ទោរបង់ដោយបើកចំហដោយយកចិត្តទុកដាក់ជាពិសេសទៅលើតម្រូវការរបស់ស្ត្រីនិងក្មេងស្រីនិងអ្នកដែលស្ថិតក្នុងស្ថានភាពងាយរងគ្រោះ។
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៦ ។ ធានាបាននូវភាពអាចរកបាននិងការគ្រប់គ្រងទឹកនិងអនាម័យប្រកបដោយនិរន្តរភាពសម្រាប់ទាំងអស់គ្នា [៨៤]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គមនិង / ឬនាយកដ្ឋានស្ថិតិនិងនាយកដ្ឋានស្ថិតិស្ថិតិ &lt;/p&gt;
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="7-1-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍អង្កេតសេដ្ឋកិច្ចសង្គមកម្ពុជា៖ [៤៣] https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports [២២៤] [ ២២៨]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; ទិន្ន័យអគ្គីសនីសកលរបស់ធនាគារពិភពលោកប៉ាន់ប្រមាណការប្រើប្រាស់វិធីសាស្រ្តគំរូមិនចំរុះពហុគុណត្រូវបានគេបំលែងដើម្បីទស្សទាយការប្រើប្រាស់អគ្គិសនីហើយត្រូវបានអនុវត្តសម្រាប់ប្រទេសទាំងអស់ដែលមានចំនុចទិន្នន័យយ៉ាងហោចណាស់មួយ។ ខណៈពេលដែលប្រទេស (នៅថ្នាក់ជាតិ) ដោយប្រើផ្អែកលើទិន្នន័យស្ទង់មតិពិតប្រាកដដែលបានរាយការណ៍សម្រាប់ឆ្នាំទាំងអស់។ នេះគឺជាបុព្វហេតុចម្បងសម្រាប់ភាពខុសគ្នានៃទិន្នន័យ។ គុណភាពនិងភាពត្រឹមត្រូវនៃទិន្នន័យប្រជាជនក៏អាចនាំឱ្យមានភាពខុសប្លែកគ្នាក្នុងការវាយតម្លៃការធ្វើអគ្គិសនីកម្ម [៤៦៩]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានដោយទីតាំងភូមិសាស្ត្រ៖ ជាតិទីក្រុងទីក្រុងជនបទនិងតាមតំបន់អេកូឡូស៊ី៖ បឹងទន្លេសាបធម្មតាឆ្នេរសមុទ្រនិងខ្ពង់រាបនិងភ្នំ។ [១៥១]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ដើម្បីតម្រឹមគំនិតនិងនិយមន័យសកលទំហំគ្រួសារជាមធ្យមនិងចំនួនប្រជាជនសរុបត្រូវបានប្រើប្រាស់ [១២៣]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនគ្រួសារដែលមានអគ្គិសនីប្រើប្រាស់ចែកជាចំនួនគ្រួសារសរុបនិងគុណនឹងលទ្ធផល ១០០ [១១៩]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; ការទទួលបានអគ្គិសនីដោះស្រាយបញ្ហាសំខាន់ៗសំខាន់ៗក្នុងគ្រប់វិមាត្រនៃការអភិវឌ្ឍប្រកបដោយចីរភាព។ គោលដៅមានផលប៉ះពាល់សេដ្ឋកិច្ចនិងសង្គមយ៉ាងទូលំទូលាយរួមមានការសម្របសម្រួលការអភិវឌ្ឍសកម្មភាពបង្កើតប្រាក់ចំណូលនិងបន្ទុកបន្ទុកការងារគ្រួសារ។
+[២៨៤] ក្រោមផែនការយុទ្ធសាស្ត្រជាតិនៃការទទួលបានថាមពលស្មើគ្នាស៊ីឌីអឹជីជី ៧.១ ផ្តោតជាពិសេសលើការប្រើអគ្គិសនីដែលមានសម្រាប់គ្រួសារទាំងអស់នៅក្នុងប្រទេស។ ដើម្បីទទួលបានរូបភាពច្បាស់អត្រាចូលប្រើត្រូវបានគេពិចារណាប្រសិនបើប្រភពភ្លើងបំភ្លឺចម្បងគឺអ្នកផ្គត់ផ្គង់អគ្គិសនីក្នុងស្រុកប្រព័ន្ធសូឡាប្រព័ន្ធភ្លើងខ្នាតតូចនិងប្រព័ន្ធឈរតែឯង។ ប្រភពដូចជាម៉ាស៊ីនភ្លើងទៀនអាគុយជាដើមមិនត្រូវបានគេពិចារណាដោយសារតែសមត្ថភាពការងាររបស់ពួកគេមានកំណត់ហើយចាប់តាំងពីពួកវាត្រូវបានរក្សាទុកជាប្រភពបម្រុងទុកសម្រាប់ភ្លើងបំភ្លឺ។ &lt;/p&gt;
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt១, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ស៊ីអេសអេសត្រូវបានអនុវត្តដោយអាយអាយអេសចាប់តាំងពីឆ្នាំ ១៩៩៣ បន្ទាប់មកនៅឆ្នាំ ១៩៩៦, ១៩៩៧, ១៩៩៩, ២០០៤ និងធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧-២០០៧ ។ ការស្ទង់មតិចុងក្រោយគឺនៅក្នុងឆ្នាំ ២០១៩ ។ ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពរងគ្រោះភាពងាយរងគ្រោះនិងអ្នកដទៃ។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ បួនចុងក្រោយត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤ ២០០៩ ២០០៩ និងឆ្នាំ ២០១៩ ។ យ៉ាងណាក៏ដោយការស្ទង់មតិគំរូដ៏ធំនេះត្រូវបានធ្វើឡើងរៀងរាល់ ២ ឆ្នាំម្តងដែលចាប់ផ្តើមពីឆ្នាំ ២០២១ តទៅ។
+[៨១៥] ចាប់តាំងពីស៊ីអេសអេស ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់គ្រួសារនិងប្រាក់ចំណូលគ្រួសារត្រូវបានណែនាំ។ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១៣០៨]
+[១៣១៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសលើការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៥៥៦]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; សមាមាត្រនៃប្រជាជនដែលមានអគ្គិសនីប្រើប្រាស់គឺភាគរយនៃចំនួនប្រជាជនដែលមានអគ្គិសនីប្រើប្រាស់។ នេះត្រូវបានបង្ហាញជាតួលេខភាគរយហើយត្រូវបានបែងចែកតាមតំបន់ទីក្រុងនិងជនបទ។ [២០៨]
+[២១៣] ដើម្បីទទួលបានរូបភាពច្បាស់អត្រាចូលប្រើត្រូវបានពិចារណាប្រសិនបើប្រភពភ្លើងបំភ្លឺចម្បងគឺអ្នកផ្គត់ផ្គង់អគ្គិសនីក្នុងស្រុកប្រព័ន្ធព្រះអាទិត្យប្រព័ន្ធក្រឡាចត្រង្គខ្នាតតូចនិងប្រព័ន្ធឈរតែឯង។ ប្រភពដូចជាម៉ាស៊ីនភ្លើងទៀនអាគុយជាដើមមិនត្រូវបានរាប់បញ្ចូលដោយសារសមត្ថភាពការងារមានកំណត់ហើយដោយសារពួកវាត្រូវបានរក្សាទុកជាប្រភពបម្រុងទុកសម្រាប់ភ្លើងបំភ្លឺ។ [៥៧៥]
+[៥៨០] ការមានអគ្គិសនីក្នុងសេណារីយ៉ូនេះសំដៅទៅលើសមាមាត្រនៃចំនួនប្រជាជននៅតំបន់ដែលបានពិចារណា (ជាតិទីក្រុងជនបទជនបទឬខេត្ត) ដែលមានប្រភពអគ្គិសនីជាប់លាប់។ [៧៧៩]
+									</field>
+									<field id="CONTACT_EMAIL">[០] [៣] pomao.nis@gmail.com [៥៩]; [៦៥] bony_som@yahoo.com [១១៩] [១២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១២ ៨៩៤ ៩៣៤ / + ៨៥៥ ១២ ៧២៤ ២២២ [៣៥]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; នាយករង [១៩]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ប៉ូម៉ៅ (លោក) / Som Bony (Mr) [៣១]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៧.១.១ សមាមាត្រប្រជាជនដែលមានអគ្គិសនីប្រើប្រាស់ [៦០]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៧.១ នៅឆ្នាំ ២០៣០ ធានានូវការទទួលបាននូវសេវាកម្មថាមពលដែលមានតំលៃសមរម្យអាចទុកចិត្តបាននិងទំនើប [៩០]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៧ ។ ធានាបាននូវការប្រើប្រាស់បានតំលៃសមរម្យអាចទុកចិត្តបាននិរន្តរភាពនិងថាមពលទំនើបសម្រាប់ទាំងអស់គ្នា [៨២]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គមនិង / ឬនាយកដ្ឋានស្ថិតិនិងនាយកដ្ឋានស្ថិតិស្ថិតិ &lt;/p&gt;
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
 									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="7-1-2">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; របាយការណ៍អង្កេតសេដ្ឋកិច្ចសង្គមកម្ពុជា៖ [៤៣] https://www.nis.gov.kh/index.php/km/14-cses/12-cambodia-socio-economic-survey-reports [២២៤] [ ២២៨]
+									</field>
+									<field id="COMPARABILITY">&lt;p&gt; វាអាចមានភាពខុសគ្នារវាងរបាយការណ៍អន្ដរជាតិរបស់អង្គការសុខភាពពិភពលោក / ពិភពលោកនិងរបាយការណ៍របស់ NSO ដែលបានរាយការណ៍ជាលក្ខណៈជាតិ។ ហេតុផលមានដូចខាងក្រោមៈ [១៤០]
+[១៤៥]
+  [១៥២] ការប៉ាន់ស្មានដែលបានយកគំរូតាមចំណុចទិន្នន័យស្ទង់មតិ [២០០]
+  [២០៨] ការប្រើប្រាស់និយមន័យផ្សេងគ្នានៃឥន្ធនៈដែលបំពុល (ឬរឹងពីមុន) (តែឈើឬអុសនិងជីវម៉ាសផ្សេងទៀតឧ។ សំណល់លាមក; ប្រេងកាតរួមបញ្ចូលរឺក៏មិនមែនជាឥន្ធនៈបំពុល) ។ និង [៣៩៣]
+  [៤០១] ការប្រើប្រាស់ការប៉ាន់ស្មានប្រជាជនសរុបផ្សេងៗគ្នា។ [៤៤៨]
+[៤៥៤]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ទិន្នន័យអាចរកបានដោយទីតាំងភូមិសាស្ត្រ៖ ជាតិទីក្រុងទីក្រុងជនបទនិងតាមតំបន់អេកូឡូស៊ី៖ បឹងទន្លេសាបធម្មតាឆ្នេរសមុទ្រនិងខ្ពង់រាបនិងភ្នំ។ [១៥១]
+									</field>
+									<field id="QUALITY_MGMNT">&lt;p&gt; NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។
+									</field>
+									<field id="DATA_VALIDATION">&lt;p&gt; ដើម្បីតម្រឹមគំនិតនិងនិយមន័យសកលទំហំគ្រួសារជាមធ្យមនិងចំនួនប្រជាជនសរុបត្រូវបានប្រើប្រាស់ [១២៣]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; ចំនួនគ្រួសារដែលប្រើប្រាស់ប្រេងឥន្ធនៈស្អាតនិងបច្ចេកវិជ្ជាសំរាប់ចម្អិនកំដៅនិងភ្លើងបំភ្លឺចែកដោយគ្រួសារសរុបរាយការណ៍ថាការចំអិនកំដៅរឺភ្លើងបំភ្លឺណាមួយបង្ហាញជាភាគរយ។ [១៩៩]
+[២០៤] ‘ឥន្ធនៈស្អាត” រួមមាន៖ ឥន្ធនៈស្អាតរួមមានអគ្គិសនីឧស្ម័នរាវ (LPG) ឧស្ម័នធម្មជាតិ (PNG) ជីវឧស្ម័នថាមពលព្រះអាទិត្យនិងអាល់កុល។ [៣៤០]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; សម្រាប់ការចំអិនកំដៅនិងរន្ទះជាធម្មតាក្រុមគ្រួសារពឹងផ្អែកលើឥន្ធនៈរឹងដូចជាអុសធ្យូងជីវម៉ាសឬប្រេងកាតភ្ជាប់ជាមួយបច្ចេកវិទ្យាមិនមានប្រសិទ្ធភាព (ឧ។ ភ្លើងចំហុយចង្ក្រានកំដៅអវកាសឬអំពូលភ្លើង) ។ វាត្រូវបានគេដឹងថាការពឹងផ្អែកលើថាមពលគ្មានប្រសិទ្ធភាពបែបនេះសម្រាប់ចម្អិនអាហារនិងភ្លើងបំភ្លឺត្រូវបានផ្សារភ្ជាប់ជាមួយនឹងកម្រិតខ្ពស់នៃការបំពុលខ្យល់ក្នុងផ្ទះ (ក្នុងផ្ទះ) ។ ការប្រើប្រាស់ប្រេងឥន្ធនៈដែលគ្មានប្រសិទ្ធភាពសម្រាប់ចម្អិនអាហារតែម្នាក់ឯងត្រូវបានគេប៉ាន់ស្មានថាបណ្តាលឱ្យមានមនុស្សស្លាប់ជាង ៤ លាននាក់ក្នុងមួយឆ្នាំ ៗ ភាគច្រើនក្នុងចំនោមស្ត្រីនិងកុមារ។ នេះគឺច្រើនជាងការរួមបញ្ចូលគ្នានៃជំងឺរបេងមេរោគអេដស៍និងជំងឺគ្រុនចាញ់។ ផលប៉ះពាល់សុខភាពមិនល្អទាំងនេះអាចត្រូវបានជៀសវាងដោយការប្រើប្រាស់ប្រេងឥន្ធនៈស្អាតនិងបច្ចេកវិទ្យាសម្រាប់ថាមពលគ្រួសារសំខាន់ៗទាំងអស់នៅចុងបញ្ចប់ឬក្នុងកាលៈទេសៈខ្លះដោយទទួលយកចង្រ្កានចំហេះដែលមានលក្ខណៈជឿនលឿន (ឧ។ អ្នកដែលសម្រេចគោលដៅអត្រាបំភាយឧស្ម័នដែលបានផ្តល់ដោយគោលការណ៍ណែនាំរបស់អង្គការសុខភាពពិភពលោក) និងអនុម័តពិធីសារតឹងរឹងសម្រាប់ ការប្រើប្រាស់ប្រកបដោយសុវត្ថិភាព។ ដោយសារសារៈសំខាន់នៃការប្រើប្រាស់ថាមពលគ្រួសារស្អាតនិងមានសុវត្ថិភាពជាបញ្ហាអភិវឌ្ឍន៍មនុស្សការចូលប្រើថាមពលជាសកលក្នុងចំណោមសហគមន៍អ្នកអនុវត្តបច្ចេកទេសបច្ចុប្បន្នត្រូវបានគេយកទៅប្រើមានន័យថាមានអគ្គិសនីនិងប្រេងស្អាតនិងបច្ចេកវិទ្យាសម្រាប់ចម្អិនអាហារកំដៅនិងភ្លើង។ ដោយហេតុផលនេះចម្អិនអាហារស្អាតគឺជាផ្នែកមួយនៃគោលដៅចូលជាសកលក្រោមថាមពលនិរន្តរភាពរបស់អគ្គលេខាធិការអង្គការសហប្រជាជាតិសម្រាប់គំនិតផ្តួចផ្តើមទាំងអស់។
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ការស្ទង់មតិជុំបន្ទាប់៖ Qrt១, ២០២១ [៣៦]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ស៊ីអេសអេសត្រូវបានអនុវត្តដោយអាយអាយអេសចាប់តាំងពីឆ្នាំ ១៩៩៣ បន្ទាប់មកនៅឆ្នាំ ១៩៩៦, ១៩៩៧, ១៩៩៩, ២០០៤ និងធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧-២០០៧ ។ ការស្ទង់មតិចុងក្រោយគឺនៅក្នុងឆ្នាំ ២០១៩ ។ ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពរងគ្រោះភាពងាយរងគ្រោះនិងអ្នកដទៃ។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ ចុងក្រោយបួនត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤ ២០០៩ ២០០៩ ២០១៤ និង ២០១៩ ។
+&lt;p&gt; ចាប់តាំងពីស៊ីអេសអេស ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់គ្រួសារនិងប្រាក់ចំណូលគ្រួសារត្រូវបានណែនាំ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១២១៣]
+[១២១៨] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសលើការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ http://nada.nis.gov.kh/ index.php / ផ្ទះ [១៤៦១]
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; សមាមាត្រប្រជាជនជាមួយនឹងការពឹងផ្អែកបឋមលើឥន្ធនៈស្អាតនិងបច្ចេកវិទ្យាត្រូវបានគណនាជាចំនួនគ្រួសារដែលប្រើប្រាស់ប្រេងឥន្ធនៈនិងបច្ចេកវិទ្យាស្អាតសម្រាប់ចម្អិនអាហារកំដៅនិងភ្លើងបំភ្លឺចែកតាមគ្រួសារសរុបរាយការណ៍ថាការចំអិនកំដៅឬភ្លើងបំភ្លឺណាមួយបង្ហាញជាភាគរយ។ “ ស្អាត” ត្រូវបានកំនត់ដោយគោលដៅអត្រាបំភាយនិងអនុសាសន៍ប្រេងជាក់លាក់ (ឧ។ ប្រឆាំងនឹងធ្យូងថ្មនិងប្រេងកាតដែលមិនបានកែច្នៃ) ដែលមានបញ្ចូលក្នុងគោលការណ៍ណែនាំស្តង់ដាររបស់អង្គការសុខភាពពិភពលោកចំពោះគុណភាពខ្យល់ក្នុងផ្ទះ៖ ចំហេះឥន្ធនៈក្នុងគ្រួសារ។ [៥២០]
+[៥២៥] ‘ឥន្ធនៈស្អាត” រួមមានអគ្គិសនីឥន្ធនៈហ្គាស (ឧ។ LPG) ឧស្ម័នធម្មជាតិ (PNG) ជីវឧស្ម័នថាមពលព្រះអាទិត្យនិងឥន្ធនៈអាល់កុល។ [៦៤១]
+[៦៤៦] គំនិត៖ ការប្រមូលទិន្នន័យពិភពលោកបច្ចុប្បន្នផ្តោតលើឥន្ធនៈបឋមដែលត្រូវបានប្រើសម្រាប់ចម្អិនអាហារចាត់ថ្នាក់ជាឥន្ធនៈរឹងឬឥន្ធនៈរឹងដែលឥន្ធនៈរឹងត្រូវបានគេចាត់ទុកថាជាការបំពុលនិងមិនទំនើបរីឯឥន្ធនៈមិនរឹងត្រូវបានគេចាត់ទុកថាស្អាត។ វិធានការតែមួយនេះចាប់យកផ្នែកមួយដ៏ល្អនៃការខ្វះខាតការប្រើប្រាស់ប្រេងចម្អិនអាហារប៉ុន្តែមិនបានប្រមូលទិន្នន័យប្រភេទឧបករណ៍ឬបច្ចេកវិទ្យាត្រូវបានប្រើសម្រាប់ចម្អិនអាហារហើយក៏បរាជ័យក្នុងការចាប់យកទម្រង់បំពុលផ្សេងទៀតនៃការប្រើប្រាស់ថាមពលនៅក្នុងផ្ទះដូចជា ប្រើសំរាប់បំភ្លឺនិងកំដៅ។ [១១៦៤]
+[១១៦៩] ការចង្អុលបង្ហាញអំពីគោលការណ៍ស្តង់ដារថ្មីពីអង្គការសុខភាពពិភពលោក (i.e. គោលការណ៍ណែនាំពិភពលោកសម្រាប់គុណភាពខ្យល់ក្នុងផ្ទះ៖ ចំហេះឥន្ធនៈក្នុងគ្រួសារ) បង្ហាញពីសារៈសំខាន់នៃការដោះស្រាយទាំងឥន្ធនៈនិងបច្ចេកវិទ្យាសម្រាប់ការពារសុខភាពសាធារណៈឱ្យបានគ្រប់គ្រាន់។ គោលការណ៍ណែនាំទាំងនេះផ្តល់នូវអនុសាសន៍បច្ចេកទេសតាមទំរង់គោលដៅនៃការបំភាយឧស្ម័នថាតើអ្វីទៅជាឥន្ធនៈនិងបច្ចេកវិទ្យា (ចង្រ្កានចង្កៀងជាដើម) បន្សំនៅក្នុងផ្ទះគឺស្អាត។ គោលការណ៍ណែនាំទាំងនេះក៏ផ្តល់អនុសាសន៍ផងដែរប្រឆាំងនឹងការប្រើប្រាស់ធ្យូងថ្មដែលមិនបានកែច្នៃនិងរារាំងការប្រើប្រាស់ប្រេងកាត (ឥន្ធនៈមិនរឹងប៉ុន្តែមានការបំពុលខ្លាំង) នៅក្នុងផ្ទះ។ ពួកគេក៏បានផ្តល់អនុសាសន៍ថារាល់ការប្រើប្រាស់ថាមពលចុងក្រោយរបស់គ្រួសារសំខាន់ៗ (ឧទាហរណ៍ការចំអិនកំដៅអវកាសភ្លើងបំភ្លឺ) ប្រើប្រេងឥន្ធនៈនិងបន្សំបច្ចេកវិទ្យាប្រកបដោយប្រសិទ្ធភាពដើម្បីធានាបាននូវអត្ថប្រយោជន៍ដល់សុខភាព។ [១៩២៦]
+[១៩៣១] ចំពោះហេតុផលនេះអនុសាសន៍បច្ចេកទេសក្នុងគោលការណ៍ណែនាំរបស់អង្គការសុខភាពពិភពលោកការចូលទៅកាន់ដំណោះស្រាយធ្វើម្ហូបបែបទំនើបនៅក្នុងផ្ទះនឹងត្រូវបានកំណត់ជា“ ការទទួលបានឥន្ធនៈនិងបច្ចេកវិទ្យាស្អាត” ជាជាង“ ការប្រើប្រាស់ឥន្ធនៈមិនរឹង” ។ ការផ្លាស់ប្តូរនេះនឹងជួយធានាថាសុខភាពនិងអត្ថប្រយោជន៍ &quot;ណឺណិត&quot; ផ្សេងទៀតត្រូវបានគេរាប់បញ្ចូលហើយដូច្នេះត្រូវបានគេដឹង។ [២២៥៦]
+									</field>
+									<field id="CONTACT_EMAIL">[០] [៣] pomao.nis@gmail.com [៥៩]; [៦៥] bony_som@yahoo.com [១១៩] [១២៣]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ១២ ៨៩៤ ៩៣៤ / + ៨៥៥ ១២ ៧២៤ ២២២ [៣៥]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; នាយករង [១៩]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; ប៉ូម៉ៅ (លោក) / Som Bony (Mr) [៣១]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ៧.១.២ សមាមាត្រនៃប្រជាជនដែលពឹងផ្អែកជាចម្បងលើឥន្ធនៈស្អាតនិងបច្ចេកវិទ្យាសម្រាប់ចម្អិនអាហារ [៧.១.២] (EG_CFT_COOK) [១១៩]
+[១២៤] ៧.១.២ សមាមាត្រនៃប្រជាជនដែលពឹងផ្អែកជាចម្បងលើឥន្ធនៈស្អាតនិងបច្ចេកវិទ្យាសំរាប់បំភ្លឺ [៧.១.២] (EG_CFT_LIGHT) [២៤៥]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៧.១.២ សមាមាត្រនៃប្រជាជនដែលពឹងផ្អែកជាចម្បងលើឥន្ធនៈនិងបច្ចេកវិទ្យាស្អាត [៧.១.២] (EG_EGY_CLEAN) [១០៨]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៧.១ នៅឆ្នាំ ២០៣០ ធានានូវការទទួលបាននូវសេវាកម្មថាមពលដែលមានតំលៃសមរម្យអាចទុកចិត្តបាននិងទំនើប [៩០]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៧ ។ ធានាបាននូវការប្រើប្រាស់បានតំលៃសមរម្យអាចទុកចិត្តបាននិរន្តរភាពនិងថាមពលទំនើបសម្រាប់ទាំងអស់គ្នា [៨២]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានស្ថិតិសង្គមនិង / ឬនាយកដ្ឋានស្ថិតិនិងនាយកដ្ឋានស្ថិតិស្ថិតិ &lt;/p&gt;
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
 									<field id="REG_AGG"/>
 									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
 						<indicator id="9-2-1">
 								<fields>
+									<field id="OTHER_DOC">&lt;p&gt; តារាងគណនីជាតិ៖ [២៧]
+[៣២] [៣៥] http://nis.gov.kh/index.php/km/21-na/81-national-account-table [១៧០] [១៧៤]
+									</field>
+									<field id="COVERAGE">&lt;p&gt; ភាពអាចរកបានទិន្នន័យតាមទីតាំងភូមិសាស្ត្រ៖ ជាតិ [៥៣]
+									</field>
+									<field id="DATA_COMP">&lt;p&gt; សមាមាត្រ MVA ទៅនឹងផលិតផលក្នុងស្រុកសរុប = MVA / GDP * ១០០ ។ [៣៩]
+[៤៤] MVA ក្នុងមនុស្សម្នាក់ = MVA / ប្រជាជន [៧៨]
+									</field>
+									<field id="REC_USE_LIM">&lt;p&gt; ភាពខុសគ្នាអាចលេចឡើងដោយសារតែកំណែផ្សេងៗគ្នានៃប្រព័ន្ធគណនីជាតិឬការកែប្រែ ISIC ត្រូវបានប្រើដោយប្រទេសនានា។
+									</field>
+									<field id="RATIONALE">&lt;p&gt; MVA គឺជាសូចនាករដែលត្រូវបានទទួលស្គាល់និងប្រើប្រាស់យ៉ាងទូលំទូលាយដោយអ្នកស្រាវជ្រាវនិងអ្នកបង្កើតគោលនយោបាយដើម្បីវាយតម្លៃកម្រិតនៃឧស្សាហូបនីយកម្មរបស់ប្រទេសមួយ។ ចំណែកនៃ MVA នៅក្នុងផលិតផលក្នុងស្រុកសរុបឆ្លុះបញ្ចាំងពីតួនាទីនៃការផលិតនៅក្នុងសេដ្ឋកិច្ចនិងការអភិវឌ្ឍជាតិរបស់ប្រទេសជាទូទៅ។ MVA ក្នុងមនុស្សម្នាក់គឺជាការចង្អុលបង្ហាញជាមូលដ្ឋាននៃកម្រិតឧស្សាហូបនីយកម្មរបស់ប្រទេសដែលត្រូវបានកែតម្រូវសម្រាប់ទំហំសេដ្ឋកិច្ច។ ការប្រើប្រាស់ស្ថិតិ MVA ក្នុងមនុស្សម្នាក់គឺចាត់ថ្នាក់ក្រុមប្រទេសយោងតាមដំណាក់កាលនៃការអភិវឌ្ឍន៍ឧស្សាហកម្ម។ [៥០៨]
+									</field>
+									<field id="INST_MANDATE">&lt;p&gt; ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]
+									</field>
+									<field id="COMPILING_ORG">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="DATA_SOURCE">&lt;p&gt; វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]
+									</field>
+									<field id="REL_CAL_POLICY">&lt;p&gt; ត្រីមាសទី ២ បន្ទាប់ពីរយៈពេលយោង [៤៤]
+									</field>
+									<field id="FREQ_COLL">&lt;p&gt; ប្រចាំខែ [១០]
+									</field>
+									<field id="COLL_METHOD">&lt;p&gt; ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តដោយការទទួលទិន្នន័យតាមអេឡិចត្រូនិចពេញមួយឆ្នាំ។
+									</field>
+									<field id="SOURCE_TYPE">&lt;p&gt; ទិន្នន័យរដ្ឋបាលពីក្រសួងពាក់ព័ន្ធ &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM">&lt;p&gt; អាយស៊ីអាយធី Rev.4 &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE">&lt;p&gt; ភាគរយ (%) &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF">&lt;p&gt; [៣] និយមន័យ៖ [២២] [៣១]
+&lt;p&gt; តម្លៃផលិតកម្មបន្ថែម (MVA) ដែលជាសមាមាត្រនៃផលិតផលក្នុងស្រុកសរុបគឺជាសមាមាត្ររវាង MVA និងផលិតផលក្នុងស្រុកសរុបដែលត្រូវបានរាយការណ៍ក្នុងឆ្នាំ ២០១៤ ថេរ [១៨៦]
+[១៩១] MVA ក្នុងមនុស្សម្នាក់ត្រូវបានគណនាដោយបែងចែក MVA ជាប្រចាំឆ្នាំ ២០១៤ ដុល្លារអាមេរិកដោយប្រជាជននៃប្រទេសឬតំបន់មួយ។ [២៩៥]
+[៣០០] [៣០៣] គំនិត៖ [៣២០] [៣២៩]
+[៣៣៤] ការបន្ថែមតម្លៃសរុបវាស់ការចូលរួមចំណែកដល់សេដ្ឋកិច្ចរបស់អ្នកផលិតម្នាក់ៗឧស្សាហកម្មឬផ្នែកនីមួយៗនៅក្នុងប្រទេស។ តម្លៃបន្ថែមដែលបានបង្កើតដោយអង្គភាពណាមួយដែលចូលរួមក្នុងសកម្មភាពផលិតកម្មអាចត្រូវបានគេគណនាថាជាសំណល់នៃទិន្នផលសរុបរបស់អង្គភាពដែលការប្រើប្រាស់តិចជាងមុនកម្រិតមធ្យមទំនិញនិងសេវាកម្មត្រូវបានប្រើក្នុងដំណើរការនៃការផលិតលទ្ធផលឬជាផលបូកនៃប្រាក់ចំណូលដែលបានបង្កើត ដោយដំណើរការផលិតកម្ម (ប្រព័ន្ធគណនេយ្យជាតិឆ្នាំ ២០០៨) ។ ការផលិតសំដៅទៅលើឧស្សាហកម្មដែលជាកម្មសិទ្ធិរបស់វិស័យ C ដែលកំណត់ដោយការធ្វើចំណាត់ថ្នាក់ឧស្សាហកម្មស្តង់ដារអន្តរជាតិនៃសកម្មភាពសេដ្ឋកិច្ចទាំងអស់ (ISIC) ការពិនិត្យឡើងវិញលើកទី ៤ ឬ D ដែលកំណត់ដោយការត្រួតពិនិត្យឡើងវិញអាយអាយស៊ី ៣ ។
+[១០០៨] ផសសតំណាងឱ្យផលបូកនៃតម្លៃសរុបបន្ថែមពីអង្គភាពស្ថាប័នទាំងអស់ដែលមានទីលំនៅក្នុងសេដ្ឋកិច្ច។ សម្រាប់គោលបំណងប្រៀបធៀបប្រៀបធៀបទៅនឹងពេលវេលានិងនៅទូទាំងប្រទេស MVA និងផលិតផលក្នុងស្រុកសរុបត្រូវបានប៉ាន់ប្រមាណទាក់ទងនឹងតម្លៃថេរគិតជាដុល្លារអាមេរិក។ ស៊េរីបច្ចុប្បន្នត្រូវបានផ្តល់ឱ្យក្នុងតម្លៃថេរនៃឆ្នាំ ២០១៤ ។ [១២៩១]
+									</field>
+									<field id="CONTACT_EMAIL">&lt;p&gt; [៣] unsavin@gmail.com [៥៥] / [៦២] un_savin@yahoo.com [១១៦] [១២០]
+									</field>
+									<field id="CONTACT_MAIL">&lt;p&gt; ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]
+									</field>
+									<field id="CONTACT_PHONE">[០] +៨៥៥ ៧៧ ៥១ ៥៥ ៥៥ [១៩]
+									</field>
+									<field id="CONTACT_FUNCT">&lt;p&gt; អនុប្រធាននាយកដ្ឋាន [៣២]
+									</field>
+									<field id="CONTACT_NAME">&lt;p&gt; លោក។ អ៊ុនសាវិន [១៥]
+									</field>
+									<field id="CONTACT_ORGANISATION">&lt;p&gt; វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]
+									</field>
+									<field id="META_LAST_UPDATE">&lt;p&gt; ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]
+									</field>
+									<field id="SDG_SERIES_DESCR">&lt;p&gt; ៩.២.១ គុណតម្លៃផលិតកម្មត្រូវបានបន្ថែមជាសមាមាត្រនៃផ។ ស។ ស [៩.២.១] (NV_IND_MANF) [៧៩]
+									</field>
+									<field id="SDG_INDICATOR">&lt;p&gt; ៩.២.១ តម្លៃផលិតកម្មបន្ថែមសម្រាប់មនុស្សម្នាក់ [៩.២.១] (NV_IND_MANFPC) [៦៩]
+									</field>
+									<field id="SDG_TARGET">&lt;p&gt; ៩.២៖ លើកកម្ពស់ឧស្សាហូបនីយកម្មដែលមានលក្ខណៈគ្រប់ជ្រុងជ្រោយនិងប្រកបដោយចីរភាពហើយនៅឆ្នាំ ២០៣០ បង្កើនចំណែកឧស្សាហកម្មនិងការងារក្នុងស្រុកយ៉ាងសំខាន់ស្របនឹងកាលៈទេសៈជាតិនិងមានចំណែកទ្វេដងនៅក្នុងប្រទេសអភិវឌ្ឍន៍តិចតួច [២៣៩]
+									</field>
+									<field id="SDG_GOAL">&lt;p&gt; ៩៖ កសាងហេដ្ឋារចនាសម្ព័ន្ធដែលអាចទ្រទ្រង់លើកកម្ពស់ឧស្សាហូបនីយកម្មបញ្ចូលនិងប្រកបដោយនិរន្តរភាពនិងជំរុញការច្នៃប្រឌិត [១១១]
+									</field>
+									<field id="ORGANISATION_UNIT">&lt;p&gt; នាយកដ្ឋានគណនេយ្យជាតិវិទ្យាស្ថានស្ថិតិជាតិ [៦៥]
+									</field>
 									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
 									<field id="SDG_RELATED_INDICATORS"/>
 									<field id="SDG_CUSTODIAN_AGENCIES"/>
 									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
 									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2922,9 +3690,7 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
 									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>

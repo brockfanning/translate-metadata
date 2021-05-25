@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-25T19:20:45.792Z</mes:Prepared>
+    <mes:Prepared>2021-05-25T21:56:09.510Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="1753aa2f-6ba7-409d-bdd1-912bd4680e00">
+  <mes:MetadataSet structureRef="MDS1" setID="063b2fbd-fc42-44c5-b682-16df6da3c843">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -54,75 +54,75 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១ ។ បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៤៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣ អនុវត្តប្រព័ន្ធគាំទ្រថ្នាក់ជាតិការគាំពារសង្គមនិងវិធានការផ្សេងៗគ្នានៅទូទាំងប្រទេសហើយសំរេចចិត្តធ្វើឱ្យមានភាពទូលំទូលាយនៃប្រព័ន្ធនេះដល់ប្រជាជនក្រីក្រនិងងាយរងគ្រោះនៅត្រឹមឆ្នាំ ២០៣០ [២១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលសេវាសង្គមបន្ទាន់ [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រដែលទទួលបានអត្ថប្រយោជន៍ជាសាច់ប្រាក់ជំនួយសង្គម [១.៣.១] (SI_COV_POOR) [១០១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ២០២០ [៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ យឹមកឹមសាន [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> mosvy.dpss.gmail.com </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ចំនួនប្រជាជនដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិនិងប្រជាជនដែលមិនអាចទប់ទល់នឹងវិបត្តិសេដ្ឋកិច្ចឬមានហានិភ័យខ្ពស់នៃវិបត្តិ) ទទួលបានសេវាកម្មជំនួយដំបូងក្នុងចំណោមប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុប]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ [១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានសុខមាលភាពសង្គម [៣១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អ្នកចង្អុលបង្ហាញត្រូវបានគណនាដោយបែងចែកចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលបានសេវាសង្គមបន្ទាន់ដល់ចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុបនិងគុណនឹង ១០០ ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="dbd980cf-feb3-462f-bfa9-e0f47fbf33d3">
+  <mes:MetadataSet structureRef="MDS1" setID="3f64c2d3-68f9-41e7-8bc3-43b9791c0d63">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -147,7 +147,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -165,70 +165,70 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១ ។ បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៤៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣ អនុវត្តប្រព័ន្ធគាំទ្រថ្នាក់ជាតិការគាំពារសង្គមនិងវិធានការផ្សេងៗគ្នានៅទូទាំងប្រទេសហើយសំរេចចិត្តធ្វើឱ្យមានភាពទូលំទូលាយនៃប្រព័ន្ធនេះដល់ប្រជាជនក្រីក្រនិងងាយរងគ្រោះនៅត្រឹមឆ្នាំ ២០៣០ [២១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលសេវាសង្គមបន្ទាន់ [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.៣.១ សមាមាត្រនៃប្រជាជនក្រីក្រដែលទទួលបានអត្ថប្រយោជន៍ជាសាច់ប្រាក់ជំនួយសង្គម [១.៣.១] (SI_COV_POOR) [១០១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ២០២០ [៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ យឹមកឹមសាន [១៧]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធានការិយាល័យទទួលបន្ទុកស្ថិតិ [៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ១៦ ៦២៦ ២១១ [១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ៧៨៨ មហាវិថីព្រះមុនីវង្សសង្កាត់បឹងត្របែកខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> mosvy.dpss.gmail.com </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ចំនួនប្រជាជនដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិនិងប្រជាជនដែលមិនអាចទប់ទល់នឹងវិបត្តិសេដ្ឋកិច្ចឬមានហានិភ័យខ្ពស់នៃវិបត្តិ) ទទួលបានសេវាកម្មជំនួយដំបូងក្នុងចំណោមប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុប]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ [១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រព័ន្ធព័ត៌មានរដ្ឋបាល [៣៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ម្តងក្នុងមួយឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានសុខមាលភាពសង្គម [៣១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិផែនការនិងបូកសរុប [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រសួងសង្គមកិច្ចអតីតយុទ្ធជននិងយុវនីតិសម្បទា [៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អ្នកចង្អុលបង្ហាញត្រូវបានគណនាដោយបែងចែកចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះដែលទទួលបានសេវាសង្គមបន្ទាន់ដល់ចំនួនប្រជាជនក្រីក្រនិងងាយរងគ្រោះសរុបនិងគុណនឹង ១០០ ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អនុវត្តតាមវិធីសាស្រ្តនិងការណែនាំរបស់ NIS [៤០]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

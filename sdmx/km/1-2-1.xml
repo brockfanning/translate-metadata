@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-25T19:20:42.437Z</mes:Prepared>
+    <mes:Prepared>2021-05-25T21:56:06.483Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="302de217-a85b-4963-bd1d-e7dedd41f844">
+  <mes:MetadataSet structureRef="MDS1" setID="c32fb760-2d1a-47b4-bbd5-a22220a433cf">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អគ្គនាយកដ្ឋានផែនការក្រសួងផែនការ / នាយកដ្ឋានស្ថិតិសេដ្ឋកិច្ច, អាយ។ អេស។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -54,79 +54,100 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១ ។ បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៤៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.២: នៅឆ្នាំ ២០៣០ កាត់បន្ថយយ៉ាងហោចណាស់ពាក់កណ្តាលសមាមាត្រនៃបុរសស្ត្រីនិងកុមារគ្រប់វ័យដែលរស់នៅក្នុងភាពក្រីក្រក្នុងគ្រប់វិថីរបស់ខ្លួនយោងទៅតាមនិយមន័យជាតិ [១៦៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១.២.១៖ សមាមាត្រប្រជាជនដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិដោយភេទនិងអាយុ [៨៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែតុលាឆ្នាំ ២០២០ [១៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានជាតិស្ថិតិ (NIS) / អគ្គនាយកដ្ឋានផែនការនៃក្រសួងផែនការ [១០៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ ប៉ូច Sovanndy / លោក។ ណនវ៉ាន់ឌីណា [៣៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អគ្គនាយករង / នាយក [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ៨៥៥ ១២ ៩៣១ ២៦៤ / ៨៥៥ ១២ ៥៥៧ ៤៦៨ [៣២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> sovanndypoch @ gmail.com / Norvanndy @ gmail.com </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អត្រាភាពក្រីក្រថ្នាក់ជាតិគឺជាភាគរយនៃចំនួនប្រជាជនសរុបដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ អត្រាភាពក្រីក្រនៅជនបទគឺជាភាគរយនៃចំនួនប្រជាជននៅតាមជនបទដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ អត្រាភាពក្រីក្រនៅទីក្រុងគឺជាភាគរយនៃប្រជាជនទីក្រុងដែលរស់នៅក្រោមបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិ។ [៣១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ (%) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិសេដ្ឋកិច្ចសង្គមកម្ពុជា (CSES) [៤០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[ការស្ទង់មតិនេះផ្តល់នូវសូចនាករដ៏ទូលំទូលាយស្តីពីស្ថានភាពរស់នៅក្នុងប្រទេសកម្ពុជាដែលគ្របដណ្តប់លើវិស័យសេដ្ឋកិច្ចសង្គមសំខាន់ៗដូចជាលក្ខខណ្ឌលំនៅដ្ឋានសុខភាពការអប់រំកម្លាំងពលកម្មសកម្មភាពសេដ្ឋកិច្ចភាពងាយរងគ្រោះភាពងាយរងគ្រោះនិង ផ្សេងទៀត។ កម្រងសំណួរនៃការស្ទង់មតិត្រូវបានសួរសម្រាប់គ្រួសារនិងសម្រាប់សមាជិកគ្រួសារ។ ស៊ី។ អេស។ អេសត្រូវបានធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧ ដល់ឆ្នាំ ២០១៧ ។ ទំហំគំរូត្រូវបានកំណត់សម្រាប់ស៊ីអេសអេសប្រចាំឆ្នាំគឺប្រហែល ៣៦០០ គ្រួសារ។ រៀងរាល់ ៥ ឆ្នាំម្តងវាត្រូវបានធ្វើឡើងដោយមានទំហំគំរូធំគឺប្រហែល ១២.០០០ គ្រួសារ។ ការស្ទង់មតិគំរូធំ ៗ ចុងក្រោយចំនួន ៤ ត្រូវបានធ្វើឡើងក្នុងឆ្នាំ ២០០៤, ២០០៩, ២០១៤ និង ២០១៩។ ចាប់ពីឆ្នាំ ២០១៩ ទៅការស្ទង់មតិនឹងត្រូវធ្វើឡើងជារៀងរាល់ឆ្នាំ (រៀងរាល់ពីរឆ្នាំម្តង) ។ [៧២៩]
+[៧៣៤] ចាប់តាំងពីស៊ីអេសអេស ២០០៤ វិធីសាស្ត្រកំណត់ហេតុប្រចាំថ្ងៃសម្រាប់ប្រមូលទិន្នន័យអំពីការចំណាយ / ការប្រើប្រាស់និងចំណូលគ្រួសារត្រូវបានណែនាំ។ ដោយសារវិធីនៃការប្រមូលយកមកវិញត្រូវបានប្រើនៅក្នុងជុំមុនវាក៏ត្រូវបានគេសម្រេចចិត្តបញ្ចូលនៅក្នុងម៉ូឌុលប្រមូល។ ដូច្នេះវិធីសាស្រ្តទាំងពីរត្រូវបានរក្សាទុក។ ការប្រមូលទិន្នន័យត្រូវបានអនុវត្តពេញមួយឆ្នាំប្រតិទិនទាំងមូលចាប់ផ្តើមពីខែមករាដល់ខែធ្នូ។ បទសម្ភាសន៍ទល់មុខគ្នាដោយប្រើកម្រងសំណួរត្រូវបានធ្វើហើយប្រហែលជា ១៥ គ្រួសារក្នុងមួយភូមិត្រូវបានជ្រើសរើស។ [១២២៧]
+[១២៣២] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុងនីដា (បណ្ណសារទិន្នន័យជាតិ) គេហទំព័ររបស់អេសអាយអិលៈ http://nada.nis.gov.kh index.php / ផ្ទះ [១៤៧៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិលើកក្រោយ៖ Quater1, ២០២១ [៣៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ, អាយ។ អេស .១១ ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការត្រួតពិនិត្យភាពក្រីក្ររបស់ជាតិគឺមានសារៈសំខាន់សម្រាប់របៀបវារៈអភិវឌ្ឍន៍របស់រដ្ឋាភិបាលជាពិសេសសម្រាប់ការតាមដានវឌ្ឍនភាពនៃផែនការយុទ្ធសាស្ត្រអភិវឌ្ឍន៍ជាតិនិងយុទ្ធសាស្ត្រចតុកោណរបស់រាជរដ្ឋាភិបាល។ ខ្សែបន្ទាត់ភាពក្រីក្រថ្នាក់ជាតិត្រូវបានប្រើដើម្បីធ្វើការប៉ាន់ស្មានភាពត្រឹមត្រូវបន្ថែមទៀតនៃភាពក្រីក្រស្របតាមស្ថានភាពសេដ្ឋកិច្ចនិងសង្គមជាក់លាក់របស់ប្រទេសហើយមិនត្រូវបានបម្រុងទុកសម្រាប់ការប្រៀបធៀបអន្តរជាតិនៃអត្រាភាពក្រីក្រទេ។ [៤១៨]
+[៤២៣] ភាពក្រីក្រគឺជាគំនិតពហុភាគី៖ គំនិតនៃភាពក្រីក្រត្រូវបានអនុវត្តទៅលើស្ថានភាពទាំងបុគ្គល (ឬគ្រួសារ) និងកម្រិតប្រទេស។ តាមទស្សនៈទាំងពីរនេះភាពក្រីក្រគឺជាវិធីសាស្រ្តពហុវិស័យ។ នៅកម្រិតភាពក្រីក្រនៅប្រទេសគឺភ្ជាប់ទៅនឹងសមត្ថភាពសេដ្ឋកិច្ចដើម្បីផ្តល់រដ្ឋបាលកណ្តាលដែលមានធនធានគ្រប់គ្រាន់ដើម្បីអភិវឌ្ឍហេដ្ឋារចនាសម្ព័ន្ធរៀបចំសេវាកម្មសាធារណៈនិងអនុវត្តកម្មវិធីអភិវឌ្ឍន៍។ កត្តាសេដ្ឋកិច្ចសំខាន់ៗដែលកំណត់សមត្ថភាពនេះរួមមាន៖ កម្រិតសកម្មភាពសេដ្ឋកិច្ចស្ថានភាពទីផ្សារអន្តរជាតិនិងអត្រាប្តូរប្រាក់បច្ចុប្បន្ន។ ខណៈពេលដែលកត្តាទីមួយនៃកត្តាទាំងបីនេះអាចរងផលប៉ះពាល់ដោយផ្ទាល់ពីគោលនយោបាយនៅថ្នាក់ជាតិនោះកត្តាទីពីរគឺពាក់ព័ន្ធយ៉ាងជិតស្និទ្ធនឹងបរិបទសេដ្ឋកិច្ចពិភពលោក។ លើសពីនេះទៀតកត្តាសង្គមក៏ជាកត្តាកំណត់សំខាន់នៃសមត្ថភាពសេដ្ឋកិច្ចដើម្បីផ្តល់ធនធានគ្រប់គ្រាន់ដល់រដ្ឋបាលកណ្តាល។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការប្រៀបធៀបលទ្ធផលពីស៊ីអេសអេស ២០០៧ ជាមួយនឹងការស្ទង់មតិកាលពីលើកមុនក្នុងឆ្នាំ ១៩៩៣/៩៤, ១៩៩៦, ១៩៩៧ និង ១៩៩៩ មិនត្រូវបានណែនាំទេដោយសារភាពខុសគ្នានៃការរចនាស្ទង់មតិ។ ការធ្វើស្រែពីការស្ទង់មតិ ៥ ចុងក្រោយ (២០០៤, ២០០៧, ២០០៨, ២០០៩ និង ២០០៩) មានរយៈពេល ១៥ ខែហើយលទ្ធផលអាចត្រូវបានរាយការណ៍ទាំង ១២ ខែ (ឆ្នាំប្រតិទិន) និងរយៈពេល ១៥ ខែ។ [៣៣៨]
+[៣៤៣] ទំងន់ដែលត្រូវបានប្រើក្នុងរបាយការណ៍ពីស៊ីអេសអេស ២០០៤ ត្រូវបានកែសំរួលដោយប្រើការប៉ាន់ស្មានប្រជាជនបឋមដែលអោយចំនួនប្រជាជនប៉ាន់ស្មាន។ ទំងន់នៅស៊ីអេសអេស ២០០៧ ត្រូវបានកែសំរួលដោយប្រើលទ្ធផលបឋមពីជំរឿនប្រជាជនឆ្នាំ ២០០៨ ។ ខេត្តមួយចំនួនត្រូវបានគេដកចេញដោយសារថ្លៃដើមនិងមូលហេតុផ្សេងទៀតក្នុងឧទាហរណ៍សម្រាប់ឆ្នាំ ២០០៧។ ទោះយ៉ាងណាការប៉ាន់ស្មានត្រូវបានកែសំរួលចំពោះកំហុសដែលគ្របដណ្តប់ដោយបណ្តាលមកពីការមិនរាប់បញ្ចូលខេត្តទាំងនោះ។ ការគណនាឡើងវិញនូវទំងន់នៅស៊ីអេសអេស ២០០៤ ត្រូវបានធ្វើឡើងសម្រាប់ការវិភាគនាពេលខាងមុខដើម្បីទទួលបានការប្រៀបធៀបខ្ពស់ជាងរវាងស៊ីអេសអេស ២០០៤ និងការស្ទង់មតិធ្វើឡើងចាប់ពីឆ្នាំ ២០០៧ និងចាប់ពីពេលនេះតទៅ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> កម្រិតនៃការប្រើប្រាស់ដែលញែកអ្នកក្រីក្រនិងប្រជាជនដែលនៅសល់ត្រូវបានគេហៅថាខ្សែបន្ទាត់ភាពក្រីក្រ។ ជំហានដំបូងក្នុងការគណនាសន្ទស្សន៍ផ្អែកលើការប្រើប្រាស់ដើម្បីវាយតម្លៃកម្រិតនៃការប្រើប្រាស់នៅខាងក្រោមដែលបុគ្គលម្នាក់ៗនឹងត្រូវបានកំណត់ថាជាអ្នកក្រីក្រ៖ ហៅថាបន្ទាត់ក្រីក្រ។ វាត្រូវបានគេដឹងថាប្រសិនបើការប្រើប្រាស់ត្រូវបានបែងចែកជាពីរប្រភេទគឺការប្រើប្រាស់ចំណីអាហារនិងការប្រើប្រាស់មិនមែនម្ហូបអាហារនោះប្រជាជនដែលក្រីក្រគឺមានសមាមាត្រខ្ពស់នៃការប្រើប្រាស់សរុបរបស់ពួកគេដែលត្រូវបានរាប់បញ្ចូលដោយការប្រើប្រាស់អាហារ។ ក្នុងការកំណត់កំរិតការប្រើប្រាស់ដែលអាចត្រូវបានប្រើដើម្បីបំបែកអ្នកក្រីក្រពីអ្នកក្រការទទួលទានអាហារគឺជាវិធានការណ៍សំខាន់បំផុត។ ដូច្នេះខ្សែបន្ទាត់ភាពក្រីក្រនៃចំណីអាហារ (កម្រិតអប្បបរមានៃការប្រើប្រាស់អាហារ) ត្រូវបានគណនាដំបូង។ ប្រាក់ឧបត្ថម្ភអប្បបរមាមិនមែនម្ហូបអាហារត្រូវបានគណនានិងបន្ថែមទៅក្នុងបន្ទាត់ភាពក្រីក្រម្ហូបអាហារដើម្បីផ្តល់នូវបន្ទាត់ភាពក្រីក្រសរុប។ </p>
+<p> នៅពេលដែលបានកំណត់ខ្សែបន្ទាត់ភាពក្រីក្រស្ថិតិសង្ខេបមួយចំនួនដែលពិពណ៌នាអំពីស្ថានភាពភាពស៊ីជម្រៅនិងភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រអាចត្រូវបានគណនា។ ទាំងនេះរួមមានសន្ទស្សន៍ចំណុចក្បាល (ដែលវាស់អត្រានៃភាពក្រីក្រ) គម្លាតនៃភាពក្រីក្រ (ដែលវាស់ពីជម្រៅនៃភាពក្រីក្រ) និងគំលាតនៃភាពក្រីក្រដែលបានបែងចែក (ដែលវាស់ភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រ) ។ លោក Foster, Greer និង Thorbecke (១៩៨៤) បង្ហាញថាវិធានការណ៍នៃភាពក្រីក្រទាំងបីនេះអាចត្រូវបានគណនាដោយប្រើរូបមន្តដូចតទៅនេះ៖ </p>
+<p> <img src = "ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAARoAAABCCAYAAACIGRmUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA2bSURBVHhe7Z15kBTVHccfFP4TQVPlgbhoWEWWxAN1BS05RDw4FFSynCpggaKoEZZTAyJidLkxkWMFCsQLkWTlVFSQQy11XTQeIDcJIsSrIhDKVFkhfN72G3pnZ3q6h + + me7tnfp6pru98cPTPb79u / 671X6 + + gxlCAIgo / Utv4KgiD4hgiNIAi + + + + I0IjCILviNAIguA7IjQRZdWqDXqLCnzWefP + + I0IjCILviNAIguA7IjSCIPhO9rJORzdbO4IgRIZav7N2vCEWjSAIviNCIwiC74jQCILgOyI0giD4jgiNIAi + + a5s2V6gBdz + + qg4fPmK1VGfRolXq9DNaqhZX9tDP79FzqOPzheggQhMx6HjDR0xWDRqcoTp1amO1hh8 // zmo9ziefbFHlH3 + + q9u + + S02eNFz96clSNWrkAFW37q + + h9ux + + ZssBqSQ4i03 sZwhRRoQmIOhI3K379nvEaqnEtE / AGNW7103qsst + a7VGhwsu + + + + jkBgRmoCg0zw86m7rqBJjndA + + I2aNnWkGlI8oZrYvPDicnXH7Z21sJSXf6G63nZDJL dGg / qzU5Yx97Rt15R5dId0AssZEj + + qvBQ0pibhGis2 / ហ្វីត + + + + A39uBB9RGhcgLVRq qss07X7tPfyt5S55xzllq8 / aFasWK9VaLd + + + + hUtWvXVj /// N9YB9uw4WN10kl1VLt2V + + tjxCcv70x1dl5b7T6VPFWs5i8oU61bF + + pjJ8y5b775Gv03yiCULZpfrEpLF ++ vHHn9ShQ // rHhegjQuMAgnD9Df3VsOGTrJb04a7dtGm + + vTufZMWFeNCTZk8Qh3935f6LwLz + RLhOcckpd7VI4wedYtnytGjb0Lqsl qpSLUBCbiBC4wDxgrffmqc2VSxRp532a6s1PRCLxo3PVfn5eWrHjn / qti1bduk7e6qA5 / BT / 1D16p2cUx2P79L8iotURYWM4q8JiNAExIED3 + + vOtWvX1 + + q1pWu0FfP6GxtVQUG + + 9YzkrF37obq2bWr3Cgg24 + + bZt6HDJlqPnhjmvQleG4sMcC2x / IxL6BZcxnfWfWgdCbmMCI3P4Bqc37i9urPPKG2Z4BaQXWl26W1qzZoP1PSnFzp2UB7bum23KixMPQ8I5zrvvIbaBTHbqpWztTuSCZ5b8KT6Zt86deqpdbX4GZo3v0jHmnAJvYDY8hrjPgm5iwiNz2DF7NyxWn3 / 3Xs6CDr20UH6L20IAa6Zk + + tkOi + + uUyo4F + + 9v2LixIuMBVT5Hfn5D9dnn26yWSsEo + + v2Nnl07vjfvh7Un5DYiNCGHTkhnTBXHiQeRQdASvS6Re2Xf4mt97PB + + eXn1raNKOFe6xYNnNzhTp7aF3EaEJuTs2bNP7dy51zpyB / ETAs / JxAkXyO5exW88nop9 + + / 6l3TrOdfDgYc / WjAHLaNu2PdaRkKuI0PhAKosh1RZfJUwhm1vo + + AhMuh3fDZdc3ET / RWg2bdqsBgwo0sdA2 / jxsx3jTkLNQ4TGB2Y8M1pdd91Vep + 0 + + PJlMxNaDvHbyhWzTiiNTrAZkTF1OXR2BjL6we7dX6tXXnm9msvE + ceMuTepNSXUTERoUoB1cnlhkfrhh3 + rzl0GuUrj0smeX1iiM0C8rt9dj1RJByeDTrtgfmq3JRFkbjp0vEc1KegUs4zqndJc1a / v3hpyCyn5n346rAdJ2i0nfhd + + + + HhGqiyRgQ645NXp2kJBbIq6DXb1HUhjM87HK5zPZLLsm19DFhDE + + H6cYj1AzCZXQJHM5mC4gWynQ DFX / C49e3RU3YraWy2CUEmohIZOPefZcbpzUo1LR9m2dZU206lDiZrfT0c0FgqFem6 + + A4LRvXsH6yh8YJkdOPBdQgHju31U / rmrm h8hWMx4PbYTGbOXLqFznTDJL720aSzOwN8e3TtqsfFaEBYG6JDMrwIU6N3 / wBN63y2NGuWpKwovtI6yAxcmViVpbOJA9uCvnXSGShBYbtKkkXUUDIPuH6 + 3qDF37hI1bZpzgWci + P / NnPWyLrZke2jwk4GLTaiEhh + + QsvyOHVrH3BPTRpGYm6K1MMIUEH363KL3Fy5c6mrumbCBSG7dutvR2qIehpsBgiNknp49O + m / jfJv0MNK3BQ60n + + oPn96 + + iP6BsDGfqqK9EwTKqHhAt2790Bs2gR + + COZg4SIf / FCfSGcy7JkoRoNnw3xNF6wyKpuTWTIGnvds6biYNSqkBleUqUtxaUyigVgew1birxGu / YFD + + UJ / BQNSr2nbV90zcKyjsJs + + xTQcBvZpC / KGECqhYfwMgdOevYbpH56syebNO3WcxktQM1UdSzayIlwkJhMFbjNRgjvIuE2cOM86qnSPaDO8 ++ 4 / b + 3W + + PmmuBxA / E0084W / 74cN76gQ5XX0W5 / jRsQEpIEL74wUR06WK6aNStQ69aVq1EPT1OtWhU6XvNYN1u / WqluveU6dfsdI1THTgMTCgdW5i + // FKlFot92oKsyA6N0BgXidnm + + + + eoHmK32TNT0p58P1HzNZdpde6Va + + AFN1oR5SbzeITNR 87xgZ5vvvlebDoOeP / 9T1T79i2tI6VmzVqkRv / xXn09TCgp1sJvwJp4 + + aVJsetl5KipVYSIY4L8PNaq1eVaeDifeT7vZxe5RHCTwf3heuD65kbEYNv1G8qPnatClTw1xHqmM17iYdkkNEKDb0 / A1820CX5hvyOls7nBZKIY8czFlAl3MNFnCcsWFEVF7dXq1e / pfSwShmDceGPLmEAgQv363qr34b77emqRAF5rhnkwlej5558Ti4cAz33p5ZXWUdXXwrNzXlVPjP + + DdXT8s / A5ksFN5qqrmlUrEZg / v0wNuq9XSgFhlQhcrlmzF2mLyMsNmdgOSZcgCY3QmAmQM pEaTdd1MnekdDc3YME8 / 8IyVTr7sYzdjRJ9lrBsQYFLikAgLB999Jm2cNq0LowJBB2 / RYtL9H4yjDAgOvbrBesnFb16D489H4vICWIwWC3x9UaEDsi4DhzY3WqpCteOWZJmzdoP1LKlM1LGxIjH1KlTp1rgGKvaHrfxm1AIDT8gUfBMZZbC6jpBLkwwHlawYBCWDRsr1NVXX6aFBZcG8cFtMvGxVCBY8dfMzBljrEcTY3e1zJbsfHR6Orr9pkq8hiSBU9IDkdm // 3u9JA1zDLkZA4cIUQBqj8cgaLR5DUmcCFkXGlK9BH3JLLExIVSiClqj5FFeXIzvyrQIXgLbQlUIwtqDs3ZYhgZhYcO1MR0d8cHCcQMuExYN15tb7rm7mxo95s / WkTuwntavL9f7nIt4zePjHtQlBEDNTHyygKwfWScv7jbPRbxMOpu + + + + xE3cwjVod4XYnIRnxIj ++ RU1N0FncrAsNNSb2uwBl9PEuBT941BcX4471zf5vXS2rYodpIj6uCM4FCRqv00QgAuee28A6qgriwuPEZwxYObg + + gb0VMkcfUPl2o63eu3VvYm2ZCEB3pfaNG7orDRBHU3QN7taR49h7QfLUfeTUqP2ROT54U2xm9cOm00QypIJc9W8ueM9i2NZ2dtq9bE79OxZY62W3ILO0eySAlVc3NdqSQ6dHcthx3ZZ7ylr1EovhhqaYHAyMPXwL4NeXAxx4M7CnSJ + + jz25yOIycCaJelhzvHcwqVqxfKZ + + GYqT992ijXIsN6T8ZsDsMQBD xLYpqEp1JwGeO / xMgQBkUl3dLuQXUIvNLhR2VhcDOuJCkxcNWJHFFIZ + + + + អតីត // 7RMl + + DNZcBlxYkVGVmZ0m2HiNSwP62Wyq5oClow9rSxEh9ALDWRrcTE6 MZ / ZEjP6uuXa9Xry5ZbbVWQhVmw4b1HbNHXjNMvGfx0Ala2AQhl4iE0GQLOn6DBqeru / p1VStXrq + SBUi11hKxpKlTn9OTZRkXK9XGp FVz5iyplubf8tUua89fEtUfZWpNKKFmI0LjALGhwsILdb2DfS0jLB2ntZZMTUS6sMpA0Bk1Ykmkg + + 0ZwEyuCSXUbERoHKjY9KWOleCmURbOWCxEhuESiEEy943Uob3Det3sMR / Oz / k4r5 / wXcb6vCZUIkj5B1mhKmQHEZokcIcHIyZMXfHpp1 / poDDDJeqeHIzFYVyoICf9cloTKpMY0ZbAd + + + + eVqZcm3EoBIWxdMycOW6gQyVbgoQ20ueky4242aGzFzTJD2wxfOJQTmtCZRJiYF5n5BOiiQhNEioqvqxi0tPxKNsmKMziaV7GifDaZEuQ0PZa2V9ik2IlIqjF8BEZPk9QHT9VQF3IHURoEsCdlkm248XEBIWxMBKJRiKMxeJU1JcKPgcuRiKLJ1PwnflO5jvzuf1aEwp4f6eAupBbiNDEgSCYNHP8AE 4jQpMEysQLLz / u9ASFvbhNdN4TXYKE9 + + + + 1ZJZ + + jSuZ2aPGW + + Y5BrQuGi8Zskm3dFyD1EaHwmkwHPcY89oCfNshcORg2sJ69jv4ToI0LjMxT9mfgKq1zaLQaz6iVrPeGqpVpgjucyApz5VaIoNojukOIJavzjD4rLVMOIxDQRQnWY I5BrQllKC1drAVb3KaagQhNHPYpJhIN8GSMldsCPODOjXVUUNBIWzb2GpX4oQ1OmEFw8fPIZgK / AtRCvOqlnb4vIhtjx4dxZKJMmlOEyFCIwiCe3J1PhpBEKKPCI0gCL6TPddJEIQag1g0giD4jgiNIAi + + I0IjCILviNAIguA7IjSCIPiMUv8HuaHXNQxWVzwAAAAASUVORK5CYII = "> </ p>
+<p> កន្លែង៖ </p>
+<ul>
+  <li> យីគឺជាការចំណាយជាមធ្យមជាមធ្យមរបស់សមាជិកគ្រួសារខ្ញុំ (នៅទីនេះការចំណាយសម្រាប់មនុស្សម្នាក់ខ្ញុំ) </li>
+  <li> z គឺជាខ្សែបន្ទាត់ភាពក្រីក្រ FPL (ខ្សែភាពក្រីក្រនៃអាហារ) ឬ OPL </li>
+  <li> អិនគឺជាចំនួនប្រជាជននៅក្នុងចំនួនប្រជាជនគំរូ (សមាជិកគ្រួសារទាំងអស់នៅក្នុងមនុស្សពេញវ័យស្មើគ្នា) </li>
+  <li> អិមគឺជាចំនួនប្រជាជនក្រីក្រ (សមាជិកគ្រួសារទាំងអស់ក្នុងចំនួនមនុស្សពេញវ័យស្មើនឹងបន្ទាត់នៃភាពក្រីក្រ) និង </li>
+</ul>
+<p> អាចត្រូវបានបកស្រាយថាជាវិធានការណ៍នៃការជៀងវាងវិសមភាពឬមេគុណដែលឆ្លុះបញ្ចាំងពីកំរិតផ្សេងៗគ្នានៃសារៈសំខាន់ដែលរដ្ឋាភិបាលអាចនឹងយល់ស្របទៅនឹងភាពស៊ីជម្រៅឬភាពធ្ងន់ធ្ងរនៃភាពក្រីក្រ។ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរយ៉ាងលឿននៃចំនួនប្រជាជនវាបង្ហាញពីភាពចាំបាច់សម្រាប់គម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង [៤៨១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ស៊ីអេសអេសត្រូវបានធ្វើឡើងដោយវិទ្យាស្ថានអាយអាយអេសជាលើកដំបូងក្នុងឆ្នាំ ១៩៩៣ បន្ទាប់មកនៅឆ្នាំ ១៩៩៦, ១៩៩៧, ១៩៩៩, ២០០៤ និងធ្វើឡើងជារៀងរាល់ឆ្នាំពីឆ្នាំ ២០០៧-២០០៧ ។ ស៊ីអេសអេសត្រូវបានធ្វើឡើងពីរដង (រៀងរាល់ពីរឆ្នាំម្តង) ចាប់ផ្តើមពីឆ្នាំ ២០១៩ តទៅ។
+[២១៧] ទិន្នន័យអាចរកបានតាមតំបន់ (ទីក្រុង / ជនបទ) និងដោយទីតាំងភូមិសាស្ត្រ (ភ្នំពេញ) ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការកាត់បន្ថយភាពក្រីក្រនៅកម្ពុជាក្រសួងផែនការ៖ [៥៨]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

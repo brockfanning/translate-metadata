@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-25T19:20:49.316Z</mes:Prepared>
+    <mes:Prepared>2021-05-25T21:56:12.872Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="558d743a-d60d-40f1-87f1-0decf7773dfd">
+  <mes:MetadataSet structureRef="MDS1" setID="27cb1028-389b-4423-97ad-1c8cd917565e">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអេសអាយអេស ៣៦]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -54,93 +54,111 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. ក៖ ធានាការកៀរគរធនធានយ៉ាងច្រើនពីប្រភពជាច្រើនរាប់បញ្ចូលទាំងតាមរយៈកិច្ចសហប្រតិបត្តិការអភិវឌ្ឍន៍ដើម្បីផ្តល់មធ្យោបាយគ្រប់គ្រាន់និងអាចព្យាករណ៍បានសម្រាប់ប្រទេសកំពុងអភិវឌ្ឍន៍ជាពិសេសប្រទេសអភិវឌ្ឍន៍តិចតួចដើម្បីអនុវត្តកម្មវិធីនិងគោលនយោបាយដើម្បីបញ្ចប់។ ភាពក្រីក្រនៅគ្រប់វិស័យ [៣៣០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១. ក ២៖ សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសេវាកម្មចាំបាច់ (ការអប់រំសុខភាពនិងការគាំពារសង្គម) [១១៣]
+[១១៨] ឯកសារនេះអនុវត្តចំពោះសមាសធាតុអប់រំនៃសូចនាករ ១. ក ២ [១៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើការអប់រំ [៥៥]
+[៦០] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសុខភាព [១១២]
+[១១៧] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើកិច្ចការពារសង្គម [១៨០]
+[១៨៥] សមាមាត្រនៃការចំណាយរបស់រដ្ឋាភិបាលសរុបលើកសិកម្ម [២៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែតុលាឆ្នាំ ២០២០ [១៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ៤.៥.៣, ៤.៥.៤, ៤.៥.៥, ៤, ១, ៤, ១, ៤.b.២ [៤៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអាយអេស, ក្រសួងផែនការ [៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ គីមណេត [១៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធាននាយកដ្ឋាន [២៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ០១៧ ៣៨០ ០៥៣ / ០១៦ ៧៧០ ៧៦៩ [២៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> kimnettt@gmail.com [២១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ចំណាយទូទៅរបស់រដ្ឋាភិបាលទូទៅ (ក្នុងតំបន់និងកណ្តាល) លើការអប់រំ (បច្ចុប្បន្នមូលធននិងការផ្ទេរ) បានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាលលើវិស័យទាំងអស់ (រួមមានសុខភាពការអប់រំសេវាកម្មសង្គម។ ល។ ) ។ វារួមបញ្ចូលទាំងការចំណាយដែលផ្តល់មូលនិធិដោយការផ្ទេរពីប្រភពអន្តរជាតិទៅរដ្ឋាភិបាល។ [៣៤២]
+[៣៤៧] ការចំណាយរបស់រដ្ឋាភិបាលលើការអប់រំគ្របដណ្តប់លើការចំណាយការអប់រំរបស់រដ្ឋាភិបាលគ្រប់ជាន់ថ្នាក់ (ក្នុងតំបន់ថ្នាក់កណ្តាល) លើប្រព័ន្ធអប់រំផ្លូវការតាំងពីកុមារភាពរហូតដល់ការអប់រំនៅឧត្តមសិក្សាទាំងនៅក្នុងគ្រឹះស្ថានអប់រំសាធារណៈនិងឯកជននិងមិនមែនការអប់រំនៅព្រំដែន [៦៥៦]
+[៦៦១] ការចំណាយលើការអប់រំរួមមានការចំណាយលើទំនិញនិងសេវាកម្មអប់រំសំខាន់ៗដូចជាបុគ្គលិកបង្រៀនអគារសិក្សាឬសៀវភៅសិក្សានិងសម្ភារៈបង្រៀននិងទំនិញនិងសេវាកម្មអប់រំផ្សេងៗដូចជាសេវាកម្មជំនួយរដ្ឋបាលទូទៅនិងសកម្មភាពផ្សេងៗទៀត។ [៩៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ (%) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> របាយការណ៍ហិរញ្ញវត្ថុប្រចាំឆ្នាំរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ (MEF) និងក្រសួងអប់រំយុវជននិងកីឡា (MEYS) [១១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទិន្នន័យស្តីពីការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ទទួលបានពីមូលដ្ឋានទិន្នន័យហិរញ្ញវត្ថុរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុហើយត្រូវបានធ្វើបច្ចុប្បន្នភាពម្តងក្នុងមួយឆ្នាំ។ ចំណែកឯទិន្នន័យស្តីពីការចំណាយតាមវិស័យជាក់លាក់ដូចជាការចំណាយការអប់រំការចំណាយលើសុខភាពត្រូវបានផ្តល់ដោយ MEYS, ក្រសួងសុខាភិបាល។ ល។ [២៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិជុំបន្ទាប់៖ ២០២១ [៣១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ [១០៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សូចនាករនេះត្រូវបានប្រើដើម្បីវាយតម្លៃការសង្កត់ធ្ងន់របស់រដ្ឋាភិបាលទៅលើការអប់រំទាក់ទងនឹងការវិនិយោគរបស់ខ្លួននៅក្នុងវិស័យផ្សេងៗ។ សូចនាករនេះបង្ហាញថាតើការអប់រំអាទិភាពមានប៉ុន្មានសម្រាប់រដ្ឋាភិបាលដែលបានផ្តល់ឱ្យលើសម៉ោងឬប្រៀបធៀបជាមួយប្រទេសដទៃទៀត។ [២៤៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[ក្នុងករណីខ្លះទិន្នន័យស្តីពីការចំណាយសាធារណៈសរុបលើការអប់រំសំដៅទៅលើក្រសួងអប់រំយុវជននិងកីឡាប៉ុណ្ណោះដោយមិនរាប់បញ្ចូលក្រសួងផ្សេងទៀតក៏អាចចំណាយថវិកាមួយចំណែកនៃសកម្មភាពរបស់ពួកគេ។ [២១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការចំណាយសរុបរបស់រដ្ឋាភិបាលសម្រាប់កម្រិតអប់រំ (ឧ។ បឋម, អនុវិទ្យាល័យឬគ្រប់កម្រិតទាំងអស់បញ្ចូលគ្នា) ត្រូវបានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ។ </p>
+<p> <img src = "ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAAG0AAAAxCAYAAADQtCfaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX6SURBVHhe7Zp / TFVlGMef678FJFQzBtQk10iNMAMCpWBTFJy6QgQXxVaB5pJFJQ7BrUCmaG5aRlD6j6YX1M025ZebFgoBUQ2nsaawWoy1Coysf6P7fTzv3eHcc + + 4vL5dzru9nO3vP + + 95z7 + + D9nufnObYpBySxFHOUUWIhpGgWRIpmQaRoFkSKZkGkaBZEimZBpGgWRBbXZmHqR + + XEDbYneZCWZkH0Lc0b1UOQK1e + + p7XrttKtW3 / T3j3ltH37a7RqdQl1dHTz51P / XedRvaZFXDMjSEtzZdmyJVRQkENLly5kwUDVzs00d244Xe46xnPwxfF6Hs + + fa2CRcOAc3wsGUjQNpSX5bGlgfPwvert8D31yuJoFFUxO / sNjSspTPILw8PspPj5Omc0sUjQNiYlP8Nja2kXVuz6id8qL2frU9PdfpezsdIqKeoCFfTY5n0W1n9yvXDGzSNF0KHljA71cVEGPPRrtIhjouvwdxzTbnIX04EPpQbMwgRRNh4uX + + thF5uVlKyvT6ezsppMn9jlj2ZKkBOWT4CCzRw1vbq2hjOXP0NkvL1LmC8lUWpqvfHIHuENY1 / DNDpo / P0ZZDRIye3TFbm / lES5x / bos2rf / គីឡូម៉ែត្រ / V9PVddbjD2GmC4Xv19UeUmXc0Nrb4 / B2BFE0BiUdV9SGq + + + + cHR2q eAtnq9YkUbDw79y7aamu / SJkRDQ7 + + xNaZlpbEVogaLjLqOV5 / fMEqPh8ZGVWuvsPOqoO0ecv7VLHjAMdF7eeekKI5gGBIPAAyQnD6dCePSPnFpkKIhgY7NTe38WbjeDrpRY5 / yB6HhkYc5cEunrecaqe + + + + XjtbpZbdtWVc / 35RzfHRV / បណ្ឌិត IxpAQbCvpRXRjdvtLPlpaQW8LkaWO / Hh0 / 4XiJ4imn4YXE3iQPmjrtSgGtg / vhM + + Ge4B3G9QL2mPUKN3t5BWrkync8R / 3COmCdcJ / ASX + + FiYYEQWL2f3mIoGsy9srKEWzOiVYM / QLgRYJW2TzC59FU / rcl9XpkRu1Mg3G509MMUF / cI1dU1OWLah9O6Kt7iNqYhEIu7BmwqzGV / jTtEYIW2TzCBy8vJyeBzjLhBcWNjz4pfXc / xC3Ost7c1OcX0BbeioYhMd2RFgtHR33gUrR5ghbaPGcA + + affFXwxFw50BCxLWAVGQ2sJlajFL2wdxVRsztYe / tZGZMMweUfyhlhAgcEIcEbvUiOdLRl0CJDC1NdtYUIh / 7doN3d + + ZLSDmbAN36RElezQUraDwXT715MJM3fYJNTyl / IhnaOW4I5htH7hrWLQ77hX3qCsaXBjiWUzMPGXFFVxzt20fgJYONhPfE / UcflsNRM7MKnbGRXGzaIHLFSWF0WEmt + + wvuu7RZrMpZ / q + + FpuKxCMyMsJZ7YsYiNqr2X6ALQsCYbNFSaAGv4v20NjY71S7 + + 1NeQwvoyNEztHjRApeEBu76laK1znT6nsRTTAsm6KoMfHuKhUY5IERXg2smxr9RZoEHlr48o0iZuYLnZ7iR9K6D + + z90sNJ5Q + + Eab14Q8hmzPJqBNcJiIRKSFvyjt2 / / 63SXGHFgY / A5LHomQGsJXgJNXHRrADYXc3R4EhLieS2QnSJ / mXXR0KvbuHE1n6NzMjExSY1NLc6OCto + + YWH3cbxE8zU1NZHXA83Pv4zR55 / VcAMAcRjNAIB5cvLiaQ2FQHWK / MW0XX5swNDQsEtsCwZw0Rvysg2TFrjq48f2Ot0hEqPCTe + + 5uD3Up3Cb585 / zWXRXf8vZnGPRgSy7eMLsIqBgevO7FYLbiZYUCA6Rf5iWtFmC9SVwMiNwZ0DNAxQfmwrq6MdFa / zg00tnl4Q8hcpmgZ1PNMDj14Qg0USgpJHz43C + + + + + 4MUTQXiFeKZEYHqFHEt2tzG9R6SFV tDVx7UXLvQoq4FBiqYBnaCszBRl5kqgOkWoO5EV + + RoqnASzoAb0mp03dB7potPBoV4aJTBMTDTb0XhFBaiDpP / 6IN5g25Q9l0LSOiAhzeSLiEbOn / KEMssrY2HlsmXoW7Ql9S5OYGmlpFkSKZkGkaBZEimY5iP4HbwaK8sfNCowAAAAASUVORK5CYII = "> </ p>
+<p> = ការចំណាយលើកម្រិតអប់រំ <em> n </em> ជាភាគរយនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>
+<p> = ការចំណាយទូទៅរបស់រដ្ឋាភិបាលសរុបទៅលើកម្រិតអប់រំ <em> n </em> ក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em>
+<p> = ការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការវិភាគនៃសូចនាករនេះផ្តល់នូវការប៉ាន់ស្មានពីភាពក្រីក្រលើកុមារដោយផ្អែកលើការវិភាគភាពក្រីក្ររបស់ធនាគារពិភពលោកក្នុងការស្ទង់មតិសង្គមនិងសេដ្ឋកិច្ចកម្ពុជាឆ្នាំ ២០០៩ ។ យើងបង្ហាញពីរបៀបដែលភាពក្រីក្ររបស់ប្រជាជនសរុបប្រៀបធៀបទៅនឹងភាពក្រីក្ររបស់កុមារ (សម្រាប់អ្នកដែលមានអាយុក្រោម ១៧ ឆ្នាំ) ហើយបន្ទាប់មកផ្តល់នូវទម្រង់នៃភាពក្រីក្រដល់កុមារក្រីក្រ។ លើសពីនេះទៀតយើងបង្ហាញពីចំនួនកុមារត្រួតលើគ្នាយោងទៅតាមស្ថានភាពភាពក្រីក្រនិងស្ថានភាពខ្វះខាត - ដូចដែលបានបង្ហាញនៅក្នុងទម្រង់របស់អង្គការយូនីសេហ្វកម្ពុជាឆ្នាំ ២០១២ ស្តីពីភាពក្រីក្ររបស់កុមារដោយប្រើវិធានការដកហូត។ [៥៣៨]
+[៥៤៣] ប្រវត្ដិរូបរបស់យើងត្រូវបានអនុវត្តជាមួយនឹងការវិភាគស្ថានការណ៍ហើយយើងក៏បានបង្ហាញបន្ថែមនូវការតំរែតំរង់ជាច្រើននៃហានិភ័យនៃភាពក្រីក្ររបស់កុមារដែលបង្ហាញនូវការជាប់ទាក់ទងគ្នារវាងកត្តាភូមិសាស្ត្រគ្រួសារនិងសេដ្ឋកិច្ចដែលអាចជូនដំណឹងដល់ការពិភាក្សាអំពីកត្តាកំណត់។ នៃសុខុមាលភាពកុមារនិងជាពិសេសលើ“ របាំងហិរញ្ញវត្ថុ” ។ [៩០៤]
+[៩០៩] ការវិភាគស៊ីជម្រៅបន្ថែមទៀតនៃទំនាក់ទំនងរវាងភាពក្រីក្ររូបិយវត្ថុនិងការដកហូតកុមារមាននៅក្នុងក្រដាសអមដែលមានការរុករកកាន់តែច្រើននៅក្នុងធម្មជាតិដើម្បីពិនិត្យមើលទំនាក់ទំនងរវាងភាពក្រីក្រនិងកំរិតការប្រើប្រាស់ខាងក្រោមនិងនៅខាងលើបន្ទាត់ភាពក្រីក្រ។ ។ [១១៩៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដំបូងទិន្នន័យនេះត្រូវបានបញ្ចូលដោយសេដ្ឋវិទូក្រីក្រដែលត្រូវបានត្រួតពិនិត្យដោយយកចិត្តទុកដាក់រួមជាមួយព័ត៌មានមេតាតាតាដោយក្រុមកណ្តាលសម្រាប់តាមដានអេសឌីជី ១.២.២ នៅក្នុងធនាគារពិភពលោក។ បន្ទាប់មកទិន្នន័យត្រូវបានផ្ញើទៅ UNDP និង UNICEF សម្រាប់ការបញ្ជាក់បន្ថែម។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> តាមកម្រិតនៃការអប់រំថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ថ្នាក់ខេត្ត) [៧០]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="6978ac7c-fbf8-4777-8d86-d0be1e6d7d54">
+  <mes:MetadataSet structureRef="MDS1" setID="5cd66ada-bedb-49fe-86dd-bd54644d684e">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -165,7 +183,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអេសអាយអេស ៣៦]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -183,93 +201,111 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. ក៖ ធានាការកៀរគរធនធានយ៉ាងច្រើនពីប្រភពជាច្រើនរាប់បញ្ចូលទាំងតាមរយៈកិច្ចសហប្រតិបត្តិការអភិវឌ្ឍន៍ដើម្បីផ្តល់មធ្យោបាយគ្រប់គ្រាន់និងអាចព្យាករណ៍បានសម្រាប់ប្រទេសកំពុងអភិវឌ្ឍន៍ជាពិសេសប្រទេសអភិវឌ្ឍន៍តិចតួចដើម្បីអនុវត្តកម្មវិធីនិងគោលនយោបាយដើម្បីបញ្ចប់។ ភាពក្រីក្រនៅគ្រប់វិស័យ [៣៣០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១. ក ២៖ សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសេវាកម្មចាំបាច់ (ការអប់រំសុខភាពនិងការគាំពារសង្គម) [១១៣]
+[១១៨] ឯកសារនេះអនុវត្តចំពោះសមាសធាតុអប់រំនៃសូចនាករ ១. ក ២ [១៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើការអប់រំ [៥៥]
+[៦០] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសុខភាព [១១២]
+[១១៧] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើកិច្ចការពារសង្គម [១៨០]
+[១៨៥] សមាមាត្រនៃការចំណាយរបស់រដ្ឋាភិបាលសរុបលើកសិកម្ម [២៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែតុលាឆ្នាំ ២០២០ [១៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ៤.៥.៣, ៤.៥.៤, ៤.៥.៥, ៤, ១, ៤, ១, ៤.b.២ [៤៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអាយអេស, ក្រសួងផែនការ [៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ គីមណេត [១៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធាននាយកដ្ឋាន [២៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ០១៧ ៣៨០ ០៥៣ / ០១៦ ៧៧០ ៧៦៩ [២៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> kimnettt@gmail.com [២១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ចំណាយទូទៅរបស់រដ្ឋាភិបាលទូទៅ (ក្នុងតំបន់និងកណ្តាល) លើការអប់រំ (បច្ចុប្បន្នមូលធននិងការផ្ទេរ) បានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាលលើវិស័យទាំងអស់ (រួមមានសុខភាពការអប់រំសេវាកម្មសង្គម។ ល។ ) ។ វារួមបញ្ចូលទាំងការចំណាយដែលផ្តល់មូលនិធិដោយការផ្ទេរពីប្រភពអន្តរជាតិទៅរដ្ឋាភិបាល។ [៣៤២]
+[៣៤៧] ការចំណាយរបស់រដ្ឋាភិបាលលើការអប់រំគ្របដណ្តប់លើការចំណាយការអប់រំរបស់រដ្ឋាភិបាលគ្រប់ជាន់ថ្នាក់ (ក្នុងតំបន់ថ្នាក់កណ្តាល) លើប្រព័ន្ធអប់រំផ្លូវការតាំងពីកុមារភាពរហូតដល់ការអប់រំនៅឧត្តមសិក្សាទាំងនៅក្នុងគ្រឹះស្ថានអប់រំសាធារណៈនិងឯកជននិងមិនមែនការអប់រំនៅព្រំដែន [៦៥៦]
+[៦៦១] ការចំណាយលើការអប់រំរួមមានការចំណាយលើទំនិញនិងសេវាកម្មអប់រំសំខាន់ៗដូចជាបុគ្គលិកបង្រៀនអគារសិក្សាឬសៀវភៅសិក្សានិងសម្ភារៈបង្រៀននិងទំនិញនិងសេវាកម្មអប់រំផ្សេងៗដូចជាសេវាកម្មជំនួយរដ្ឋបាលទូទៅនិងសកម្មភាពផ្សេងៗទៀត។ [៩៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ (%) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> របាយការណ៍ហិរញ្ញវត្ថុប្រចាំឆ្នាំរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ (MEF) និងក្រសួងអប់រំយុវជននិងកីឡា (MEYS) [១១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទិន្នន័យស្តីពីការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ទទួលបានពីមូលដ្ឋានទិន្នន័យហិរញ្ញវត្ថុរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុហើយត្រូវបានធ្វើបច្ចុប្បន្នភាពម្តងក្នុងមួយឆ្នាំ។ ចំណែកឯទិន្នន័យស្តីពីការចំណាយតាមវិស័យជាក់លាក់ដូចជាការចំណាយការអប់រំការចំណាយលើសុខភាពត្រូវបានផ្តល់ដោយ MEYS, ក្រសួងសុខាភិបាល។ ល។ [២៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិជុំបន្ទាប់៖ ២០២១ [៣១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ [១០៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សូចនាករនេះត្រូវបានប្រើដើម្បីវាយតម្លៃការសង្កត់ធ្ងន់របស់រដ្ឋាភិបាលទៅលើការអប់រំទាក់ទងនឹងការវិនិយោគរបស់ខ្លួននៅក្នុងវិស័យផ្សេងៗ។ សូចនាករនេះបង្ហាញថាតើការអប់រំអាទិភាពមានប៉ុន្មានសម្រាប់រដ្ឋាភិបាលដែលបានផ្តល់ឱ្យលើសម៉ោងឬប្រៀបធៀបជាមួយប្រទេសដទៃទៀត។ [២៤៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[ក្នុងករណីខ្លះទិន្នន័យស្តីពីការចំណាយសាធារណៈសរុបលើការអប់រំសំដៅទៅលើក្រសួងអប់រំយុវជននិងកីឡាប៉ុណ្ណោះដោយមិនរាប់បញ្ចូលក្រសួងផ្សេងទៀតក៏អាចចំណាយថវិកាមួយចំណែកនៃសកម្មភាពរបស់ពួកគេ។ [២១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការចំណាយសរុបរបស់រដ្ឋាភិបាលសម្រាប់កម្រិតអប់រំ (ឧ។ បឋម, អនុវិទ្យាល័យឬគ្រប់កម្រិតទាំងអស់បញ្ចូលគ្នា) ត្រូវបានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ។ </p>
+<p> <img src = "ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAAG0AAAAxCAYAAADQtCfaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX6SURBVHhe7Zp / TFVlGMef678FJFQzBtQk10iNMAMCpWBTFJy6QgQXxVaB5pJFJQ7BrUCmaG5aRlD6j6YX1M025ZebFgoBUQ2nsaawWoy1Coysf6P7fTzv3eHcc + + 4vL5dzru9nO3vP + + 95z7 + + D9nufnObYpBySxFHOUUWIhpGgWRIpmQaRoFkSKZkGkaBZEimZBpGgWRBbXZmHqR + + XEDbYneZCWZkH0Lc0b1UOQK1e + + p7XrttKtW3 / T3j3ltH37a7RqdQl1dHTz51P / XedRvaZFXDMjSEtzZdmyJVRQkENLly5kwUDVzs00d244Xe46xnPwxfF6Hs + + fa2CRcOAc3wsGUjQNpSX5bGlgfPwvert8D31yuJoFFUxO / sNjSspTPILw8PspPj5Omc0sUjQNiYlP8Nja2kXVuz6id8qL2frU9PdfpezsdIqKeoCFfTY5n0W1n9yvXDGzSNF0KHljA71cVEGPPRrtIhjouvwdxzTbnIX04EPpQbMwgRRNh4uX + + thF5uVlKyvT6ezsppMn9jlj2ZKkBOWT4CCzRw1vbq2hjOXP0NkvL1LmC8lUWpqvfHIHuENY1 / DNDpo / P0ZZDRIye3TFbm / lES5x / bos2rf / គីឡូម៉ែត្រ / V9PVddbjD2GmC4Xv19UeUmXc0Nrb4 / B2BFE0BiUdV9SGq + + + + cHR2q eAtnq9YkUbDw79y7aamu / SJkRDQ7 + + xNaZlpbEVogaLjLqOV5 / fMEqPh8ZGVWuvsPOqoO0ecv7VLHjAMdF7eeekKI5gGBIPAAyQnD6dCePSPnFpkKIhgY7NTe38WbjeDrpRY5 / yB6HhkYc5cEunrecaqe + + + + XjtbpZbdtWVc / 35RzfHRV / បណ្ឌិត IxpAQbCvpRXRjdvtLPlpaQW8LkaWO / Hh0 / 4XiJ4imn4YXE3iQPmjrtSgGtg / vhM + + Ge4B3G9QL2mPUKN3t5BWrkync8R / 3COmCdcJ / ASX + + FiYYEQWL2f3mIoGsy9srKEWzOiVYM / QLgRYJW2TzC59FU / rcl9XpkRu1Mg3G509MMUF / cI1dU1OWLah9O6Kt7iNqYhEIu7BmwqzGV / jTtEYIW2TzCBy8vJyeBzjLhBcWNjz4pfXc / xC3Ost7c1OcX0BbeioYhMd2RFgtHR33gUrR5ghbaPGcA + + affFXwxFw50BCxLWAVGQ2sJlajFL2wdxVRsztYe / tZGZMMweUfyhlhAgcEIcEbvUiOdLRl0CJDC1NdtYUIh / 7doN3d + + ZLSDmbAN36RElezQUraDwXT715MJM3fYJNTyl / IhnaOW4I5htH7hrWLQ77hX3qCsaXBjiWUzMPGXFFVxzt20fgJYONhPfE / UcflsNRM7MKnbGRXGzaIHLFSWF0WEmt + + wvuu7RZrMpZ / q + + FpuKxCMyMsJZ7YsYiNqr2X6ALQsCYbNFSaAGv4v20NjY71S7 + + 1NeQwvoyNEztHjRApeEBu76laK1znT6nsRTTAsm6KoMfHuKhUY5IERXg2smxr9RZoEHlr48o0iZuYLnZ7iR9K6D + + z90sNJ5Q + + Eab14Q8hmzPJqBNcJiIRKSFvyjt2 / / 63SXGHFgY / A5LHomQGsJXgJNXHRrADYXc3R4EhLieS2QnSJ / mXXR0KvbuHE1n6NzMjExSY1NLc6OCto + + YWH3cbxE8zU1NZHXA83Pv4zR55 / VcAMAcRjNAIB5cvLiaQ2FQHWK / MW0XX5swNDQsEtsCwZw0Rvysg2TFrjq48f2Ot0hEqPCTe + + 5uD3Up3Cb585 / zWXRXf8vZnGPRgSy7eMLsIqBgevO7FYLbiZYUCA6Rf5iWtFmC9SVwMiNwZ0DNAxQfmwrq6MdFa / zg00tnl4Q8hcpmgZ1PNMDj14Qg0USgpJHz43C + + + + + 4MUTQXiFeKZEYHqFHEt2tzG9R6SFV tDVx7UXLvQoq4FBiqYBnaCszBRl5kqgOkWoO5EV + + RoqnASzoAb0mp03dB7potPBoV4aJTBMTDTb0XhFBaiDpP / 6IN5g25Q9l0LSOiAhzeSLiEbOn / KEMssrY2HlsmXoW7Ql9S5OYGmlpFkSKZkGkaBZEimY5iP4HbwaK8sfNCowAAAAASUVORK5CYII = "> </ p>
+<p> = ការចំណាយលើកម្រិតអប់រំ <em> n </em> ជាភាគរយនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>
+<p> = ការចំណាយទូទៅរបស់រដ្ឋាភិបាលសរុបទៅលើកម្រិតអប់រំ <em> n </em> ក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em>
+<p> = ការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការវិភាគនៃសូចនាករនេះផ្តល់នូវការប៉ាន់ស្មានពីភាពក្រីក្រលើកុមារដោយផ្អែកលើការវិភាគភាពក្រីក្ររបស់ធនាគារពិភពលោកក្នុងការស្ទង់មតិសង្គមនិងសេដ្ឋកិច្ចកម្ពុជាឆ្នាំ ២០០៩ ។ យើងបង្ហាញពីរបៀបដែលភាពក្រីក្ររបស់ប្រជាជនសរុបប្រៀបធៀបទៅនឹងភាពក្រីក្ររបស់កុមារ (សម្រាប់អ្នកដែលមានអាយុក្រោម ១៧ ឆ្នាំ) ហើយបន្ទាប់មកផ្តល់នូវទម្រង់នៃភាពក្រីក្រដល់កុមារក្រីក្រ។ លើសពីនេះទៀតយើងបង្ហាញពីចំនួនកុមារត្រួតលើគ្នាយោងទៅតាមស្ថានភាពភាពក្រីក្រនិងស្ថានភាពខ្វះខាត - ដូចដែលបានបង្ហាញនៅក្នុងទម្រង់របស់អង្គការយូនីសេហ្វកម្ពុជាឆ្នាំ ២០១២ ស្តីពីភាពក្រីក្ររបស់កុមារដោយប្រើវិធានការដកហូត។ [៥៣៨]
+[៥៤៣] ប្រវត្ដិរូបរបស់យើងត្រូវបានអនុវត្តជាមួយនឹងការវិភាគស្ថានការណ៍ហើយយើងក៏បានបង្ហាញបន្ថែមនូវការតំរែតំរង់ជាច្រើននៃហានិភ័យនៃភាពក្រីក្ររបស់កុមារដែលបង្ហាញនូវការជាប់ទាក់ទងគ្នារវាងកត្តាភូមិសាស្ត្រគ្រួសារនិងសេដ្ឋកិច្ចដែលអាចជូនដំណឹងដល់ការពិភាក្សាអំពីកត្តាកំណត់។ នៃសុខុមាលភាពកុមារនិងជាពិសេសលើ“ របាំងហិរញ្ញវត្ថុ” ។ [៩០៤]
+[៩០៩] ការវិភាគស៊ីជម្រៅបន្ថែមទៀតនៃទំនាក់ទំនងរវាងភាពក្រីក្ររូបិយវត្ថុនិងការដកហូតកុមារមាននៅក្នុងក្រដាសអមដែលមានការរុករកកាន់តែច្រើននៅក្នុងធម្មជាតិដើម្បីពិនិត្យមើលទំនាក់ទំនងរវាងភាពក្រីក្រនិងកំរិតការប្រើប្រាស់ខាងក្រោមនិងនៅខាងលើបន្ទាត់ភាពក្រីក្រ។ ។ [១១៩៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដំបូងទិន្នន័យនេះត្រូវបានបញ្ចូលដោយសេដ្ឋវិទូក្រីក្រដែលត្រូវបានត្រួតពិនិត្យដោយយកចិត្តទុកដាក់រួមជាមួយព័ត៌មានមេតាតាតាដោយក្រុមកណ្តាលសម្រាប់តាមដានអេសឌីជី ១.២.២ នៅក្នុងធនាគារពិភពលោក។ បន្ទាប់មកទិន្នន័យត្រូវបានផ្ញើទៅ UNDP និង UNICEF សម្រាប់ការបញ្ជាក់បន្ថែម។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> តាមកម្រិតនៃការអប់រំថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ថ្នាក់ខេត្ត) [៧០]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="6e5455e9-710e-4525-a0cb-4a9bc557ca40">
+  <mes:MetadataSet structureRef="MDS1" setID="45ed414d-cc84-42bb-9bb0-09f8944467fe">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -294,7 +330,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអេសអាយអេស ៣៦]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -312,88 +348,106 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. បញ្ចប់ភាពក្រីក្រនៅគ្រប់ទម្រង់ទាំងអស់នៅគ្រប់ទីកន្លែង [៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅ ១. ក៖ ធានាការកៀរគរធនធានយ៉ាងច្រើនពីប្រភពជាច្រើនរាប់បញ្ចូលទាំងតាមរយៈកិច្ចសហប្រតិបត្តិការអភិវឌ្ឍន៍ដើម្បីផ្តល់មធ្យោបាយគ្រប់គ្រាន់និងអាចព្យាករណ៍បានសម្រាប់ប្រទេសកំពុងអភិវឌ្ឍន៍ជាពិសេសប្រទេសអភិវឌ្ឍន៍តិចតួចដើម្បីអនុវត្តកម្មវិធីនិងគោលនយោបាយដើម្បីបញ្ចប់។ ភាពក្រីក្រនៅគ្រប់វិស័យ [៣៣០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ១. ក ២៖ សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសេវាកម្មចាំបាច់ (ការអប់រំសុខភាពនិងការគាំពារសង្គម) [១១៣]
+[១១៨] ឯកសារនេះអនុវត្តចំពោះសមាសធាតុអប់រំនៃសូចនាករ ១. ក ២ [១៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើការអប់រំ [៥៥]
+[៦០] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើសុខភាព [១១២]
+[១១៧] សមាមាត្រនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលទៅលើកិច្ចការពារសង្គម [១៨០]
+[១៨៥] សមាមាត្រនៃការចំណាយរបស់រដ្ឋាភិបាលសរុបលើកសិកម្ម [២៤២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែតុលាឆ្នាំ ២០២០ [១៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ៤.៥.៣, ៤.៥.៤, ៤.៥.៥, ៤, ១, ៤, ១, ៤.b.២ [៤៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> នាយកដ្ឋានស្ថិតិសង្គម, អាយអាយអេស, ក្រសួងផែនការ [៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> លោក។ គីមណេត [១៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ប្រធាននាយកដ្ឋាន [២៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ០១៧ ៣៨០ ០៥៣ / ០១៦ ៧៧០ ៧៦៩ [២៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> kimnettt@gmail.com [២១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ចំណាយទូទៅរបស់រដ្ឋាភិបាលទូទៅ (ក្នុងតំបន់និងកណ្តាល) លើការអប់រំ (បច្ចុប្បន្នមូលធននិងការផ្ទេរ) បានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាលលើវិស័យទាំងអស់ (រួមមានសុខភាពការអប់រំសេវាកម្មសង្គម។ ល។ ) ។ វារួមបញ្ចូលទាំងការចំណាយដែលផ្តល់មូលនិធិដោយការផ្ទេរពីប្រភពអន្តរជាតិទៅរដ្ឋាភិបាល។ [៣៤២]
+[៣៤៧] ការចំណាយរបស់រដ្ឋាភិបាលលើការអប់រំគ្របដណ្តប់លើការចំណាយការអប់រំរបស់រដ្ឋាភិបាលគ្រប់ជាន់ថ្នាក់ (ក្នុងតំបន់ថ្នាក់កណ្តាល) លើប្រព័ន្ធអប់រំផ្លូវការតាំងពីកុមារភាពរហូតដល់ការអប់រំនៅឧត្តមសិក្សាទាំងនៅក្នុងគ្រឹះស្ថានអប់រំសាធារណៈនិងឯកជននិងមិនមែនការអប់រំនៅព្រំដែន [៦៥៦]
+[៦៦១] ការចំណាយលើការអប់រំរួមមានការចំណាយលើទំនិញនិងសេវាកម្មអប់រំសំខាន់ៗដូចជាបុគ្គលិកបង្រៀនអគារសិក្សាឬសៀវភៅសិក្សានិងសម្ភារៈបង្រៀននិងទំនិញនិងសេវាកម្មអប់រំផ្សេងៗដូចជាសេវាកម្មជំនួយរដ្ឋបាលទូទៅនិងសកម្មភាពផ្សេងៗទៀត។ [៩៥០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ (%) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> របាយការណ៍ហិរញ្ញវត្ថុប្រចាំឆ្នាំរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ (MEF) និងក្រសួងអប់រំយុវជននិងកីឡា (MEYS) [១១៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទិន្នន័យស្តីពីការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ទទួលបានពីមូលដ្ឋានទិន្នន័យហិរញ្ញវត្ថុរបស់ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុហើយត្រូវបានធ្វើបច្ចុប្បន្នភាពម្តងក្នុងមួយឆ្នាំ។ ចំណែកឯទិន្នន័យស្តីពីការចំណាយតាមវិស័យជាក់លាក់ដូចជាការចំណាយការអប់រំការចំណាយលើសុខភាពត្រូវបានផ្តល់ដោយ MEYS, ក្រសួងសុខាភិបាល។ ល។ [២៦៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិជុំបន្ទាប់៖ ២០២១ [៣១]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ក្រុមការងារថ្នាក់ជាតិស្តីពីការវាស់វែងភាពក្រីក្រក្រសួងផែនការនិងក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ [១០៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករអេសជីជី។ [៥៥២]
+[៥៥៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> សូចនាករនេះត្រូវបានប្រើដើម្បីវាយតម្លៃការសង្កត់ធ្ងន់របស់រដ្ឋាភិបាលទៅលើការអប់រំទាក់ទងនឹងការវិនិយោគរបស់ខ្លួននៅក្នុងវិស័យផ្សេងៗ។ សូចនាករនេះបង្ហាញថាតើការអប់រំអាទិភាពមានប៉ុន្មានសម្រាប់រដ្ឋាភិបាលដែលបានផ្តល់ឱ្យលើសម៉ោងឬប្រៀបធៀបជាមួយប្រទេសដទៃទៀត។ [២៤៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[ក្នុងករណីខ្លះទិន្នន័យស្តីពីការចំណាយសាធារណៈសរុបលើការអប់រំសំដៅទៅលើក្រសួងអប់រំយុវជននិងកីឡាប៉ុណ្ណោះដោយមិនរាប់បញ្ចូលក្រសួងផ្សេងទៀតក៏អាចចំណាយថវិកាមួយចំណែកនៃសកម្មភាពរបស់ពួកគេ។ [២១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការចំណាយសរុបរបស់រដ្ឋាភិបាលសម្រាប់កម្រិតអប់រំ (ឧ។ បឋម, អនុវិទ្យាល័យឬគ្រប់កម្រិតទាំងអស់បញ្ចូលគ្នា) ត្រូវបានបង្ហាញជាភាគរយនៃការចំណាយទូទៅរបស់រដ្ឋាភិបាល (គ្រប់វិស័យ) ។ </p>
+<p> <img src = "ទិន្នន័យ: image / png; base64 ទេ, iVBORw0KGgoAAAANSUhEUgAAAG0AAAAxCAYAAADQtCfaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX6SURBVHhe7Zp / TFVlGMef678FJFQzBtQk10iNMAMCpWBTFJy6QgQXxVaB5pJFJQ7BrUCmaG5aRlD6j6YX1M025ZebFgoBUQ2nsaawWoy1Coysf6P7fTzv3eHcc + + 4vL5dzru9nO3vP + + 95z7 + + D9nufnObYpBySxFHOUUWIhpGgWRIpmQaRoFkSKZkGkaBZEimZBpGgWRBbXZmHqR + + XEDbYneZCWZkH0Lc0b1UOQK1e + + p7XrttKtW3 / T3j3ltH37a7RqdQl1dHTz51P / XedRvaZFXDMjSEtzZdmyJVRQkENLly5kwUDVzs00d244Xe46xnPwxfF6Hs + + fa2CRcOAc3wsGUjQNpSX5bGlgfPwvert8D31yuJoFFUxO / sNjSspTPILw8PspPj5Omc0sUjQNiYlP8Nja2kXVuz6id8qL2frU9PdfpezsdIqKeoCFfTY5n0W1n9yvXDGzSNF0KHljA71cVEGPPRrtIhjouvwdxzTbnIX04EPpQbMwgRRNh4uX + + thF5uVlKyvT6ezsppMn9jlj2ZKkBOWT4CCzRw1vbq2hjOXP0NkvL1LmC8lUWpqvfHIHuENY1 / DNDpo / P0ZZDRIye3TFbm / lES5x / bos2rf / គីឡូម៉ែត្រ / V9PVddbjD2GmC4Xv19UeUmXc0Nrb4 / B2BFE0BiUdV9SGq + + + + cHR2q eAtnq9YkUbDw79y7aamu / SJkRDQ7 + + xNaZlpbEVogaLjLqOV5 / fMEqPh8ZGVWuvsPOqoO0ecv7VLHjAMdF7eeekKI5gGBIPAAyQnD6dCePSPnFpkKIhgY7NTe38WbjeDrpRY5 / yB6HhkYc5cEunrecaqe + + + + XjtbpZbdtWVc / 35RzfHRV / បណ្ឌិត IxpAQbCvpRXRjdvtLPlpaQW8LkaWO / Hh0 / 4XiJ4imn4YXE3iQPmjrtSgGtg / vhM + + Ge4B3G9QL2mPUKN3t5BWrkync8R / 3COmCdcJ / ASX + + FiYYEQWL2f3mIoGsy9srKEWzOiVYM / QLgRYJW2TzC59FU / rcl9XpkRu1Mg3G509MMUF / cI1dU1OWLah9O6Kt7iNqYhEIu7BmwqzGV / jTtEYIW2TzCBy8vJyeBzjLhBcWNjz4pfXc / xC3Ost7c1OcX0BbeioYhMd2RFgtHR33gUrR5ghbaPGcA + + affFXwxFw50BCxLWAVGQ2sJlajFL2wdxVRsztYe / tZGZMMweUfyhlhAgcEIcEbvUiOdLRl0CJDC1NdtYUIh / 7doN3d + + ZLSDmbAN36RElezQUraDwXT715MJM3fYJNTyl / IhnaOW4I5htH7hrWLQ77hX3qCsaXBjiWUzMPGXFFVxzt20fgJYONhPfE / UcflsNRM7MKnbGRXGzaIHLFSWF0WEmt + + wvuu7RZrMpZ / q + + FpuKxCMyMsJZ7YsYiNqr2X6ALQsCYbNFSaAGv4v20NjY71S7 + + 1NeQwvoyNEztHjRApeEBu76laK1znT6nsRTTAsm6KoMfHuKhUY5IERXg2smxr9RZoEHlr48o0iZuYLnZ7iR9K6D + + z90sNJ5Q + + Eab14Q8hmzPJqBNcJiIRKSFvyjt2 / / 63SXGHFgY / A5LHomQGsJXgJNXHRrADYXc3R4EhLieS2QnSJ / mXXR0KvbuHE1n6NzMjExSY1NLc6OCto + + YWH3cbxE8zU1NZHXA83Pv4zR55 / VcAMAcRjNAIB5cvLiaQ2FQHWK / MW0XX5swNDQsEtsCwZw0Rvysg2TFrjq48f2Ot0hEqPCTe + + 5uD3Up3Cb585 / zWXRXf8vZnGPRgSy7eMLsIqBgevO7FYLbiZYUCA6Rf5iWtFmC9SVwMiNwZ0DNAxQfmwrq6MdFa / zg00tnl4Q8hcpmgZ1PNMDj14Qg0USgpJHz43C + + + + + 4MUTQXiFeKZEYHqFHEt2tzG9R6SFV tDVx7UXLvQoq4FBiqYBnaCszBRl5kqgOkWoO5EV + + RoqnASzoAb0mp03dB7potPBoV4aJTBMTDTb0XhFBaiDpP / 6IN5g25Q9l0LSOiAhzeSLiEbOn / KEMssrY2HlsmXoW7Ql9S5OYGmlpFkSKZkGkaBZEimY5iP4HbwaK8sfNCowAAAAASUVORK5CYII = "> </ p>
+<p> = ការចំណាយលើកម្រិតអប់រំ <em> n </em> ជាភាគរយនៃការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>
+<p> = ការចំណាយទូទៅរបស់រដ្ឋាភិបាលសរុបទៅលើកម្រិតអប់រំ <em> n </em> ក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em>
+<p> = ការចំណាយសរុបរបស់រដ្ឋាភិបាលក្នុងឆ្នាំហិរញ្ញវត្ថុ <em> ធីតា </em> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការវិភាគនៃសូចនាករនេះផ្តល់នូវការប៉ាន់ស្មានពីភាពក្រីក្រលើកុមារដោយផ្អែកលើការវិភាគភាពក្រីក្ររបស់ធនាគារពិភពលោកក្នុងការស្ទង់មតិសង្គមនិងសេដ្ឋកិច្ចកម្ពុជាឆ្នាំ ២០០៩ ។ យើងបង្ហាញពីរបៀបដែលភាពក្រីក្ររបស់ប្រជាជនសរុបប្រៀបធៀបទៅនឹងភាពក្រីក្ររបស់កុមារ (សម្រាប់អ្នកដែលមានអាយុក្រោម ១៧ ឆ្នាំ) ហើយបន្ទាប់មកផ្តល់នូវទម្រង់នៃភាពក្រីក្រដល់កុមារក្រីក្រ។ លើសពីនេះទៀតយើងបង្ហាញពីចំនួនកុមារត្រួតលើគ្នាយោងទៅតាមស្ថានភាពភាពក្រីក្រនិងស្ថានភាពខ្វះខាត - ដូចដែលបានបង្ហាញនៅក្នុងទម្រង់របស់អង្គការយូនីសេហ្វកម្ពុជាឆ្នាំ ២០១២ ស្តីពីភាពក្រីក្ររបស់កុមារដោយប្រើវិធានការដកហូត។ [៥៣៨]
+[៥៤៣] ប្រវត្ដិរូបរបស់យើងត្រូវបានអនុវត្តជាមួយនឹងការវិភាគស្ថានការណ៍ហើយយើងក៏បានបង្ហាញបន្ថែមនូវការតំរែតំរង់ជាច្រើននៃហានិភ័យនៃភាពក្រីក្ររបស់កុមារដែលបង្ហាញនូវការជាប់ទាក់ទងគ្នារវាងកត្តាភូមិសាស្ត្រគ្រួសារនិងសេដ្ឋកិច្ចដែលអាចជូនដំណឹងដល់ការពិភាក្សាអំពីកត្តាកំណត់។ នៃសុខុមាលភាពកុមារនិងជាពិសេសលើ“ របាំងហិរញ្ញវត្ថុ” ។ [៩០៤]
+[៩០៩] ការវិភាគស៊ីជម្រៅបន្ថែមទៀតនៃទំនាក់ទំនងរវាងភាពក្រីក្ររូបិយវត្ថុនិងការដកហូតកុមារមាននៅក្នុងក្រដាសអមដែលមានការរុករកកាន់តែច្រើននៅក្នុងធម្មជាតិដើម្បីពិនិត្យមើលទំនាក់ទំនងរវាងភាពក្រីក្រនិងកំរិតការប្រើប្រាស់ខាងក្រោមនិងនៅខាងលើបន្ទាត់ភាពក្រីក្រ។ ។ [១១៩៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> NIS បានសំរេចចិត្តប្រើវិធីសាស្ត្រស្ថិតិ (ការវាស់ស្ទង់) ដើម្បីសម្រេចបាននូវការប្រៀបធៀបល្អប្រសើរជាងមុនរវាងជុំផ្សេងៗគ្នានៃការស្ទង់មតិអេសស៊ីអេសដោយកែសំរួលគំរូទៅនឹងទំហំប្រជាជននិងរចនាសម្ព័ន្ធដែលត្រូវបានបង្កើតឡើងដោយជំរឿនប្រជាជនថ្នាក់ជាតិដែលបានអនុវត្តក្នុងឆ្នាំ ២០០៨ ។ ការផ្លាស់ប្តូរប្រជាជនយ៉ាងឆាប់រហ័សវាចាំបាច់បង្ហាញគម្រោងប្រជាជនឆ្ពោះទៅឆ្នាំ ២០១៧ និងថយក្រោយដល់ឆ្នាំ ១៩៩៣ ដោយគិតគូរពីការមានកូនអត្រាមរណភាពនិងអត្រាការធ្វើចំណាកស្រុកខាងក្នុង។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដំបូងទិន្នន័យនេះត្រូវបានបញ្ចូលដោយសេដ្ឋវិទូក្រីក្រដែលត្រូវបានត្រួតពិនិត្យដោយយកចិត្តទុកដាក់រួមជាមួយព័ត៌មានមេតាតាតាដោយក្រុមកណ្តាលសម្រាប់តាមដានអេសឌីជី ១.២.២ នៅក្នុងធនាគារពិភពលោក។ បន្ទាប់មកទិន្នន័យត្រូវបានផ្ញើទៅ UNDP និង UNICEF សម្រាប់ការបញ្ជាក់បន្ថែម។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> តាមកម្រិតនៃការអប់រំថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ថ្នាក់ខេត្ត) [៧០]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

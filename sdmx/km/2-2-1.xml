@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-25T19:20:53.960Z</mes:Prepared>
+    <mes:Prepared>2021-05-25T21:56:16.928Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="5746bd89-40db-40af-a8ec-53b420ace370">
+  <mes:MetadataSet structureRef="MDS1" setID="fa1d2f33-1ee2-4b0f-babf-a130b497460a">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -54,87 +54,97 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅទី ២៖ បញ្ចប់ភាពអត់ឃ្លាន, ទទួលបានសន្តិសុខស្បៀងនិងការលើកកម្ពស់អាហារូបត្ថម្ភនិងលើកកម្ពស់កសិកម្មប្រកបដោយចីរភាព [១០៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ២,២: នៅឆ្នាំ ២០៣០ បញ្ចប់កង្វះអាហារូបត្ថម្ភគ្រប់ទម្រង់ទាំងអស់រួមទាំងការសម្រេចគោលដៅអន្តរជាតិស្តីពីភាពក្រិននិងការខ្ជះខ្ជាយចំពោះកុមារអាយុក្រោម ៥ ឆ្នាំនិងដោះស្រាយតម្រូវការអាហារូបត្ថម្ភរបស់ក្មេងស្រីវ័យជំទង់មានផ្ទៃពោះនិងស្ត្រីបំបៅកូននិងមនុស្សចាស់។ [២៧៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ២.២.១៖ អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្ពស់សម្រាប់អាយុ dev -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារលូតលាស់របស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ២.២.១ កុមារ (មានចំនួនតិចឬក្រិនធ្ងន់ធ្ងរ) [២.២.១] (SH_STA_STNTN) [៨០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ផាន់ចិន្តា (លោក) [១៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អគ្គនាយករង </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> phanchinda@yahoo.com [២៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្រិតអាយុសម្រាប់អាយុ -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ [១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៨៣៩] http://nada.nis.gov .kh / index.php / ផ្ទះ [១៩២៤] [១៩២៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិជុំបន្ទាប់៖ Quater3, ២០២១ [៣៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការលូតលាស់របស់កុមារគឺជាលទ្ធផលទទួលយកជាអន្តរជាតិដែលឆ្លុះបញ្ចាំងពីស្ថានភាពអាហារូបត្ថម្ភរបស់កុមារ។ ភាពក្រិនរបស់កុមារសំដៅទៅលើកុមារដែលមានអាយុខ្លីពេកសម្រាប់អាយុរបស់ពួកគេហើយជាលទ្ធផលនៃកង្វះអាហារូបត្ថម្ភរ៉ាំរ៉ៃឬកើតឡើងវិញ។ ភាពក្រិនគឺជាកត្តាហានិភ័យរួមចំណែកដល់អត្រាមរណភាពកុមារហើយក៏ជាសញ្ញាណនៃវិសមភាពក្នុងការអភិវឌ្ឍមនុស្សផងដែរ។ កុមារក្រិនមិនបានឈានដល់សក្តានុពលរាងកាយនិងការយល់ដឹងរបស់ពួកគេទេ។ ភាពក្រិនរបស់កុមារគឺជាសូចនាករមួយក្នុងចំណោមសូចនាករគោលដៅអាហារូបត្ថម្ភរបស់អង្គការសុខភាពពិភពលោក។ [៤៨៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការប៉ាន់ស្មាននៃការស្ទង់មតិគឺផ្អែកលើវិធីសាស្រ្តដែលមានលក្ខណៈស្តង់ដារដោយប្រើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក។ [៩៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្តាយ (ទីក្រុង / ជនបទ) និងតាមការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិធីសាស្រ្តវិភាគស្តង់ដារដើម្បីកសាងសំណុំទិន្នន័យរួមមានគោលបំណងសម្រាប់ការប្រៀបធៀបអតិបរិមានៃការប៉ាន់ស្មានរបស់ប្រទេស។ ចំពោះការដាក់បញ្ចូលការប៉ាន់ស្មាននៃការស្ទង់មតិទៅក្នុងសំណុំទិន្នន័យ JME ក្រុមអន្តរទីភ្នាក់ងារអនុវត្តលក្ខណៈវិនិច្ឆ័យវាយតម្លៃគុណភាពស្ទង់មតិ។ នៅពេលមានឯកសារមិនគ្រប់គ្រាន់ការស្ទង់មតិមិនត្រូវបានរាប់បញ្ចូលទេរហូតដល់មានព័ត៌មាន។ នៅពេលមានទិន្នន័យឆៅហើយមានសំណួរអំពីវិធីសាស្រ្តវិភាគការវិភាគទិន្នន័យត្រូវបានអនុវត្តតាមវិធីសាស្ត្រស្តង់ដារ។ ភាពខុសគ្នារវាងលទ្ធផលពីវិធីសាស្រ្តស្តង់ដារនិងរបាយការណ៍ដែលបានរាយការណ៍អាចកើតឡើងដោយហេតុផលផ្សេងៗឧទាហរណ៍ការប្រើស្តង់ដារផ្សេងៗគ្នាសម្រាប់ការគណនាពិន្ទុ Z ការកាត់ទោសថ្ងៃកំណើតនៅពេលបាត់ការប្រើអាយុមូលក្នុងខែការប្រើប្រាស់ខុសៗគ្នា។ ប្រព័ន្ធដាក់ទង់សម្រាប់ការដកទិន្នន័យ។ សម្រាប់ការស្ទង់មតិផ្អែកលើឯកសារយោង NCHS / WHO ពីមុននិងសម្រាប់ទិន្នន័យដើមមិនអាចរកបានវិធីសាស្រ្តនៃការបំលែងពិន្ទុ Z ដោយផ្អែកលើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោកត្រូវបានអនុវត្ត (យ៉ង់និងដឺអូស៊ីសឆ្នាំ ២០០៨) លើសពីនេះទៀតនៅពេលដែលការស្ទង់មតិមិនគ្របដណ្តប់លើចន្លោះអាយុ ០- <៥ ឆ្នាំឬគ្រាន់តែជាតំណាងតំបន់ជនបទការកែសំរួលផ្អែកលើការស្ទង់មតិផ្សេងទៀតសម្រាប់ប្រទេសតែមួយត្រូវបានអនុវត្ត។ ការកែសំរួលឬបំលែងណាមួយត្រូវបានបញ្ជាក់ដោយតម្លាភាពនៅក្នុងសំណុំទិន្នន័យរួមដែលបានពន្យល់។ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="c03fdcb1-6543-42ed-8194-0ab542ab4ba2">
+  <mes:MetadataSet structureRef="MDS1" setID="beed0b30-001f-42a1-b7ad-6b4d2c3e0d00">
     <com:Name xml:lang="km">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -159,7 +169,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការិយាល័យស្ថិតិប្រជាសាស្ត្រនិងប្រជាជនអង្កេត [៥៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="km"/>
@@ -177,82 +187,92 @@
           <com:Text xml:lang="km"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> គោលដៅទី ២៖ បញ្ចប់ភាពអត់ឃ្លាន, ទទួលបានសន្តិសុខស្បៀងនិងការលើកកម្ពស់អាហារូបត្ថម្ភនិងលើកកម្ពស់កសិកម្មប្រកបដោយចីរភាព [១០៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] ២,២: នៅឆ្នាំ ២០៣០ បញ្ចប់កង្វះអាហារូបត្ថម្ភគ្រប់ទម្រង់ទាំងអស់រួមទាំងការសម្រេចគោលដៅអន្តរជាតិស្តីពីភាពក្រិននិងការខ្ជះខ្ជាយចំពោះកុមារអាយុក្រោម ៥ ឆ្នាំនិងដោះស្រាយតម្រូវការអាហារូបត្ថម្ភរបស់ក្មេងស្រីវ័យជំទង់មានផ្ទៃពោះនិងស្ត្រីបំបៅកូននិងមនុស្សចាស់។ [២៧៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ២.២.១៖ អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្ពស់សម្រាប់អាយុ dev -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារលូតលាស់របស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ២.២.១ កុមារ (មានចំនួនតិចឬក្រិនធ្ងន់ធ្ងរ) [២.២.១] (SH_STA_STNTN) [៨០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ខែវិច្ឆិកាឆ្នាំ ២០២០ [១៦]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានជាតិស្ថិតិ (NIS) ក្រសួងផែនការ [៦៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ផាន់ចិន្តា (លោក) [១៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អគ្គនាយករង </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] +៨៥៥ ០១២ ៨៦៧ ៥៨១ [១៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទេ។ ផ្លូវ ៣៨៦ ៣៦០ សង្កាត់បឹងកេងកង ១ ខណ្ឌចំការមនរាជធានីភ្នំពេញប្រទេសកម្ពុជា [៨៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> phanchinda@yahoo.com [២៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> អត្រាប្រេវ៉ាឡង់នៃភាពក្រិន (កម្រិតអាយុសម្រាប់អាយុ -២ គម្លាតគំរូពីកម្រិតមធ្យមនៃស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក) ក្នុងចំណោមកុមារអាយុក្រោម ៥ ឆ្នាំ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ភាគរយ [១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិប្រជាសាស្ត្រនិងសុខភាពកម្ពុជា (CDHS) [៤៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> CDHS ត្រូវបានធ្វើឡើងនៅឆ្នាំ ២០០០ ២០០៥ ២០០៥ និង ២០១០។ មុនពេល CDHS ការស្ទង់មតិស្រដៀងគ្នាដែលគេហៅថាការស្ទង់មតិប្រជាសាស្ត្រឆ្នាំ ១៩៩៦ ក៏ត្រូវបានធ្វើឡើងដោយ NIS ហើយបន្ទាប់មកដោយការស្ទង់មតិសុខភាពជាតិឆ្នាំ ១៩៩៨ ធ្វើឡើងដោយក្រសួងសុខាភិបាល។ [២៣០]
+[២៣៥] CDHS គឺជាការស្ទង់មតិក្នុងគ្រួសារថ្នាក់ជាតិដែលគ្របដណ្ដប់លើវិស័យជាច្រើនដែលទាក់ទងនឹងស្ថានភាពប្រជាសាស្ត្រនិងសុខភាពនៅក្នុងប្រជាជន។ វារួមបញ្ចូលព័ត៌មានអំពីប្រជាសាស្ត្រផែនការគ្រួសារមរណភាពទារកនិងកុមារអំពើហឹង្សាក្នុងគ្រួសារនិងព័ត៌មានទាក់ទងនឹងសុខភាពដូចជាការបំបៅកូនដោយទឹកដោះម្តាយការថែទាំមុនពេលមានផ្ទៃពោះការចាក់ថ្នាំបង្ការរោគរបស់កុមារជំងឺកុមារនិងអេដស៍។ ដូចគ្នានេះផងដែរកម្រងសំណួរត្រូវបានបង្កើតឡើងដើម្បីវាយតម្លៃស្ថានភាពអាហារូបត្ថម្ភរបស់ម្តាយនិងកូននិងដើម្បីវាស់អត្រាប្រេវ៉ាឡង់នៃភាពស្លេកស្លាំង។ [៧៣៦]
+[៧៤១] ការស្ទង់មតិនេះគ្របដណ្តប់លើគំរូចំនួន ១៥,០០០ បូកនឹងគ្រួសារ។ ស្ត្រីទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគ្រួសារទាំងនេះនិងបុរសទាំងអស់ដែលមានអាយុពី ១៥-៤៩ ឆ្នាំនៅក្នុងគំរូរងនៃពាក់កណ្តាលនៃគ្រួសារមានសិទ្ធិទទួលការសម្ភាសន៍ជាលក្ខណៈបុគ្គល។ កម្រងសំណួរត្រូវបានធ្វើឡើងជាបីផ្នែកសម្រាប់គ្រួសារស្ត្រីនិងបុរសក្នុងគ្រួសារដែលបំពេញបន្ថែមដោយការប្រមូលឈាមសម្រាប់ការធ្វើតេស្តរកមេរោគអេដស៍និងអេម៉ូក្លូប៊ីន។ [១១១១]
+[១១១៦] ទិន្នន័យរបស់ CDHS ត្រូវបានប្រមូលដោយក្រុមចំនួន ១៧ ដែលក្រុមនីមួយៗរួមមានអ្នកមើលការខុសត្រូវក្រុមអ្នកកែសម្រួលវាលនិងអ្នកសំភាសន៍ជាស្ត្រីបួននាក់។ ក្រុមនីមួយៗទទួលបន្ទុកប្រមូលទិន្នន័យនៅក្នុងខេត្តមួយឬខេត្តមួយក្រុម។ ការសម្របសម្រួលនិងការត្រួតពិនិត្យសកម្មភាពសម្ភាសន៍ត្រូវបានធ្វើឡើងដោយអ្នកសម្របសម្រួលការស្ទង់មតិចំនួន ៤ នាក់និងបុគ្គលិកត្រួតពិនិត្យចំនួន ៤ នាក់មកពីវិទ្យាស្ថានស្ថិតិជាតិនិងក្រសួងសុខាភិបាល។ ការប្រមូលទិន្នន័យបានធ្វើឡើងក្នុងរយៈពេលប្រាំមួយខែចាប់ពីខែកុម្ភៈដល់ខែកក្កដាក្នុងឆ្នាំនៃការស្ទង់មតិ។
+[១៦៣៣] ឯកសារលម្អិតនៃការស្ទង់មតិដូចជាកម្រងសំណួរដែលបានដាក់របាយការណ៍ប្រតិបត្ដិប្រចាំឆ្នាំនិងបច្ចេកទេសស្តីពីការរចនានិងការអនុវត្តការស្ទង់មតិត្រូវបានរក្សាទុកនៅក្នុង NADA (ប័ណ្ណសារទិន្នន័យជាតិ) គេហទំព័រ NIS៖ [១៨៣៩] http://nada.nis.gov .kh / index.php / ផ្ទះ [១៩២៤] [១៩២៨]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការស្ទង់មតិជុំបន្ទាប់៖ Quater3, ២០២១ [៣៩]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> មួយឆ្នាំបន្ទាប់ពីរយៈពេលយោងនៃការស្ទង់មតិ [៥២]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិទ្យាស្ថានស្ថិតិជាតិ [៣៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ដោយគុណធម៌នៃមាត្រា ១២ នៃច្បាប់ស្ថិតិ NIS ទទួលខុសត្រូវចំពោះ៖ [៧៦]
+[៨១]
+  [៨៨] ការប្រមូលដំណើរការចងក្រងការវិភាគបោះពុម្ពផ្សាយនិងផ្សព្វផ្សាយទិន្នន័យមូលដ្ឋានដោយការធ្វើជំរឿននិងការស្ទង់មតិនិងការប្រើប្រាស់ប្រភពទិន្នន័យរដ្ឋបាល [២៥៦]
+  [២៦៤] ចងក្រងគណនីជាតិនិងសន្ទស្សន៍តម្លៃក៏ដូចជាសូចនាករសេដ្ឋកិច្ចបរិស្ថាននិងសង្គមប្រជាសាស្ត្រ។ [៣៨២]
+  [៣៩០] ការសំរបសំរួលជាមួយក្រសួងពាក់ព័ន្ធជាអ្នកផលិតទិន្នន័យតាមច្បាប់ស្ថិតិ។ និង [៤៨៤]
+  [៤៩២] មុខងារជាឃ្លាំងសំខាន់នៃសូចនាករស៊ី។ ឌី។ ជី។ អេ។ អេស។ ជ។ អ / អេស។ ជី។ [៥៥៧]
+[៥៦៣]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការលូតលាស់របស់កុមារគឺជាលទ្ធផលទទួលយកជាអន្តរជាតិដែលឆ្លុះបញ្ចាំងពីស្ថានភាពអាហារូបត្ថម្ភរបស់កុមារ។ ភាពក្រិនរបស់កុមារសំដៅទៅលើកុមារដែលមានអាយុខ្លីពេកសម្រាប់អាយុរបស់ពួកគេហើយជាលទ្ធផលនៃកង្វះអាហារូបត្ថម្ភរ៉ាំរ៉ៃឬកើតឡើងវិញ។ ភាពក្រិនគឺជាកត្តាហានិភ័យរួមចំណែកដល់អត្រាមរណភាពកុមារហើយក៏ជាសញ្ញាណនៃវិសមភាពក្នុងការអភិវឌ្ឍមនុស្សផងដែរ។ កុមារក្រិនមិនបានឈានដល់សក្តានុពលរាងកាយនិងការយល់ដឹងរបស់ពួកគេទេ។ ភាពក្រិនរបស់កុមារគឺជាសូចនាករមួយក្នុងចំណោមសូចនាករគោលដៅអាហារូបត្ថម្ភរបស់អង្គការសុខភាពពិភពលោក។ [៤៨៤]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការប៉ាន់ស្មានការស្ទង់មតិកើតឡើងជាមួយកម្រិតនៃភាពមិនប្រាកដប្រជាដោយសារតែកំហុសគំរូនិងកំហុសមិនយកគំរូ (ឧទាហរណ៍កំហុសបច្ចេកទេសវាស់កំហុសកត់ត្រាជាដើម) ។ គ្មានប្រភពណាមួយនៃអ័ររ៉ូសត្រូវបានគេគិតគូរទាំងស្រុងសម្រាប់ការប៉ាន់ស្មានដែលទទួលបានទាំងនៅក្នុងប្រទេសនិងនៅថ្នាក់តំបន់និងពិភពលោកឡើយ។]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ការប៉ាន់ស្មាននៃការស្ទង់មតិគឺផ្អែកលើវិធីសាស្រ្តដែលមានលក្ខណៈស្តង់ដារដោយប្រើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោក។ [៩៥]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> ទិន្នន័យអាចរកបានតាមក្រុមអាយុភេទទ្រព្យសម្បត្តិទីតាំងភូមិសាស្ត្រអប់រំរបស់ម្តាយ (ទីក្រុង / ជនបទ) និងតាមការប៉ាន់ស្មានថ្នាក់ជាតិនិងថ្នាក់ក្រោមជាតិ (ឧ។ ភេទក្រុមអាយុទ្រព្យសម្បត្តិការអប់រំរបស់ម្តាយទីលំនៅ) ។ [២១០]]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[<p> វិធីសាស្រ្តវិភាគស្តង់ដារដើម្បីកសាងសំណុំទិន្នន័យរួមមានគោលបំណងសម្រាប់ការប្រៀបធៀបអតិបរិមានៃការប៉ាន់ស្មានរបស់ប្រទេស។ ចំពោះការដាក់បញ្ចូលការប៉ាន់ស្មាននៃការស្ទង់មតិទៅក្នុងសំណុំទិន្នន័យ JME ក្រុមអន្តរទីភ្នាក់ងារអនុវត្តលក្ខណៈវិនិច្ឆ័យវាយតម្លៃគុណភាពស្ទង់មតិ។ នៅពេលមានឯកសារមិនគ្រប់គ្រាន់ការស្ទង់មតិមិនត្រូវបានរាប់បញ្ចូលទេរហូតដល់មានព័ត៌មាន។ នៅពេលមានទិន្នន័យឆៅហើយមានសំណួរអំពីវិធីសាស្រ្តវិភាគការវិភាគទិន្នន័យត្រូវបានអនុវត្តតាមវិធីសាស្ត្រស្តង់ដារ។ ភាពខុសគ្នារវាងលទ្ធផលពីវិធីសាស្រ្តស្តង់ដារនិងរបាយការណ៍ដែលបានរាយការណ៍អាចកើតឡើងដោយហេតុផលផ្សេងៗឧទាហរណ៍ការប្រើស្តង់ដារផ្សេងៗគ្នាសម្រាប់ការគណនាពិន្ទុ Z ការកាត់ទោសថ្ងៃកំណើតនៅពេលបាត់ការប្រើអាយុមូលក្នុងខែការប្រើប្រាស់ខុសៗគ្នា។ ប្រព័ន្ធដាក់ទង់សម្រាប់ការដកទិន្នន័យ។ សម្រាប់ការស្ទង់មតិផ្អែកលើឯកសារយោង NCHS / WHO ពីមុននិងសម្រាប់ទិន្នន័យដើមមិនអាចរកបានវិធីសាស្រ្តនៃការបំលែងពិន្ទុ Z ដោយផ្អែកលើស្តង់ដារកំណើនកុមាររបស់អង្គការសុខភាពពិភពលោកត្រូវបានអនុវត្ត (យ៉ង់និងដឺអូស៊ីសឆ្នាំ ២០០៨) លើសពីនេះទៀតនៅពេលដែលការស្ទង់មតិមិនគ្របដណ្តប់លើចន្លោះអាយុ ០- <៥ ឆ្នាំឬគ្រាន់តែជាតំណាងតំបន់ជនបទការកែសំរួលផ្អែកលើការស្ទង់មតិផ្សេងទៀតសម្រាប់ប្រទេសតែមួយត្រូវបានអនុវត្ត។ ការកែសំរួលឬបំលែងណាមួយត្រូវបានបញ្ជាក់ដោយតម្លាភាពនៅក្នុងសំណុំទិន្នន័យរួមដែលបានពន្យល់។ </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="km"/>
+          <com:Text xml:lang="km"><![CDATA[[០] របាយការណ៍អង្កេតប្រជាសាស្ត្រនិងសុខភាពប្រជាជនកម្ពុជា៖ [៥០] https://dhsprogram.com/Countries/Country-Main.cfm?ctry_id=6 [១៧៩] [១៨៣]]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
